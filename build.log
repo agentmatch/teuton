@@ -1,0 +1,11 @@
+
+> luxor-metals@1.0.0 build
+> next build
+
+   ▲ Next.js 15.3.2
+   - Environments: .env.local
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 105s
+   Linting and checking validity of types ...
+ ⨯ ESLint must be installed in order to run during builds: npm install --save-dev eslint

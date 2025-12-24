@@ -1,0 +1,6980 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.1500479676,
+              56.2626998638
+            ],
+            [
+              -130.166190907,
+              56.2627009279
+            ],
+            [
+              -130.1661911148,
+              56.2537169087
+            ],
+            [
+              -130.1571018607,
+              56.2537165448
+            ],
+            [
+              -130.1571019245,
+              56.254705314
+            ],
+            [
+              -130.1500506918,
+              56.2547050976
+            ],
+            [
+              -130.1500503112,
+              56.2557409027
+            ],
+            [
+              -130.1500479676,
+              56.2626998638
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 251128,
+        "CLAIM_NAME": "TENNYSON 2",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MC4",
+        "TITLE_TYPE_DESCRIPTION": "Four Post Claim",
+        "ISSUE_DATE": "19830927",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 100,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": "92879",
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 21,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 9,
+        "REDUCTION_EVENT_COUNT": 1,
+        "ENTRY_TIMESTAMP": "20040930123259",
+        "ENTRY_USERID": "MIDA_LOAD",
+        "UPDATE_TIMESTAMP": "20040930123259",
+        "UPDATE_USERID": "MIDA_LOAD",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41621986,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 952601.4462,
+        "FEATURE_LENGTH_M": 4001.4255,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.150045825,
+              56.2692167536
+            ],
+            [
+              -130.1500449629,
+              56.2716837079
+            ],
+            [
+              -130.1661907969,
+              56.2716848342
+            ],
+            [
+              -130.1661916689,
+              56.2716848057
+            ],
+            [
+              -130.166190907,
+              56.2627009279
+            ],
+            [
+              -130.1500479676,
+              56.2626998638
+            ],
+            [
+              -130.150045825,
+              56.2692167536
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 251127,
+        "CLAIM_NAME": "TENNYSON 1",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MC4",
+        "TITLE_TYPE_DESCRIPTION": "Four Post Claim",
+        "ISSUE_DATE": "19830927",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 100,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": "92878",
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 21,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 9,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20040930123259",
+        "ENTRY_USERID": "MIDA_LOAD",
+        "UPDATE_TIMESTAMP": "20040930123259",
+        "UPDATE_USERID": "MIDA_LOAD",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41621985,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 1000683.0684,
+        "FEATURE_LENGTH_M": 4001.3749,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.0805921613,
+              56.3009999033
+            ],
+            [
+              -130.0805921379,
+              56.3016616836
+            ],
+            [
+              -130.1129103216,
+              56.3016572487
+            ],
+            [
+              -130.1129096399,
+              56.3009302166
+            ],
+            [
+              -130.1129087206,
+              56.2999998368
+            ],
+            [
+              -130.1128959366,
+              56.2863338125
+            ],
+            [
+              -130.112893455,
+              56.2836894426
+            ],
+            [
+              -130.1058167326,
+              56.2836911091
+            ],
+            [
+              -130.1058126827,
+              56.2836911316
+            ],
+            [
+              -130.1058211913,
+              56.2875181614
+            ],
+            [
+              -130.0805906071,
+              56.2875240629
+            ],
+            [
+              -130.0805921114,
+              56.2999998846
+            ],
+            [
+              -130.0805921613,
+              56.3009999033
+            ]
+          ],
+          [
+            [
+              -130.1115075392,
+              56.2947663874
+            ],
+            [
+              -130.1078340114,
+              56.298329841
+            ],
+            [
+              -130.1014253088,
+              56.2962867798
+            ],
+            [
+              -130.105099244,
+              56.2927235129
+            ],
+            [
+              -130.1115075392,
+              56.2947663874
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 250846,
+        "CLAIM_NAME": "CATSPAW",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MC4",
+        "TITLE_TYPE_DESCRIPTION": "Four Post Claim",
+        "ISSUE_DATE": "19800109",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 400,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": "48273",
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 2,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 13,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 6,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20040930123259",
+        "ENTRY_USERID": "MIDA_LOAD",
+        "UPDATE_TIMESTAMP": "20040930123259",
+        "UPDATE_USERID": "MIDA_LOAD",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41622156,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 3127502.3042,
+        "FEATURE_LENGTH_M": 9832.1708,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.1332634036,
+              56.3039685302
+            ],
+            [
+              -130.1332630946,
+              56.2998018085
+            ],
+            [
+              -130.1270127872,
+              56.2998016713
+            ],
+            [
+              -130.120762464,
+              56.2998018485
+            ],
+            [
+              -130.1145121398,
+              56.2998017113
+            ],
+            [
+              -130.1145124988,
+              56.3039684389
+            ],
+            [
+              -130.1145128568,
+              56.3081351651
+            ],
+            [
+              -130.1145131988,
+              56.3123018995
+            ],
+            [
+              -130.1145135543,
+              56.3164686141
+            ],
+            [
+              -130.1207638104,
+              56.3164687314
+            ],
+            [
+              -130.1270140656,
+              56.3164685345
+            ],
+            [
+              -130.1332643222,
+              56.3164686605
+            ],
+            [
+              -130.1332640007,
+              56.3123019522
+            ],
+            [
+              -130.1332636936,
+              56.3081352332
+            ],
+            [
+              -130.1332634036,
+              56.3039685302
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 508899,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050314113426",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 215.384,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 1,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 16,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 6,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050314113502",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050314113502",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41626041,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 2153842.5118,
+        "FEATURE_LENGTH_M": 6035.9,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.1645147075,
+              56.2998015364
+            ],
+            [
+              -130.1582643852,
+              56.2998017152
+            ],
+            [
+              -130.1520140792,
+              56.299801588
+            ],
+            [
+              -130.1457637406,
+              56.2998017669
+            ],
+            [
+              -130.1395134173,
+              56.2998016307
+            ],
+            [
+              -130.1332630946,
+              56.2998018085
+            ],
+            [
+              -130.1332634036,
+              56.3039685302
+            ],
+            [
+              -130.1395136921,
+              56.3039683392
+            ],
+            [
+              -130.1457640146,
+              56.30396847
+            ],
+            [
+              -130.15201432,
+              56.3039682869
+            ],
+            [
+              -130.1582646262,
+              56.3039684177
+            ],
+            [
+              -130.1645149162,
+              56.3039682436
+            ],
+            [
+              -130.1707651474,
+              56.3039684303
+            ],
+            [
+              -130.1707649395,
+              56.2998017283
+            ],
+            [
+              -130.1645147075,
+              56.2998015364
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 889698,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20110816100203",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 107.7095,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 3,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 9,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 8,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20110816100307",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20110816100307",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41634823,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 1077095.1981,
+        "FEATURE_LENGTH_M": 5562.8332,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.1707653534,
+              56.3081351219
+            ],
+            [
+              -130.1707651474,
+              56.3039684303
+            ],
+            [
+              -130.1645149162,
+              56.3039682436
+            ],
+            [
+              -130.1582646262,
+              56.3039684177
+            ],
+            [
+              -130.15201432,
+              56.3039682869
+            ],
+            [
+              -130.1457640146,
+              56.30396847
+            ],
+            [
+              -130.1395136921,
+              56.3039683392
+            ],
+            [
+              -130.1332634036,
+              56.3039685302
+            ],
+            [
+              -130.1332636936,
+              56.3081352332
+            ],
+            [
+              -130.1332640007,
+              56.3123019522
+            ],
+            [
+              -130.1332643222,
+              56.3164686605
+            ],
+            [
+              -130.1395145617,
+              56.3164684727
+            ],
+            [
+              -130.1457648018,
+              56.3164685989
+            ],
+            [
+              -130.1520150713,
+              56.316468392
+            ],
+            [
+              -130.1582653122,
+              56.3164685269
+            ],
+            [
+              -130.1645155664,
+              56.3164683291
+            ],
+            [
+              -130.1707657646,
+              56.316468519
+            ],
+            [
+              -130.1707655585,
+              56.3123018122
+            ],
+            [
+              -130.1707653534,
+              56.3081351219
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 504858,
+        "CLAIM_NAME": "JIM - KM",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050126093150",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 323.057,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 1,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 19,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 7,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050126093209",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050126093209",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41625729,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 3230569.1742,
+        "FEATURE_LENGTH_M": 7421.7275,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.1207638104,
+              56.3164687314
+            ],
+            [
+              -130.1145135543,
+              56.3164686141
+            ],
+            [
+              -130.1082633145,
+              56.3164688103
+            ],
+            [
+              -130.1020130567,
+              56.3164686838
+            ],
+            [
+              -130.1020134462,
+              56.3206354161
+            ],
+            [
+              -130.108263687,
+              56.3206355376
+            ],
+            [
+              -130.1145138945,
+              56.3206353458
+            ],
+            [
+              -130.1207641337,
+              56.3206354582
+            ],
+            [
+              -130.1270143728,
+              56.3206352652
+            ],
+            [
+              -130.1270140656,
+              56.3164685345
+            ],
+            [
+              -130.1207638104,
+              56.3164687314
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 504863,
+        "CLAIM_NAME": "FRANK - KM",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050126100758",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 71.775,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 1,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 14,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 7,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050126100852",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050126100852",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41625730,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 717750.3765,
+        "FEATURE_LENGTH_M": 4017.1979,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.1770161633,
+              56.3206350682
+            ],
+            [
+              -130.1770159761,
+              56.3164683763
+            ],
+            [
+              -130.1707657646,
+              56.316468519
+            ],
+            [
+              -130.1645155664,
+              56.3164683291
+            ],
+            [
+              -130.1582653122,
+              56.3164685269
+            ],
+            [
+              -130.1520150713,
+              56.316468392
+            ],
+            [
+              -130.1457648018,
+              56.3164685989
+            ],
+            [
+              -130.1395145617,
+              56.3164684727
+            ],
+            [
+              -130.1332643222,
+              56.3164686605
+            ],
+            [
+              -130.1270140656,
+              56.3164685345
+            ],
+            [
+              -130.1270143728,
+              56.3206352652
+            ],
+            [
+              -130.1207641337,
+              56.3206354582
+            ],
+            [
+              -130.1145138945,
+              56.3206353458
+            ],
+            [
+              -130.1145142653,
+              56.3248020663
+            ],
+            [
+              -130.11451462,
+              56.3289687949
+            ],
+            [
+              -130.1145149729,
+              56.3331355134
+            ],
+            [
+              -130.1145150641,
+              56.3373023737
+            ],
+            [
+              -130.1082648913,
+              56.3373025776
+            ],
+            [
+              -130.1020147176,
+              56.3373024673
+            ],
+            [
+              -130.0957645449,
+              56.3373026802
+            ],
+            [
+              -130.0895143541,
+              56.3373025705
+            ],
+            [
+              -130.0832641821,
+              56.3373028013
+            ],
+            [
+              -130.0832642727,
+              56.3414696526
+            ],
+            [
+              -130.0832643634,
+              56.3456365116
+            ],
+            [
+              -130.0832644531,
+              56.3498033695
+            ],
+            [
+              -130.0895146397,
+              56.3498031302
+            ],
+            [
+              -130.0957648137,
+              56.3498032414
+            ],
+            [
+              -130.102015002,
+              56.3498030292
+            ],
+            [
+              -130.1082651751,
+              56.3498031407
+            ],
+            [
+              -130.1145153463,
+              56.3498029293
+            ],
+            [
+              -130.1207655348,
+              56.3498030405
+            ],
+            [
+              -130.1270157052,
+              56.3498028293
+            ],
+            [
+              -130.1270156014,
+              56.345635975
+            ],
+            [
+              -130.1270155128,
+              56.341469119
+            ],
+            [
+              -130.1270154252,
+              56.3373022798
+            ],
+            [
+              -130.1332656129,
+              56.3373023807
+            ],
+            [
+              -130.1395157844,
+              56.337302177
+            ],
+            [
+              -130.1457659717,
+              56.337302278
+            ],
+            [
+              -130.1457658828,
+              56.3331354269
+            ],
+            [
+              -130.1395156947,
+              56.3331353206
+            ],
+            [
+              -130.139515409,
+              56.3289686128
+            ],
+            [
+              -130.1457656141,
+              56.328968724
+            ],
+            [
+              -130.1520158012,
+              56.3289685126
+            ],
+            [
+              -130.1582660063,
+              56.3289686238
+            ],
+            [
+              -130.1645161952,
+              56.3289684302
+            ],
+            [
+              -130.1707663898,
+              56.3289685955
+            ],
+            [
+              -130.1770165673,
+              56.3289684471
+            ],
+            [
+              -130.1770163648,
+              56.3248017494
+            ],
+            [
+              -130.1770161633,
+              56.3206350682
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 508807,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050311121252",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 1040.377,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 4,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 23,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 7,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050311121345",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050311121345",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41626020,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 10403766.5572,
+        "FEATURE_LENGTH_M": 19784.3127,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.3270212666,
+              56.3164702859
+            ],
+            [
+              -130.3270211694,
+              56.3123036064
+            ],
+            [
+              -130.3207708973,
+              56.3123036506
+            ],
+            [
+              -130.3145206415,
+              56.3123033889
+            ],
+            [
+              -130.3082703729,
+              56.3123034417
+            ],
+            [
+              -130.3020201195,
+              56.3123031797
+            ],
+            [
+              -130.2957698523,
+              56.3123032232
+            ],
+            [
+              -130.289519586,
+              56.3123029703
+            ],
+            [
+              -130.2895197159,
+              56.3164696309
+            ],
+            [
+              -130.2895198296,
+              56.3206362996
+            ],
+            [
+              -130.2895199575,
+              56.3248029576
+            ],
+            [
+              -130.2895200865,
+              56.3289696322
+            ],
+            [
+              -130.295770337,
+              56.3289699031
+            ],
+            [
+              -130.3020205552,
+              56.3289698699
+            ],
+            [
+              -130.3082707938,
+              56.3289701592
+            ],
+            [
+              -130.3145210305,
+              56.3289701253
+            ],
+            [
+              -130.3207712707,
+              56.3289704056
+            ],
+            [
+              -130.3270215099,
+              56.3289703717
+            ],
+            [
+              -130.3270214288,
+              56.3248036687
+            ],
+            [
+              -130.3270213486,
+              56.3206369824
+            ],
+            [
+              -130.3270212666,
+              56.3164702859
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 520257,
+        "CLAIM_NAME": "BIG GOLD 2",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050921121318",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 430.622,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 4,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 18,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 6,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050921121404",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050921121404",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41627685,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 4306223.7463,
+        "FEATURE_LENGTH_M": 8350.4004,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.3582725752,
+              56.3164705997
+            ],
+            [
+              -130.3582724906,
+              56.3123038698
+            ],
+            [
+              -130.352022223,
+              56.3123037259
+            ],
+            [
+              -130.3457719745,
+              56.3123038865
+            ],
+            [
+              -130.3395216927,
+              56.3123037338
+            ],
+            [
+              -130.3332714553,
+              56.312303822
+            ],
+            [
+              -130.3270211694,
+              56.3123036064
+            ],
+            [
+              -130.3270212666,
+              56.3164702859
+            ],
+            [
+              -130.3270213486,
+              56.3206369824
+            ],
+            [
+              -130.3270214288,
+              56.3248036687
+            ],
+            [
+              -130.3270215099,
+              56.3289703717
+            ],
+            [
+              -130.3332717487,
+              56.3289706161
+            ],
+            [
+              -130.3395219856,
+              56.3289705374
+            ],
+            [
+              -130.3457722689,
+              56.3289707175
+            ],
+            [
+              -130.352022535,
+              56.328970584
+            ],
+            [
+              -130.3582728042,
+              56.3289707556
+            ],
+            [
+              -130.3582727386,
+              56.3248040289
+            ],
+            [
+              -130.3582726569,
+              56.3206373105
+            ],
+            [
+              -130.3582725752,
+              56.3164705997
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 520248,
+        "CLAIM_NAME": "MACH 1",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050921104312",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 358.855,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 4,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 17,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 6,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050921104324",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050921104324",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41627681,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 3588548.4641,
+        "FEATURE_LENGTH_M": 7578.6621,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.3957742667,
+              56.3206373582
+            ],
+            [
+              -130.395774166,
+              56.3164706012
+            ],
+            [
+              -130.3895239033,
+              56.316470444
+            ],
+            [
+              -130.3895238028,
+              56.3123036996
+            ],
+            [
+              -130.3832735437,
+              56.3123038522
+            ],
+            [
+              -130.3770232695,
+              56.312303709
+            ],
+            [
+              -130.370773031,
+              56.3123038697
+            ],
+            [
+              -130.364522743,
+              56.3123037178
+            ],
+            [
+              -130.3582724906,
+              56.3123038698
+            ],
+            [
+              -130.3582725752,
+              56.3164705997
+            ],
+            [
+              -130.3582726569,
+              56.3206373105
+            ],
+            [
+              -130.3582727386,
+              56.3248040289
+            ],
+            [
+              -130.3582728042,
+              56.3289707556
+            ],
+            [
+              -130.3645230733,
+              56.3289706219
+            ],
+            [
+              -130.3707733618,
+              56.3289707929
+            ],
+            [
+              -130.377023617,
+              56.3289706508
+            ],
+            [
+              -130.3832738927,
+              56.3289708223
+            ],
+            [
+              -130.3895241675,
+              56.3289706796
+            ],
+            [
+              -130.3957744478,
+              56.3289708599
+            ],
+            [
+              -130.3957743502,
+              56.3248041144
+            ],
+            [
+              -130.3957742667,
+              56.3206373582
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 1015604,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20130101100110",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 412.6835,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 6,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 7,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20130101100121",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20130101100121",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41636029,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 4126835.3093,
+        "FEATURE_LENGTH_M": 8350.4239,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.2895198296,
+              56.3206362996
+            ],
+            [
+              -130.2895197159,
+              56.3164696309
+            ],
+            [
+              -130.2832694516,
+              56.3164696787
+            ],
+            [
+              -130.2770191854,
+              56.3164694032
+            ],
+            [
+              -130.2707689239,
+              56.3164694597
+            ],
+            [
+              -130.2645186768,
+              56.3164691924
+            ],
+            [
+              -130.2582684151,
+              56.3164692307
+            ],
+            [
+              -130.2582685777,
+              56.3206358855
+            ],
+            [
+              -130.2582687537,
+              56.3248025205
+            ],
+            [
+              -130.2582688973,
+              56.3289691642
+            ],
+            [
+              -130.2582690733,
+              56.3331358146
+            ],
+            [
+              -130.2582691527,
+              56.3373026286
+            ],
+            [
+              -130.2645193644,
+              56.337302595
+            ],
+            [
+              -130.270769595,
+              56.3373028751
+            ],
+            [
+              -130.2770198256,
+              56.33730285
+            ],
+            [
+              -130.2832700409,
+              56.3373031218
+            ],
+            [
+              -130.2895202724,
+              56.3373030878
+            ],
+            [
+              -130.2895202125,
+              56.3331362877
+            ],
+            [
+              -130.2895200865,
+              56.3289696322
+            ],
+            [
+              -130.2895199575,
+              56.3248029576
+            ],
+            [
+              -130.2895198296,
+              56.3206362996
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 535889,
+        "CLAIM_NAME": "ER2",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20060618191311",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 448.492,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 2,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 18,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 6,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20060618191333",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20060618191333",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41629230,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 4484919.9737,
+        "FEATURE_LENGTH_M": 8507.9496,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.327021588,
+              56.3331370555
+            ],
+            [
+              -130.3270215099,
+              56.3289703717
+            ],
+            [
+              -130.3207712707,
+              56.3289704056
+            ],
+            [
+              -130.3145210305,
+              56.3289701253
+            ],
+            [
+              -130.3082707938,
+              56.3289701592
+            ],
+            [
+              -130.3020205552,
+              56.3289698699
+            ],
+            [
+              -130.295770337,
+              56.3289699031
+            ],
+            [
+              -130.2895200865,
+              56.3289696322
+            ],
+            [
+              -130.2895202125,
+              56.3331362877
+            ],
+            [
+              -130.2895202724,
+              56.3373030878
+            ],
+            [
+              -130.2895203304,
+              56.3414698778
+            ],
+            [
+              -130.2895203722,
+              56.3456366761
+            ],
+            [
+              -130.295770606,
+              56.3456369561
+            ],
+            [
+              -130.3020208227,
+              56.3456369226
+            ],
+            [
+              -130.3082710417,
+              56.3456371944
+            ],
+            [
+              -130.3145212597,
+              56.3456371522
+            ],
+            [
+              -130.3207714802,
+              56.3456374152
+            ],
+            [
+              -130.3270216856,
+              56.3456373827
+            ],
+            [
+              -130.3270216642,
+              56.3414706018
+            ],
+            [
+              -130.3270216114,
+              56.3373038387
+            ],
+            [
+              -130.327021588,
+              56.3331370555
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 520254,
+        "CLAIM_NAME": "BIG GOLD 1",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050921113924",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 430.442,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 4,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 15,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 6,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050921113954",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050921113954",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41627684,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 4304423.6784,
+        "FEATURE_LENGTH_M": 8348.4557,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.183261993,
+              56.2373012641
+            ],
+            [
+              -130.1832616356,
+              56.2331344795
+            ],
+            [
+              -130.1770113927,
+              56.2331342324
+            ],
+            [
+              -130.1707610411,
+              56.2331343291
+            ],
+            [
+              -130.1645106876,
+              56.2331341019
+            ],
+            [
+              -130.1645110607,
+              56.2373008747
+            ],
+            [
+              -130.164511431,
+              56.2414676278
+            ],
+            [
+              -130.1645117872,
+              56.2456344066
+            ],
+            [
+              -130.1645121416,
+              56.2498011746
+            ],
+            [
+              -130.1707624795,
+              56.2498014172
+            ],
+            [
+              -130.1707621089,
+              56.2456346459
+            ],
+            [
+              -130.1707617687,
+              56.241467863
+            ],
+            [
+              -130.1770121055,
+              56.2414677832
+            ],
+            [
+              -130.1832623334,
+              56.2414680474
+            ],
+            [
+              -130.183261993,
+              56.2373012641
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 535941,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20060619121221",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 143.8483,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 1,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 2,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 18,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 9,
+        "REDUCTION_EVENT_COUNT": 1,
+        "ENTRY_TIMESTAMP": "20060619121226",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20090814182114",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41629252,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 1438482.6072,
+        "FEATURE_LENGTH_M": 6040.1679,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.1770127995,
+              56.2498013365
+            ],
+            [
+              -130.1707624795,
+              56.2498014172
+            ],
+            [
+              -130.1645121416,
+              56.2498011746
+            ],
+            [
+              -130.1645117872,
+              56.2456344066
+            ],
+            [
+              -130.164511431,
+              56.2414676278
+            ],
+            [
+              -130.1645110607,
+              56.2373008747
+            ],
+            [
+              -130.1645106876,
+              56.2331341019
+            ],
+            [
+              -130.1707610411,
+              56.2331343291
+            ],
+            [
+              -130.1707606831,
+              56.2289675502
+            ],
+            [
+              -130.170760309,
+              56.224800779
+            ],
+            [
+              -130.1645099568,
+              56.2248005681
+            ],
+            [
+              -130.1645103145,
+              56.2289673362
+            ],
+            [
+              -130.1582597724,
+              56.2289674681
+            ],
+            [
+              -130.152009199,
+              56.228967304
+            ],
+            [
+              -130.1520095878,
+              56.2331340619
+            ],
+            [
+              -130.1457590303,
+              56.233134198
+            ],
+            [
+              -130.1457594038,
+              56.2373009688
+            ],
+            [
+              -130.1457597926,
+              56.2414677374
+            ],
+            [
+              -130.1457601645,
+              56.2456345046
+            ],
+            [
+              -130.1457605354,
+              56.2498012702
+            ],
+            [
+              -130.1520110918,
+              56.2498011306
+            ],
+            [
+              -130.1520113263,
+              56.2539678396
+            ],
+            [
+              -130.1582618504,
+              56.2539680093
+            ],
+            [
+              -130.1645123583,
+              56.2539678736
+            ],
+            [
+              -130.1707626793,
+              56.2539681114
+            ],
+            [
+              -130.1770129985,
+              56.2539680256
+            ],
+            [
+              -130.1832632106,
+              56.2539683016
+            ],
+            [
+              -130.1832630125,
+              56.2498016177
+            ],
+            [
+              -130.1770127995,
+              56.2498013365
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 508799,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050311112924",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 377.587,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 4,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 20,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 9,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050311112957",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050311112957",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41626018,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 3775869.737,
+        "FEATURE_LENGTH_M": 11923.0421,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.4270180186,
+              56.1789653861
+            ],
+            [
+              -130.4270176878,
+              56.1747985255
+            ],
+            [
+              -130.4207682234,
+              56.1747989166
+            ],
+            [
+              -130.4145187589,
+              56.1747990014
+            ],
+            [
+              -130.4082684236,
+              56.1747990883
+            ],
+            [
+              -130.4020180702,
+              56.1747988515
+            ],
+            [
+              -130.3957677388,
+              56.1747989359
+            ],
+            [
+              -130.3895173892,
+              56.1747986966
+            ],
+            [
+              -130.3895176605,
+              56.1789655834
+            ],
+            [
+              -130.389517946,
+              56.1831324586
+            ],
+            [
+              -130.3895182316,
+              56.1872993406
+            ],
+            [
+              -130.3895185323,
+              56.1914662199
+            ],
+            [
+              -130.3957688424,
+              56.1914664083
+            ],
+            [
+              -130.4020191525,
+              56.1914662904
+            ],
+            [
+              -130.4082694514,
+              56.1914664861
+            ],
+            [
+              -130.4145197653,
+              56.191466366
+            ],
+            [
+              -130.4207693944,
+              56.1914663225
+            ],
+            [
+              -130.4270190375,
+              56.1914659543
+            ],
+            [
+              -130.4270186934,
+              56.1872991005
+            ],
+            [
+              -130.4270183645,
+              56.1831322441
+            ],
+            [
+              -130.4270180186,
+              56.1789653861
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 508891,
+        "CLAIM_NAME": "Leduc Silver SW1",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050314102342",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 432.165,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 10,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 3,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050314102354",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050314102354",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41626036,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 4321647.8356,
+        "FEATURE_LENGTH_M": 8366.9053,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.4270193504,
+              56.195632825
+            ],
+            [
+              -130.4270190375,
+              56.1914659543
+            ],
+            [
+              -130.4207693944,
+              56.1914663225
+            ],
+            [
+              -130.4145197653,
+              56.191466366
+            ],
+            [
+              -130.4082694514,
+              56.1914664861
+            ],
+            [
+              -130.4020191525,
+              56.1914662904
+            ],
+            [
+              -130.3957688424,
+              56.1914664083
+            ],
+            [
+              -130.3895185323,
+              56.1914662199
+            ],
+            [
+              -130.3895187827,
+              56.1956330899
+            ],
+            [
+              -130.3895190816,
+              56.1997999651
+            ],
+            [
+              -130.3895193482,
+              56.2039668484
+            ],
+            [
+              -130.3895196301,
+              56.2081337291
+            ],
+            [
+              -130.3957699198,
+              56.2081338929
+            ],
+            [
+              -130.4020202076,
+              56.2081337326
+            ],
+            [
+              -130.408270485,
+              56.208133895
+            ],
+            [
+              -130.4145207766,
+              56.2081337328
+            ],
+            [
+              -130.4207705704,
+              56.2081337305
+            ],
+            [
+              -130.4270203611,
+              56.2081333954
+            ],
+            [
+              -130.4270200197,
+              56.2039665408
+            ],
+            [
+              -130.4270196936,
+              56.1997996836
+            ],
+            [
+              -130.4270193504,
+              56.195632825
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 508889,
+        "CLAIM_NAME": "Leduc Silver W2",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050314101637",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 431.981,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 10,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 3,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050314101652",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050314101652",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41626035,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 4319811.6937,
+        "FEATURE_LENGTH_M": 8364.9366,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.4270206863,
+              56.2123002575
+            ],
+            [
+              -130.4270203611,
+              56.2081333954
+            ],
+            [
+              -130.4207705704,
+              56.2081337305
+            ],
+            [
+              -130.4145207766,
+              56.2081337328
+            ],
+            [
+              -130.408270485,
+              56.208133895
+            ],
+            [
+              -130.4020202076,
+              56.2081337326
+            ],
+            [
+              -130.3957699198,
+              56.2081338929
+            ],
+            [
+              -130.3895196301,
+              56.2081337291
+            ],
+            [
+              -130.389519911,
+              56.2123006078
+            ],
+            [
+              -130.3895201909,
+              56.2164674846
+            ],
+            [
+              -130.3895204709,
+              56.2206343685
+            ],
+            [
+              -130.3895207651,
+              56.2248012409
+            ],
+            [
+              -130.3957710174,
+              56.2248013717
+            ],
+            [
+              -130.4020212828,
+              56.224801169
+            ],
+            [
+              -130.4082715549,
+              56.2248012976
+            ],
+            [
+              -130.4145218089,
+              56.2248011027
+            ],
+            [
+              -130.4207717493,
+              56.2248011244
+            ],
+            [
+              -130.4270216898,
+              56.2248008401
+            ],
+            [
+              -130.4270213512,
+              56.2206339843
+            ],
+            [
+              -130.4270210268,
+              56.2164671171
+            ],
+            [
+              -130.4270206863,
+              56.2123002575
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 508888,
+        "CLAIM_NAME": "Leduc Silver W1",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050314101033",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 431.797,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 10,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 3,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050314101051",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050314101051",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41626034,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 4317973.3594,
+        "FEATURE_LENGTH_M": 8362.9677,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.4145162905,
+              56.1622981463
+            ],
+            [
+              -130.4082660515,
+              56.1622982358
+            ],
+            [
+              -130.4020158115,
+              56.1622980098
+            ],
+            [
+              -130.3957655923,
+              56.162298096
+            ],
+            [
+              -130.38951534,
+              56.162297868
+            ],
+            [
+              -130.3832651084,
+              56.1622979521
+            ],
+            [
+              -130.3770148769,
+              56.1622977297
+            ],
+            [
+              -130.3707646487,
+              56.1622978112
+            ],
+            [
+              -130.3645143883,
+              56.1622975873
+            ],
+            [
+              -130.3645154504,
+              56.1664645781
+            ],
+            [
+              -130.3645157439,
+              56.1706314942
+            ],
+            [
+              -130.3645160515,
+              56.1747983986
+            ],
+            [
+              -130.370766393,
+              56.174798634
+            ],
+            [
+              -130.3770167164,
+              56.1747985456
+            ],
+            [
+              -130.3832670453,
+              56.1747987791
+            ],
+            [
+              -130.3895173892,
+              56.1747986966
+            ],
+            [
+              -130.3957677388,
+              56.1747989359
+            ],
+            [
+              -130.4020180702,
+              56.1747988515
+            ],
+            [
+              -130.4082684236,
+              56.1747990883
+            ],
+            [
+              -130.4145187589,
+              56.1747990014
+            ],
+            [
+              -130.4145184928,
+              56.1706321553
+            ],
+            [
+              -130.4145182429,
+              56.1664653154
+            ],
+            [
+              -130.4207676257,
+              56.1664652144
+            ],
+            [
+              -130.420765328,
+              56.1622979895
+            ],
+            [
+              -130.4145162905,
+              56.1622981463
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 508893,
+        "CLAIM_NAME": "Leduc Silver SW2",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050314103134",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 450.369,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 10,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 3,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050314103155",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050314103155",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41626038,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 4503691.9767,
+        "FEATURE_LENGTH_M": 9763.0893,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.4270220284,
+              56.228967703
+            ],
+            [
+              -130.4270216898,
+              56.2248008401
+            ],
+            [
+              -130.4207717493,
+              56.2248011244
+            ],
+            [
+              -130.4145218089,
+              56.2248011027
+            ],
+            [
+              -130.4082715549,
+              56.2248012976
+            ],
+            [
+              -130.4020212828,
+              56.224801169
+            ],
+            [
+              -130.3957710174,
+              56.2248013717
+            ],
+            [
+              -130.3895207651,
+              56.2248012409
+            ],
+            [
+              -130.3895210433,
+              56.228968121
+            ],
+            [
+              -130.3895213195,
+              56.2331349903
+            ],
+            [
+              -130.3895215967,
+              56.2373018757
+            ],
+            [
+              -130.3895218882,
+              56.2414687497
+            ],
+            [
+              -130.395772118,
+              56.241468838
+            ],
+            [
+              -130.4020223629,
+              56.2414686108
+            ],
+            [
+              -130.4082725975,
+              56.2414687066
+            ],
+            [
+              -130.414522829,
+              56.2414684696
+            ],
+            [
+              -130.4207729344,
+              56.2414685326
+            ],
+            [
+              -130.4270230377,
+              56.2414682718
+            ],
+            [
+              -130.4270227029,
+              56.2373014233
+            ],
+            [
+              -130.4270223651,
+              56.2331345551
+            ],
+            [
+              -130.4270220284,
+              56.228967703
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 508887,
+        "CLAIM_NAME": "Leduc Silver NW",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050314100042",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 431.614,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 10,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 3,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050314100044",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050314100044",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41626033,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 4316135.9757,
+        "FEATURE_LENGTH_M": 8360.9959,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.3895176605,
+              56.1789655834
+            ],
+            [
+              -130.3895173892,
+              56.1747986966
+            ],
+            [
+              -130.3832670453,
+              56.1747987791
+            ],
+            [
+              -130.3770167164,
+              56.1747985456
+            ],
+            [
+              -130.370766393,
+              56.174798634
+            ],
+            [
+              -130.3645160515,
+              56.1747983986
+            ],
+            [
+              -130.3582657152,
+              56.1747984851
+            ],
+            [
+              -130.3520153779,
+              56.1747982562
+            ],
+            [
+              -130.3457650446,
+              56.1747983401
+            ],
+            [
+              -130.3395146943,
+              56.1747981092
+            ],
+            [
+              -130.3332644069,
+              56.174798288
+            ],
+            [
+              -130.3270141025,
+              56.1747981519
+            ],
+            [
+              -130.3207638558,
+              56.1747983807
+            ],
+            [
+              -130.3207641529,
+              56.1789653227
+            ],
+            [
+              -130.3207644974,
+              56.183132261
+            ],
+            [
+              -130.3207648098,
+              56.1872992071
+            ],
+            [
+              -130.3207651212,
+              56.1914661512
+            ],
+            [
+              -130.3207654479,
+              56.1956330927
+            ],
+            [
+              -130.3207657736,
+              56.1998000321
+            ],
+            [
+              -130.3270160708,
+              56.1997998377
+            ],
+            [
+              -130.3332663735,
+              56.1997999743
+            ],
+            [
+              -130.3332660322,
+              56.1956330353
+            ],
+            [
+              -130.3395163347,
+              56.195632861
+            ],
+            [
+              -130.3395160075,
+              56.1914659059
+            ],
+            [
+              -130.3457663205,
+              56.1914661027
+            ],
+            [
+              -130.3457659941,
+              56.1872991588
+            ],
+            [
+              -130.352016324,
+              56.187299053
+            ],
+            [
+              -130.3520166476,
+              56.1914659748
+            ],
+            [
+              -130.3582669486,
+              56.1914661788
+            ],
+            [
+              -130.3582672714,
+              56.1956331032
+            ],
+            [
+              -130.3520169572,
+              56.1956329218
+            ],
+            [
+              -130.3520172799,
+              56.1997998484
+            ],
+            [
+              -130.3582675612,
+              56.1998000266
+            ],
+            [
+              -130.3645178736,
+              56.1997998885
+            ],
+            [
+              -130.3707681751,
+              56.199800073
+            ],
+            [
+              -130.3770184737,
+              56.1997999244
+            ],
+            [
+              -130.3832687786,
+              56.1998001068
+            ],
+            [
+              -130.3895190816,
+              56.1997999651
+            ],
+            [
+              -130.3895187827,
+              56.1956330899
+            ],
+            [
+              -130.3895185323,
+              56.1914662199
+            ],
+            [
+              -130.3895182316,
+              56.1872993406
+            ],
+            [
+              -130.389517946,
+              56.1831324586
+            ],
+            [
+              -130.3895176605,
+              56.1789655834
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 508703,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050310133240",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 1062.373,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 12,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 3,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050310133319",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050310133319",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41625982,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 10623727.7742,
+        "FEATURE_LENGTH_M": 17663.4327,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.3895193482,
+              56.2039668484
+            ],
+            [
+              -130.3895190816,
+              56.1997999651
+            ],
+            [
+              -130.3832687786,
+              56.1998001068
+            ],
+            [
+              -130.3770184737,
+              56.1997999244
+            ],
+            [
+              -130.3707681751,
+              56.199800073
+            ],
+            [
+              -130.3645178736,
+              56.1997998885
+            ],
+            [
+              -130.3582675612,
+              56.1998000266
+            ],
+            [
+              -130.3520172799,
+              56.1997998484
+            ],
+            [
+              -130.3520175866,
+              56.2039667824
+            ],
+            [
+              -130.3520179247,
+              56.2081337134
+            ],
+            [
+              -130.3582681872,
+              56.2081338747
+            ],
+            [
+              -130.3582685063,
+              56.212300791
+            ],
+            [
+              -130.3582688256,
+              56.2164677143
+            ],
+            [
+              -130.3582691288,
+              56.2206346453
+            ],
+            [
+              -130.3582694462,
+              56.2248015648
+            ],
+            [
+              -130.3582697475,
+              56.2289684919
+            ],
+            [
+              -130.358270063,
+              56.2331354078
+            ],
+            [
+              -130.3582703615,
+              56.2373023223
+            ],
+            [
+              -130.3520201086,
+              56.2373022266
+            ],
+            [
+              -130.3520204412,
+              56.2414691604
+            ],
+            [
+              -130.3582706772,
+              56.2414692524
+            ],
+            [
+              -130.3645209272,
+              56.2414690201
+            ],
+            [
+              -130.3707711502,
+              56.2414691112
+            ],
+            [
+              -130.3770214043,
+              56.2414688863
+            ],
+            [
+              -130.3832716468,
+              56.2414689755
+            ],
+            [
+              -130.3895218882,
+              56.2414687497
+            ],
+            [
+              -130.3895215967,
+              56.2373018757
+            ],
+            [
+              -130.3895213195,
+              56.2331349903
+            ],
+            [
+              -130.3895210433,
+              56.228968121
+            ],
+            [
+              -130.3895207651,
+              56.2248012409
+            ],
+            [
+              -130.3895204709,
+              56.2206343685
+            ],
+            [
+              -130.3895201909,
+              56.2164674846
+            ],
+            [
+              -130.389519911,
+              56.2123006078
+            ],
+            [
+              -130.3895196301,
+              56.2081337291
+            ],
+            [
+              -130.3895193482,
+              56.2039668484
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 508705,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050310134207",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 953.487,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 2,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 11,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 3,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050310134230",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050310134230",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41625983,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 9534868.1907,
+        "FEATURE_LENGTH_M": 14716.502,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.3645154504,
+              56.1664645781
+            ],
+            [
+              -130.3645143883,
+              56.1622975873
+            ],
+            [
+              -130.3582641482,
+              56.1622976756
+            ],
+            [
+              -130.3520139072,
+              56.1622974484
+            ],
+            [
+              -130.3457636873,
+              56.1622975425
+            ],
+            [
+              -130.3395134493,
+              56.1622973126
+            ],
+            [
+              -130.3332632108,
+              56.1622975035
+            ],
+            [
+              -130.3270129553,
+              56.1622973794
+            ],
+            [
+              -130.3207627414,
+              56.1622976207
+            ],
+            [
+              -130.3145124943,
+              56.1622975476
+            ],
+            [
+              -130.3145129642,
+              56.1664644231
+            ],
+            [
+              -130.314513263,
+              56.170631365
+            ],
+            [
+              -130.3145135759,
+              56.1747982952
+            ],
+            [
+              -130.314513889,
+              56.1789652322
+            ],
+            [
+              -130.3207641529,
+              56.1789653227
+            ],
+            [
+              -130.3207638558,
+              56.1747983807
+            ],
+            [
+              -130.3270141025,
+              56.1747981519
+            ],
+            [
+              -130.3332644069,
+              56.174798288
+            ],
+            [
+              -130.3395146943,
+              56.1747981092
+            ],
+            [
+              -130.3457650446,
+              56.1747983401
+            ],
+            [
+              -130.3520153779,
+              56.1747982562
+            ],
+            [
+              -130.3582657152,
+              56.1747984851
+            ],
+            [
+              -130.3645160515,
+              56.1747983986
+            ],
+            [
+              -130.3645157439,
+              56.1706314942
+            ],
+            [
+              -130.3645154504,
+              56.1664645781
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 508894,
+        "CLAIM_NAME": "Leduc Silver S",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050314103933",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 450.362,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 10,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 3,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050314103956",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050314103956",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41626039,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 4503618.0363,
+        "FEATURE_LENGTH_M": 9918.353,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.3520201086,
+              56.2373022266
+            ],
+            [
+              -130.3520198083,
+              56.2331352988
+            ],
+            [
+              -130.3457695586,
+              56.2331355122
+            ],
+            [
+              -130.3457692395,
+              56.22896857
+            ],
+            [
+              -130.3395189708,
+              56.2289684557
+            ],
+            [
+              -130.3332686536,
+              56.2289686207
+            ],
+            [
+              -130.3332683481,
+              56.2248016673
+            ],
+            [
+              -130.3332680104,
+              56.2206347222
+            ],
+            [
+              -130.3332676717,
+              56.2164677751
+            ],
+            [
+              -130.3270173692,
+              56.2164676293
+            ],
+            [
+              -130.3207670381,
+              56.2164677977
+            ],
+            [
+              -130.3145167221,
+              56.2164676506
+            ],
+            [
+              -130.3082663933,
+              56.2164678172
+            ],
+            [
+              -130.3020160636,
+              56.2164676687
+            ],
+            [
+              -130.295765738,
+              56.2164678425
+            ],
+            [
+              -130.2895153944,
+              56.2164676927
+            ],
+            [
+              -130.2895156833,
+              56.2206346102
+            ],
+            [
+              -130.2895159865,
+              56.2248015163
+            ],
+            [
+              -130.2895162574,
+              56.2289684306
+            ],
+            [
+              -130.2895165426,
+              56.2331353335
+            ],
+            [
+              -130.2895168289,
+              56.2373022525
+            ],
+            [
+              -130.2895171132,
+              56.2414691608
+            ],
+            [
+              -130.2957674902,
+              56.2414693356
+            ],
+            [
+              -130.3020178673,
+              56.2414692045
+            ],
+            [
+              -130.3082682323,
+              56.2414693963
+            ],
+            [
+              -130.3145185945,
+              56.2414692554
+            ],
+            [
+              -130.320768962,
+              56.2414694457
+            ],
+            [
+              -130.3270193104,
+              56.2414693038
+            ],
+            [
+              -130.3332696454,
+              56.241469467
+            ],
+            [
+              -130.3395199612,
+              56.2414692979
+            ],
+            [
+              -130.3457702103,
+              56.2414693908
+            ],
+            [
+              -130.3520204412,
+              56.2414691604
+            ],
+            [
+              -130.3520201086,
+              56.2373022266
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 508828,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050311150740",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 899.306,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 1,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 13,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 3,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050311150840",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050311150840",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41628721,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 8993060.0069,
+        "FEATURE_LENGTH_M": 13315.662,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.3332663735,
+              56.1997999743
+            ],
+            [
+              -130.3270160708,
+              56.1997998377
+            ],
+            [
+              -130.3207657736,
+              56.1998000321
+            ],
+            [
+              -130.3207660823,
+              56.20396697
+            ],
+            [
+              -130.3207664072,
+              56.2081339144
+            ],
+            [
+              -130.3207667312,
+              56.2123008567
+            ],
+            [
+              -130.3207670381,
+              56.2164677977
+            ],
+            [
+              -130.3270173692,
+              56.2164676293
+            ],
+            [
+              -130.327017045,
+              56.2123006754
+            ],
+            [
+              -130.3332673483,
+              56.2123008256
+            ],
+            [
+              -130.3332670239,
+              56.2081338742
+            ],
+            [
+              -130.3332666997,
+              56.2039669297
+            ],
+            [
+              -130.3395169854,
+              56.2039667562
+            ],
+            [
+              -130.33951666,
+              56.1997998052
+            ],
+            [
+              -130.3332663735,
+              56.1997999743
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 508775,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050311095213",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 143.976,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 12,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 3,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050311095300",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050311095300",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41626015,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 1439762.8824,
+        "FEATURE_LENGTH_M": 6042.3394,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.3207644974,
+              56.183132261
+            ],
+            [
+              -130.3207641529,
+              56.1789653227
+            ],
+            [
+              -130.314513889,
+              56.1789652322
+            ],
+            [
+              -130.3082636274,
+              56.1789654457
+            ],
+            [
+              -130.3020133507,
+              56.1789653623
+            ],
+            [
+              -130.2957630922,
+              56.1789655823
+            ],
+            [
+              -130.2957633877,
+              56.1831325045
+            ],
+            [
+              -130.2957636822,
+              56.1872994245
+            ],
+            [
+              -130.2957639748,
+              56.1914663334
+            ],
+            [
+              -130.2957642523,
+              56.1956332587
+            ],
+            [
+              -130.295764545,
+              56.1998001815
+            ],
+            [
+              -130.3020148527,
+              56.1997999818
+            ],
+            [
+              -130.3082651646,
+              56.1998001041
+            ],
+            [
+              -130.3145154755,
+              56.1997999113
+            ],
+            [
+              -130.3207657736,
+              56.1998000321
+            ],
+            [
+              -130.3207654479,
+              56.1956330927
+            ],
+            [
+              -130.3207651212,
+              56.1914661512
+            ],
+            [
+              -130.3207648098,
+              56.1872992071
+            ],
+            [
+              -130.3207644974,
+              56.183132261
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 508777,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050311100123",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 360.098,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 11,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 3,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050311100203",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050311100203",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41626016,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 3600981.1103,
+        "FEATURE_LENGTH_M": 7747.706,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.3207660823,
+              56.20396697
+            ],
+            [
+              -130.3207657736,
+              56.1998000321
+            ],
+            [
+              -130.3145154755,
+              56.1997999113
+            ],
+            [
+              -130.3082651646,
+              56.1998001041
+            ],
+            [
+              -130.3020148527,
+              56.1997999818
+            ],
+            [
+              -130.295764545,
+              56.1998001815
+            ],
+            [
+              -130.2957642523,
+              56.1956332587
+            ],
+            [
+              -130.2895139599,
+              56.1956331471
+            ],
+            [
+              -130.2895142505,
+              56.1998000476
+            ],
+            [
+              -130.2895145421,
+              56.2039669639
+            ],
+            [
+              -130.2895148318,
+              56.2081338693
+            ],
+            [
+              -130.2895151055,
+              56.2123007823
+            ],
+            [
+              -130.2895153944,
+              56.2164676927
+            ],
+            [
+              -130.295765738,
+              56.2164678425
+            ],
+            [
+              -130.3020160636,
+              56.2164676687
+            ],
+            [
+              -130.3082663933,
+              56.2164678172
+            ],
+            [
+              -130.3145167221,
+              56.2164676506
+            ],
+            [
+              -130.3207670381,
+              56.2164677977
+            ],
+            [
+              -130.3207667312,
+              56.2123008567
+            ],
+            [
+              -130.3207664072,
+              56.2081339144
+            ],
+            [
+              -130.3207660823,
+              56.20396697
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 508898,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050314110709",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 377.926,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 11,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 3,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050314110801",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050314110801",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41626040,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 3779258.2664,
+        "FEATURE_LENGTH_M": 8520.2399,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.3145129642,
+              56.1664644231
+            ],
+            [
+              -130.3145124943,
+              56.1622975476
+            ],
+            [
+              -130.3082622506,
+              56.1622977873
+            ],
+            [
+              -130.3020120059,
+              56.1622977116
+            ],
+            [
+              -130.2957617804,
+              56.1622979481
+            ],
+            [
+              -130.2895115389,
+              56.1622978786
+            ],
+            [
+              -130.2895119617,
+              56.166464756
+            ],
+            [
+              -130.2895122426,
+              56.1706316719
+            ],
+            [
+              -130.2895125386,
+              56.174798585
+            ],
+            [
+              -130.2895128167,
+              56.1789654876
+            ],
+            [
+              -130.289513111,
+              56.1831323964
+            ],
+            [
+              -130.289513373,
+              56.1872993131
+            ],
+            [
+              -130.2895136826,
+              56.1914662261
+            ],
+            [
+              -130.2895139599,
+              56.1956331471
+            ],
+            [
+              -130.2957642523,
+              56.1956332587
+            ],
+            [
+              -130.2957639748,
+              56.1914663334
+            ],
+            [
+              -130.2957636822,
+              56.1872994245
+            ],
+            [
+              -130.2957633877,
+              56.1831325045
+            ],
+            [
+              -130.2957630922,
+              56.1789655823
+            ],
+            [
+              -130.3020133507,
+              56.1789653623
+            ],
+            [
+              -130.3082636274,
+              56.1789654457
+            ],
+            [
+              -130.314513889,
+              56.1789652322
+            ],
+            [
+              -130.3145135759,
+              56.1747982952
+            ],
+            [
+              -130.314513263,
+              56.170631365
+            ],
+            [
+              -130.3145129642,
+              56.1664644231
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 508895,
+        "CLAIM_NAME": "Leduc Silver SE",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050314104622",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 360.239,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 10,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 3,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050314104657",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050314104657",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41628759,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 3602386.44,
+        "FEATURE_LENGTH_M": 10539.1631,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.3895235439,
+              56.2998034565
+            ],
+            [
+              -130.3895234405,
+              56.2956367155
+            ],
+            [
+              -130.383273183,
+              56.2956368966
+            ],
+            [
+              -130.3770229245,
+              56.2956367632
+            ],
+            [
+              -130.3707726875,
+              56.295636952
+            ],
+            [
+              -130.3645224324,
+              56.295636818
+            ],
+            [
+              -130.3582721825,
+              56.2956370068
+            ],
+            [
+              -130.358272269,
+              56.2998037243
+            ],
+            [
+              -130.3582723385,
+              56.303970441
+            ],
+            [
+              -130.3582724231,
+              56.3081371558
+            ],
+            [
+              -130.3582724906,
+              56.3123038698
+            ],
+            [
+              -130.364522743,
+              56.3123037178
+            ],
+            [
+              -130.370773031,
+              56.3123038697
+            ],
+            [
+              -130.3770232695,
+              56.312303709
+            ],
+            [
+              -130.3832735437,
+              56.3123038522
+            ],
+            [
+              -130.3895238028,
+              56.3123036996
+            ],
+            [
+              -130.3895237165,
+              56.3081369443
+            ],
+            [
+              -130.3895236312,
+              56.3039702056
+            ],
+            [
+              -130.3895235439,
+              56.2998034565
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 1010629,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20120703051928",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 359.0122,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 6,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 7,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20120703052025",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20120703052025",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41635929,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 3590122.0966,
+        "FEATURE_LENGTH_M": 7580.3505,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.3582720225,
+              56.2873035668
+            ],
+            [
+              -130.358271933,
+              56.2831368449
+            ],
+            [
+              -130.3520216825,
+              56.2831367333
+            ],
+            [
+              -130.3520216083,
+              56.278970014
+            ],
+            [
+              -130.345771378,
+              56.2789702203
+            ],
+            [
+              -130.3457714359,
+              56.2831369355
+            ],
+            [
+              -130.3395212045,
+              56.2831368226
+            ],
+            [
+              -130.3332709194,
+              56.2831369446
+            ],
+            [
+              -130.3270206163,
+              56.2831367437
+            ],
+            [
+              -130.3207702987,
+              56.2831368391
+            ],
+            [
+              -130.3207703854,
+              56.2873035155
+            ],
+            [
+              -130.3207704732,
+              56.2914702082
+            ],
+            [
+              -130.3207705761,
+              56.295636899
+            ],
+            [
+              -130.3207706619,
+              56.2998035889
+            ],
+            [
+              -130.3270209477,
+              56.2998035126
+            ],
+            [
+              -130.3332712029,
+              56.2998037335
+            ],
+            [
+              -130.3395214875,
+              56.2998036209
+            ],
+            [
+              -130.3457717527,
+              56.2998037602
+            ],
+            [
+              -130.3520220008,
+              56.2998035856
+            ],
+            [
+              -130.358272269,
+              56.2998037243
+            ],
+            [
+              -130.3582721825,
+              56.2956370068
+            ],
+            [
+              -130.3582720949,
+              56.2914702878
+            ],
+            [
+              -130.3582720225,
+              56.2873035668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 520250,
+        "CLAIM_NAME": "MACH 2",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050921105920",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 448.913,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 4,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 16,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 6,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050921105943",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050921105943",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41627682,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 4489133.7175,
+        "FEATURE_LENGTH_M": 9283.943,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.3582723385,
+              56.303970441
+            ],
+            [
+              -130.358272269,
+              56.2998037243
+            ],
+            [
+              -130.3520220008,
+              56.2998035856
+            ],
+            [
+              -130.3457717527,
+              56.2998037602
+            ],
+            [
+              -130.3395214875,
+              56.2998036209
+            ],
+            [
+              -130.3332712029,
+              56.2998037335
+            ],
+            [
+              -130.3270209477,
+              56.2998035126
+            ],
+            [
+              -130.3207706619,
+              56.2998035889
+            ],
+            [
+              -130.3207707296,
+              56.3039702689
+            ],
+            [
+              -130.3207708296,
+              56.3081369554
+            ],
+            [
+              -130.3207708973,
+              56.3123036506
+            ],
+            [
+              -130.3270211694,
+              56.3123036064
+            ],
+            [
+              -130.3332714553,
+              56.312303822
+            ],
+            [
+              -130.3395216927,
+              56.3123037338
+            ],
+            [
+              -130.3457719745,
+              56.3123038865
+            ],
+            [
+              -130.352022223,
+              56.3123037259
+            ],
+            [
+              -130.3582724906,
+              56.3123038698
+            ],
+            [
+              -130.3582724231,
+              56.3081371558
+            ],
+            [
+              -130.3582723385,
+              56.303970441
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 520252,
+        "CLAIM_NAME": "MACH 3",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050921111711",
+        "GOOD_TO_DATE": "20301015",
+        "AREA_IN_HECTARES": 323.092,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 4,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 16,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 6,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050921111749",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050921111749",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41627683,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 3230917.9809,
+        "FEATURE_LENGTH_M": 7422.2246,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.3210846298,
+              56.2404100489
+            ],
+            [
+              -130.3210846147,
+              56.2404100584
+            ],
+            [
+              -130.3165836516,
+              56.2404099534
+            ],
+            [
+              -130.3165831128,
+              56.2622902073
+            ],
+            [
+              -130.3488672547,
+              56.26228619
+            ],
+            [
+              -130.3488493645,
+              56.2404070302
+            ],
+            [
+              -130.3210846298,
+              56.2404100489
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 415488,
+        "CLAIM_NAME": "PEARSON 3",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MC4",
+        "TITLE_TYPE_DESCRIPTION": "Four Post Claim",
+        "ISSUE_DATE": "20041108",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 500,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 1,
+        "TAG_NUMBER": "247251",
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 12,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 4,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20041217",
+        "ENTRY_USERID": "MiDA-MTA",
+        "UPDATE_TIMESTAMP": "20041217",
+        "UPDATE_USERID": "MiDA-MTA",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41625760,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 4873993.8261,
+        "FEATURE_LENGTH_M": 8875.6962,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.316583129,
+              56.2622902067
+            ],
+            [
+              -130.3165827824,
+              56.2847497333
+            ],
+            [
+              -130.3488858329,
+              56.2847456279
+            ],
+            [
+              -130.3488672547,
+              56.26228619
+            ],
+            [
+              -130.316583129,
+              56.2622902067
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 415486,
+        "CLAIM_NAME": "PEARSON 1",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MC4",
+        "TITLE_TYPE_DESCRIPTION": "Four Post Claim",
+        "ISSUE_DATE": "20041108",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 500,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 1,
+        "TAG_NUMBER": "247249",
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 12,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 4,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20041217",
+        "ENTRY_USERID": "MiDA-MTA",
+        "UPDATE_TIMESTAMP": "20041217",
+        "UPDATE_USERID": "MiDA-MTA",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41625758,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 5003165.5623,
+        "FEATURE_LENGTH_M": 9005.1017,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.2888192688,
+              56.239827233
+            ],
+            [
+              -130.2843183204,
+              56.2398261002
+            ],
+            [
+              -130.2842988762,
+              56.262285792
+            ],
+            [
+              -130.316583129,
+              56.2622902067
+            ],
+            [
+              -130.3165836516,
+              56.2404099534
+            ],
+            [
+              -130.2888187803,
+              56.2404057369
+            ],
+            [
+              -130.2888192688,
+              56.239827233
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 415489,
+        "CLAIM_NAME": "PEARSON 4",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MC4",
+        "TITLE_TYPE_DESCRIPTION": "Four Post Claim",
+        "ISSUE_DATE": "20041108",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 500,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 2,
+        "TAG_NUMBER": "247252",
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 12,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 4,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20041217",
+        "ENTRY_USERID": "MiDA-MTA",
+        "UPDATE_TIMESTAMP": "20041217",
+        "UPDATE_USERID": "MiDA-MTA",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41625761,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 4892227.315,
+        "FEATURE_LENGTH_M": 9005.0583,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.3207703854,
+              56.2873035155
+            ],
+            [
+              -130.3207702987,
+              56.2831368391
+            ],
+            [
+              -130.3145199781,
+              56.2831366022
+            ],
+            [
+              -130.3082696619,
+              56.2831366879
+            ],
+            [
+              -130.3020193438,
+              56.2831364501
+            ],
+            [
+              -130.2957690299,
+              56.283136535
+            ],
+            [
+              -130.289518715,
+              56.2831363054
+            ],
+            [
+              -130.2895188354,
+              56.2873029764
+            ],
+            [
+              -130.28951897,
+              56.2914696364
+            ],
+            [
+              -130.2895190884,
+              56.2956363044
+            ],
+            [
+              -130.2957693875,
+              56.2956365477
+            ],
+            [
+              -130.3020196695,
+              56.2956364771
+            ],
+            [
+              -130.3082699709,
+              56.2956367197
+            ],
+            [
+              -130.3145202722,
+              56.2956366569
+            ],
+            [
+              -130.3207705761,
+              56.295636899
+            ],
+            [
+              -130.3207704732,
+              56.2914702082
+            ],
+            [
+              -130.3207703854,
+              56.2873035155
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 520260,
+        "CLAIM_NAME": "BIG GOLD 4",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050921122741",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 269.36,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 4,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 19,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 6,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050921122815",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050921122815",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41628934,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 2693596.1267,
+        "FEATURE_LENGTH_M": 6651.836,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.3207706619,
+              56.2998035889
+            ],
+            [
+              -130.3207705761,
+              56.295636899
+            ],
+            [
+              -130.3145202722,
+              56.2956366569
+            ],
+            [
+              -130.3082699709,
+              56.2956367197
+            ],
+            [
+              -130.3020196695,
+              56.2956364771
+            ],
+            [
+              -130.2957693875,
+              56.2956365477
+            ],
+            [
+              -130.2895190884,
+              56.2956363044
+            ],
+            [
+              -130.2895192211,
+              56.2998029615
+            ],
+            [
+              -130.2895193387,
+              56.3039696357
+            ],
+            [
+              -130.2895194533,
+              56.3081362905
+            ],
+            [
+              -130.289519586,
+              56.3123029703
+            ],
+            [
+              -130.2957698523,
+              56.3123032232
+            ],
+            [
+              -130.3020201195,
+              56.3123031797
+            ],
+            [
+              -130.3082703729,
+              56.3123034417
+            ],
+            [
+              -130.3145206415,
+              56.3123033889
+            ],
+            [
+              -130.3207708973,
+              56.3123036506
+            ],
+            [
+              -130.3207708296,
+              56.3081369554
+            ],
+            [
+              -130.3207707296,
+              56.3039702689
+            ],
+            [
+              -130.3207706619,
+              56.2998035889
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 520258,
+        "CLAIM_NAME": "BIG GOLD 3",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050921122038",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 359.009,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 4,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 22,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 6,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050921122109",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050921122109",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41627686,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 3590087.9249,
+        "FEATURE_LENGTH_M": 7580.3168,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.316583129,
+              56.2622902067
+            ],
+            [
+              -130.2842988601,
+              56.2622857926
+            ],
+            [
+              -130.2842795894,
+              56.2847454118
+            ],
+            [
+              -130.3165827824,
+              56.2847497333
+            ],
+            [
+              -130.316583129,
+              56.2622902067
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 415487,
+        "CLAIM_NAME": "PEARSON 2",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MC4",
+        "TITLE_TYPE_DESCRIPTION": "Four Post Claim",
+        "ISSUE_DATE": "20041108",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 500,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 1,
+        "TAG_NUMBER": "247250",
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 12,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 4,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20041217",
+        "ENTRY_USERID": "MiDA-MTA",
+        "UPDATE_TIMESTAMP": "20041217",
+        "UPDATE_USERID": "MiDA-MTA",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41625759,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 5003207.9542,
+        "FEATURE_LENGTH_M": 9005.1397,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.2895171132,
+              56.2414691608
+            ],
+            [
+              -130.2895168289,
+              56.2373022525
+            ],
+            [
+              -130.2832664702,
+              56.2373023859
+            ],
+            [
+              -130.2832667553,
+              56.2414692988
+            ],
+            [
+              -130.2770163955,
+              56.2414691131
+            ],
+            [
+              -130.2707660233,
+              56.2414692502
+            ],
+            [
+              -130.2645156654,
+              56.241469063
+            ],
+            [
+              -130.2582652948,
+              56.2414691986
+            ],
+            [
+              -130.2520149214,
+              56.2414690015
+            ],
+            [
+              -130.2457646908,
+              56.2414690683
+            ],
+            [
+              -130.2457649397,
+              56.2456359373
+            ],
+            [
+              -130.2457652191,
+              56.2498027946
+            ],
+            [
+              -130.2457653936,
+              56.2539694381
+            ],
+            [
+              -130.2520155943,
+              56.2539694027
+            ],
+            [
+              -130.2582659672,
+              56.2539696034
+            ],
+            [
+              -130.2645163392,
+              56.2539694893
+            ],
+            [
+              -130.2707667138,
+              56.2539696887
+            ],
+            [
+              -130.2770170875,
+              56.2539695733
+            ],
+            [
+              -130.2832674468,
+              56.253969763
+            ],
+            [
+              -130.283267337,
+              56.2498031009
+            ],
+            [
+              -130.2832670386,
+              56.245636201
+            ],
+            [
+              -130.2895174128,
+              56.2456360668
+            ],
+            [
+              -130.2895171132,
+              56.2414691608
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 527350,
+        "CLAIM_NAME": "ESKAY RIFT 3",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20060209150420",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 359.555,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 17,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 6,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20060209150523",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20060209150523",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41628345,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 3595548.059,
+        "FEATURE_LENGTH_M": 9132.6917,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.2895188354,
+              56.2873029764
+            ],
+            [
+              -130.289518715,
+              56.2831363054
+            ],
+            [
+              -130.283268387,
+              56.2831363901
+            ],
+            [
+              -130.2832682507,
+              56.2789697314
+            ],
+            [
+              -130.2832681124,
+              56.2748030622
+            ],
+            [
+              -130.2832679751,
+              56.2706364094
+            ],
+            [
+              -130.2770176456,
+              56.2706361835
+            ],
+            [
+              -130.2707673047,
+              56.2706362897
+            ],
+            [
+              -130.2645169618,
+              56.2706360722
+            ],
+            [
+              -130.2582666216,
+              56.2706361685
+            ],
+            [
+              -130.2520162804,
+              56.27063595
+            ],
+            [
+              -130.2520164655,
+              56.27480258
+            ],
+            [
+              -130.2520166194,
+              56.2789692275
+            ],
+            [
+              -130.2520168036,
+              56.2831358633
+            ],
+            [
+              -130.2520169545,
+              56.2873024987
+            ],
+            [
+              -130.2582672648,
+              56.2873027439
+            ],
+            [
+              -130.2645175884,
+              56.2873026561
+            ],
+            [
+              -130.2707679004,
+              56.2873029005
+            ],
+            [
+              -130.2770182095,
+              56.2873028125
+            ],
+            [
+              -130.27701836,
+              56.2914694633
+            ],
+            [
+              -130.2770184944,
+              56.2956361222
+            ],
+            [
+              -130.2832687924,
+              56.295636375
+            ],
+            [
+              -130.2895190884,
+              56.2956363044
+            ],
+            [
+              -130.28951897,
+              56.2914696364
+            ],
+            [
+              -130.2895188354,
+              56.2873029764
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 527347,
+        "CLAIM_NAME": "ESKAY RIFT 1",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20060209144737",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 449.026,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 19,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 6,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20060209144750",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20060209144750",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41628343,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 4490262.2019,
+        "FEATURE_LENGTH_M": 10215.0403,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.2895192211,
+              56.2998029615
+            ],
+            [
+              -130.2895190884,
+              56.2956363044
+            ],
+            [
+              -130.2832687924,
+              56.295636375
+            ],
+            [
+              -130.2770184944,
+              56.2956361222
+            ],
+            [
+              -130.2707681851,
+              56.2956362016
+            ],
+            [
+              -130.26451789,
+              56.2956359571
+            ],
+            [
+              -130.2582675965,
+              56.2956360176
+            ],
+            [
+              -130.2582677629,
+              56.2998026701
+            ],
+            [
+              -130.2582679273,
+              56.3039693123
+            ],
+            [
+              -130.2582680909,
+              56.3081359532
+            ],
+            [
+              -130.2582682534,
+              56.3123025926
+            ],
+            [
+              -130.2582684151,
+              56.3164692307
+            ],
+            [
+              -130.2645186768,
+              56.3164691924
+            ],
+            [
+              -130.2707689239,
+              56.3164694597
+            ],
+            [
+              -130.2770191854,
+              56.3164694032
+            ],
+            [
+              -130.2832694516,
+              56.3164696787
+            ],
+            [
+              -130.2895197159,
+              56.3164696309
+            ],
+            [
+              -130.289519586,
+              56.3123029703
+            ],
+            [
+              -130.2895194533,
+              56.3081362905
+            ],
+            [
+              -130.2895193387,
+              56.3039696357
+            ],
+            [
+              -130.2895192211,
+              56.2998029615
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 535888,
+        "CLAIM_NAME": "ER1",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20060618190929",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 448.734,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 2,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 25,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 6,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20060618191032",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20060618191032",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41629229,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 4487340.9766,
+        "FEATURE_LENGTH_M": 8510.0326,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.2832675879,
+              56.2581364223
+            ],
+            [
+              -130.2832674468,
+              56.253969763
+            ],
+            [
+              -130.2770170875,
+              56.2539695733
+            ],
+            [
+              -130.2707667138,
+              56.2539696887
+            ],
+            [
+              -130.2645163392,
+              56.2539694893
+            ],
+            [
+              -130.2582659672,
+              56.2539696034
+            ],
+            [
+              -130.2520155943,
+              56.2539694027
+            ],
+            [
+              -130.2457653936,
+              56.2539694381
+            ],
+            [
+              -130.245765551,
+              56.2581360805
+            ],
+            [
+              -130.2457657246,
+              56.2623027297
+            ],
+            [
+              -130.2457658963,
+              56.2664693682
+            ],
+            [
+              -130.2457660841,
+              56.2706360136
+            ],
+            [
+              -130.2520162804,
+              56.27063595
+            ],
+            [
+              -130.2582666216,
+              56.2706361685
+            ],
+            [
+              -130.2645169618,
+              56.2706360722
+            ],
+            [
+              -130.2707673047,
+              56.2706362897
+            ],
+            [
+              -130.2770176456,
+              56.2706361835
+            ],
+            [
+              -130.2832679751,
+              56.2706364094
+            ],
+            [
+              -130.283267852,
+              56.2664697455
+            ],
+            [
+              -130.2832677119,
+              56.2623030806
+            ],
+            [
+              -130.2832675879,
+              56.2581364223
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 527349,
+        "CLAIM_NAME": "ESKAY RIFT 2",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20060209145529",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 431.277,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 17,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 6,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20060209145613",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20060209145613",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41628344,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 4312767.4294,
+        "FEATURE_LENGTH_M": 8357.426,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.2582679273,
+              56.3039693123
+            ],
+            [
+              -130.2582677629,
+              56.2998026701
+            ],
+            [
+              -130.2520174684,
+              56.2998024119
+            ],
+            [
+              -130.2457672781,
+              56.2998025091
+            ],
+            [
+              -130.2395171021,
+              56.2998022824
+            ],
+            [
+              -130.2332669122,
+              56.2998023701
+            ],
+            [
+              -130.2270167223,
+              56.2998021524
+            ],
+            [
+              -130.2270168901,
+              56.3039688098
+            ],
+            [
+              -130.2270170722,
+              56.3081354564
+            ],
+            [
+              -130.2270172391,
+              56.3123021201
+            ],
+            [
+              -130.2270174365,
+              56.3164687724
+            ],
+            [
+              -130.2270176168,
+              56.3206354239
+            ],
+            [
+              -130.2332677871,
+              56.3206356266
+            ],
+            [
+              -130.2395179737,
+              56.3206355235
+            ],
+            [
+              -130.2457681615,
+              56.3206357255
+            ],
+            [
+              -130.2520183322,
+              56.3206356137
+            ],
+            [
+              -130.2582685777,
+              56.3206358855
+            ],
+            [
+              -130.2582684151,
+              56.3164692307
+            ],
+            [
+              -130.2582682534,
+              56.3123025926
+            ],
+            [
+              -130.2582680909,
+              56.3081359532
+            ],
+            [
+              -130.2582679273,
+              56.3039693123
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 535892,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20060618192635",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 448.679,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 2,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 22,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 6,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20060618192736",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20060618192736",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41629232,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 4486792.6245,
+        "FEATURE_LENGTH_M": 8509.5589,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.2395165508,
+              56.2873023414
+            ],
+            [
+              -130.2332663753,
+              56.2873024229
+            ],
+            [
+              -130.2332662047,
+              56.2831357645
+            ],
+            [
+              -130.2332660188,
+              56.2789691231
+            ],
+            [
+              -130.2270158236,
+              56.2789688719
+            ],
+            [
+              -130.2207656153,
+              56.2789689439
+            ],
+            [
+              -130.2145153899,
+              56.2789687019
+            ],
+            [
+              -130.2082652138,
+              56.2789687631
+            ],
+            [
+              -130.2020150054,
+              56.2789685197
+            ],
+            [
+              -130.1957647826,
+              56.2789685905
+            ],
+            [
+              -130.1895145911,
+              56.2789683458
+            ],
+            [
+              -130.1832644011,
+              56.2789684147
+            ],
+            [
+              -130.1832645776,
+              56.2831350968
+            ],
+            [
+              -130.1832647865,
+              56.2873017853
+            ],
+            [
+              -130.1832649621,
+              56.2914684733
+            ],
+            [
+              -130.1895151658,
+              56.2914683884
+            ],
+            [
+              -130.1957653718,
+              56.2914686263
+            ],
+            [
+              -130.2020155759,
+              56.2914685408
+            ],
+            [
+              -130.2082657665,
+              56.2914687786
+            ],
+            [
+              -130.2145159552,
+              56.2914686929
+            ],
+            [
+              -130.2207661458,
+              56.2914689211
+            ],
+            [
+              -130.2270163515,
+              56.2914688343
+            ],
+            [
+              -130.2332665451,
+              56.2914690797
+            ],
+            [
+              -130.2395167358,
+              56.2914689928
+            ],
+            [
+              -130.2395165508,
+              56.2873023414
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 535897,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20060618194040",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 448.971,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 2,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 24,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 9,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20060618194142",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20060618194142",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41629236,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 4489707.3365,
+        "FEATURE_LENGTH_M": 9741.9425,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.2395169189,
+              56.2956356339
+            ],
+            [
+              -130.2395167358,
+              56.2914689928
+            ],
+            [
+              -130.2332665451,
+              56.2914690797
+            ],
+            [
+              -130.2270163515,
+              56.2914688343
+            ],
+            [
+              -130.2207661458,
+              56.2914689211
+            ],
+            [
+              -130.2145159552,
+              56.2914686929
+            ],
+            [
+              -130.2082657665,
+              56.2914687786
+            ],
+            [
+              -130.2020155759,
+              56.2914685408
+            ],
+            [
+              -130.1957653718,
+              56.2914686263
+            ],
+            [
+              -130.1895151658,
+              56.2914683884
+            ],
+            [
+              -130.1832649621,
+              56.2914684733
+            ],
+            [
+              -130.1832651844,
+              56.2956351494
+            ],
+            [
+              -130.1832653753,
+              56.2998018429
+            ],
+            [
+              -130.1832655644,
+              56.3039685261
+            ],
+            [
+              -130.1895157654,
+              56.3039684258
+            ],
+            [
+              -130.1957659527,
+              56.303968649
+            ],
+            [
+              -130.202016123,
+              56.3039685583
+            ],
+            [
+              -130.2082663271,
+              56.3039687804
+            ],
+            [
+              -130.2145165142,
+              56.3039686887
+            ],
+            [
+              -130.2207667183,
+              56.3039689015
+            ],
+            [
+              -130.2270168901,
+              56.3039688098
+            ],
+            [
+              -130.2270167223,
+              56.2998021524
+            ],
+            [
+              -130.2332669122,
+              56.2998023701
+            ],
+            [
+              -130.2395171021,
+              56.2998022824
+            ],
+            [
+              -130.2395169189,
+              56.2956356339
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 535896,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20060618193743",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 448.83,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 2,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 26,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 9,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20060618193841",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20060618193841",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41629235,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 4488302.7388,
+        "FEATURE_LENGTH_M": 9739.8683,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.2270170722,
+              56.3081354564
+            ],
+            [
+              -130.2270168901,
+              56.3039688098
+            ],
+            [
+              -130.2207667183,
+              56.3039689015
+            ],
+            [
+              -130.2145165142,
+              56.3039686887
+            ],
+            [
+              -130.2082663271,
+              56.3039687804
+            ],
+            [
+              -130.202016123,
+              56.3039685583
+            ],
+            [
+              -130.1957659527,
+              56.303968649
+            ],
+            [
+              -130.1895157654,
+              56.3039684258
+            ],
+            [
+              -130.1832655644,
+              56.3039685261
+            ],
+            [
+              -130.1832657696,
+              56.3081352164
+            ],
+            [
+              -130.183265973,
+              56.3123018963
+            ],
+            [
+              -130.1770157727,
+              56.3123016925
+            ],
+            [
+              -130.1770159761,
+              56.3164683763
+            ],
+            [
+              -130.1770161633,
+              56.3206350682
+            ],
+            [
+              -130.1832663467,
+              56.3206352711
+            ],
+            [
+              -130.1895165281,
+              56.3206351508
+            ],
+            [
+              -130.195766712,
+              56.3206353536
+            ],
+            [
+              -130.2020168797,
+              56.3206352515
+            ],
+            [
+              -130.2082670804,
+              56.3206354535
+            ],
+            [
+              -130.2145172469,
+              56.3206353334
+            ],
+            [
+              -130.2207674333,
+              56.3206355447
+            ],
+            [
+              -130.2270176168,
+              56.3206354239
+            ],
+            [
+              -130.2270174365,
+              56.3164687724
+            ],
+            [
+              -130.2270172391,
+              56.3123021201
+            ],
+            [
+              -130.2270170722,
+              56.3081354564
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 1041331,
+        "CLAIM_NAME": "FM#2",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20160116135557",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 538.3838,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 10,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 1,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20160116135607",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20160116135607",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41644391,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 5383837.8335,
+        "FEATURE_LENGTH_M": 9895.1148,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.1957638462,
+              56.2581352092
+            ],
+            [
+              -130.1957636507,
+              56.2539685372
+            ],
+            [
+              -130.189513438,
+              56.2539682624
+            ],
+            [
+              -130.1832632106,
+              56.2539683016
+            ],
+            [
+              -130.1832634088,
+              56.2581349928
+            ],
+            [
+              -130.1832636212,
+              56.2623016728
+            ],
+            [
+              -130.1832638176,
+              56.2664683607
+            ],
+            [
+              -130.1895140253,
+              56.2664682977
+            ],
+            [
+              -130.1957642355,
+              56.2664685572
+            ],
+            [
+              -130.1957640418,
+              56.2623018885
+            ],
+            [
+              -130.1957638462,
+              56.2581352092
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 535939,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20060619120351",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 107.8238,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 1,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 2,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 17,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 9,
+        "REDUCTION_EVENT_COUNT": 1,
+        "ENTRY_TIMESTAMP": "20060619120423",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20090814183019",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41629250,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 1078238.3786,
+        "FEATURE_LENGTH_M": 4335.8211,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.1957644292,
+              56.2706352332
+            ],
+            [
+              -130.1957642355,
+              56.2664685572
+            ],
+            [
+              -130.1895140253,
+              56.2664682977
+            ],
+            [
+              -130.1832638176,
+              56.2664683607
+            ],
+            [
+              -130.1832639959,
+              56.2706350385
+            ],
+            [
+              -130.1832641913,
+              56.2748017321
+            ],
+            [
+              -130.1832644011,
+              56.2789684147
+            ],
+            [
+              -130.1895145911,
+              56.2789683458
+            ],
+            [
+              -130.1957647826,
+              56.2789685905
+            ],
+            [
+              -130.1957646059,
+              56.2748019082
+            ],
+            [
+              -130.1957644292,
+              56.2706352332
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 535932,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20060619111102",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 107.7889,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 1,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 2,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 17,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 9,
+        "REDUCTION_EVENT_COUNT": 1,
+        "ENTRY_TIMESTAMP": "20060619111115",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20090814183621",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41629248,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 1077888.6827,
+        "FEATURE_LENGTH_M": 4335.311,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.189512901,
+              56.2456347911
+            ],
+            [
+              -130.1895125594,
+              56.2414679878
+            ],
+            [
+              -130.1832623334,
+              56.2414680474
+            ],
+            [
+              -130.1770121055,
+              56.2414677832
+            ],
+            [
+              -130.1707617687,
+              56.241467863
+            ],
+            [
+              -130.1707621089,
+              56.2456346459
+            ],
+            [
+              -130.1707624795,
+              56.2498014172
+            ],
+            [
+              -130.1770127995,
+              56.2498013365
+            ],
+            [
+              -130.1832630125,
+              56.2498016177
+            ],
+            [
+              -130.1832632106,
+              56.2539683016
+            ],
+            [
+              -130.189513438,
+              56.2539682624
+            ],
+            [
+              -130.1895132398,
+              56.2498015747
+            ],
+            [
+              -130.189512901,
+              56.2456347911
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 535940,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20060619120902",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 125.8426,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 1,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 2,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 16,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 9,
+        "REDUCTION_EVENT_COUNT": 1,
+        "ENTRY_TIMESTAMP": "20060619120925",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20090814182517",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41629251,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 1258426.4787,
+        "FEATURE_LENGTH_M": 5109.6776,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.166190907,
+              56.2627009279
+            ],
+            [
+              -130.1823334427,
+              56.2626999656
+            ],
+            [
+              -130.1823298286,
+              56.2537159866
+            ],
+            [
+              -130.1819994925,
+              56.2537160065
+            ],
+            [
+              -130.1661911148,
+              56.2537169087
+            ],
+            [
+              -130.166190907,
+              56.2627009279
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 251129,
+        "CLAIM_NAME": "TENNYSON 3",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MC4",
+        "TITLE_TYPE_DESCRIPTION": "Four Post Claim",
+        "ISSUE_DATE": "19830927",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 100,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": "92880",
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 20,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 9,
+        "REDUCTION_EVENT_COUNT": 1,
+        "ENTRY_TIMESTAMP": "20040930123259",
+        "ENTRY_USERID": "MIDA_LOAD",
+        "UPDATE_TIMESTAMP": "20040930123259",
+        "UPDATE_USERID": "MIDA_LOAD",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41621987,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 1000671.8566,
+        "FEATURE_LENGTH_M": 4001.3514,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.1832641913,
+              56.2748017321
+            ],
+            [
+              -130.1832639959,
+              56.2706350385
+            ],
+            [
+              -130.177013788,
+              56.2706347921
+            ],
+            [
+              -130.1707635026,
+              56.2706348798
+            ],
+            [
+              -130.1645132172,
+              56.2706346618
+            ],
+            [
+              -130.1582627761,
+              56.2706348075
+            ],
+            [
+              -130.1520123198,
+              56.2706346569
+            ],
+            [
+              -130.1457618796,
+              56.2706348105
+            ],
+            [
+              -130.1457621436,
+              56.2748015246
+            ],
+            [
+              -130.1457624058,
+              56.2789682281
+            ],
+            [
+              -130.1457626833,
+              56.2831349296
+            ],
+            [
+              -130.1520130736,
+              56.2831347705
+            ],
+            [
+              -130.1582634648,
+              56.2831349252
+            ],
+            [
+              -130.164513854,
+              56.2831347563
+            ],
+            [
+              -130.1707641207,
+              56.2831349592
+            ],
+            [
+              -130.1770144037,
+              56.2831348558
+            ],
+            [
+              -130.1832645776,
+              56.2831350968
+            ],
+            [
+              -130.1832644011,
+              56.2789684147
+            ],
+            [
+              -130.1832641913,
+              56.2748017321
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 508802,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050311113633",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 323.34,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 2,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 18,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 9,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050311113732",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050311113732",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41626019,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 3233395.1597,
+        "FEATURE_LENGTH_M": 7425.7551,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.1819994018,
+              56.271683937
+            ],
+            [
+              -130.1823371155,
+              56.2716839048
+            ],
+            [
+              -130.1823342648,
+              56.2647291638
+            ],
+            [
+              -130.1823334427,
+              56.2626999656
+            ],
+            [
+              -130.166190907,
+              56.2627009279
+            ],
+            [
+              -130.1661907969,
+              56.2716848342
+            ],
+            [
+              -130.1661916689,
+              56.2716848057
+            ],
+            [
+              -130.1819994018,
+              56.271683937
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 251130,
+        "CLAIM_NAME": "TENNYSON 4",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MC4",
+        "TITLE_TYPE_DESCRIPTION": "Four Post Claim",
+        "ISSUE_DATE": "19830927",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 100,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": "92881",
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 20,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 9,
+        "REDUCTION_EVENT_COUNT": 1,
+        "ENTRY_TIMESTAMP": "20040930123259",
+        "ENTRY_USERID": "MIDA_LOAD",
+        "UPDATE_TIMESTAMP": "20040930123259",
+        "UPDATE_USERID": "MIDA_LOAD",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41621988,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 1000662.7658,
+        "FEATURE_LENGTH_M": 4001.3398,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.1832655644,
+              56.3039685261
+            ],
+            [
+              -130.1832653753,
+              56.2998018429
+            ],
+            [
+              -130.1770151877,
+              56.2998016142
+            ],
+            [
+              -130.1707649395,
+              56.2998017283
+            ],
+            [
+              -130.1707651474,
+              56.3039684303
+            ],
+            [
+              -130.1707653534,
+              56.3081351219
+            ],
+            [
+              -130.1707655585,
+              56.3123018122
+            ],
+            [
+              -130.1707657646,
+              56.316468519
+            ],
+            [
+              -130.1770159761,
+              56.3164683763
+            ],
+            [
+              -130.1770157727,
+              56.3123016925
+            ],
+            [
+              -130.183265973,
+              56.3123018963
+            ],
+            [
+              -130.1832657696,
+              56.3081352164
+            ],
+            [
+              -130.1832655644,
+              56.3039685261
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 508811,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20050311124202",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 125.641,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": 2,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 16,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 7,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20050311124254",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20050311124254",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41626024,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 1256414.3707,
+        "FEATURE_LENGTH_M": 5263.8763,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.3895238028,
+              56.3123036996
+            ],
+            [
+              -130.3895239033,
+              56.316470444
+            ],
+            [
+              -130.395774166,
+              56.3164706012
+            ],
+            [
+              -130.3957740654,
+              56.3123038519
+            ],
+            [
+              -130.3895238028,
+              56.3123036996
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 1015780,
+        "CLAIM_NAME": null,
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MCX",
+        "TITLE_TYPE_DESCRIPTION": "Mineral Cell Title Submission",
+        "ISSUE_DATE": "20130107130733",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 17.9458,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": null,
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 5,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 7,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20130107130742",
+        "ENTRY_USERID": "MTA_ONLINE",
+        "UPDATE_TIMESTAMP": "20130107130742",
+        "UPDATE_USERID": "MTA_ONLINE",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41636173,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 179458.3553,
+        "FEATURE_LENGTH_M": 1701.8576,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.1725591676,
+              56.3006645046
+            ],
+            [
+              -130.1819989392,
+              56.3006648943
+            ],
+            [
+              -130.1819988966,
+              56.300000009
+            ],
+            [
+              -130.1819991453,
+              56.2826970613
+            ],
+            [
+              -130.1497009256,
+              56.2826927037
+            ],
+            [
+              -130.1496971466,
+              56.2826926829
+            ],
+            [
+              -130.1433500648,
+              56.2826908059
+            ],
+            [
+              -130.1433541777,
+              56.2863275333
+            ],
+            [
+              -130.1416178405,
+              56.2863281157
+            ],
+            [
+              -130.1416032187,
+              56.2999983205
+            ],
+            [
+              -130.1416032036,
+              56.3000000175
+            ],
+            [
+              -130.1416031119,
+              56.3000970823
+            ],
+            [
+              -130.1725585639,
+              56.3000911237
+            ],
+            [
+              -130.1725591676,
+              56.3006645046
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 409042,
+        "CLAIM_NAME": "TENN 4",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MC4",
+        "TITLE_TYPE_DESCRIPTION": "Four Post Claim",
+        "ISSUE_DATE": "20040312",
+        "GOOD_TO_DATE": "20331015",
+        "AREA_IN_HECTARES": 500,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": "243938",
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 13,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 10,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20040930123259",
+        "ENTRY_USERID": "MIDA_LOAD",
+        "UPDATE_TIMESTAMP": "20040930123259",
+        "UPDATE_USERID": "MIDA_LOAD",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41625366,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 4838859.978,
+        "FEATURE_LENGTH_M": 9002.5094,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.1433449546,
+              56.2782005658
+            ],
+            [
+              -130.1497010837,
+              56.27820077
+            ],
+            [
+              -130.1497015309,
+              56.2541521499
+            ],
+            [
+              -130.1461285456,
+              56.2541524172
+            ],
+            [
+              -130.1461460392,
+              56.2695436396
+            ],
+            [
+              -130.1433350587,
+              56.2695445404
+            ],
+            [
+              -130.1433449546,
+              56.2782005658
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 409040,
+        "CLAIM_NAME": "TENN 2",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MC4",
+        "TITLE_TYPE_DESCRIPTION": "Four Post Claim",
+        "ISSUE_DATE": "20040312",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 150,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": "243936",
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 11,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 10,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20040930123259",
+        "ENTRY_USERID": "MIDA_LOAD",
+        "UPDATE_TIMESTAMP": "20040930123259",
+        "UPDATE_USERID": "MIDA_LOAD",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41625365,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 758375.7609,
+        "FEATURE_LENGTH_M": 6154.882,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.1433500648,
+              56.2826908059
+            ],
+            [
+              -130.1496971466,
+              56.2826926829
+            ],
+            [
+              -130.1497009256,
+              56.2826927037
+            ],
+            [
+              -130.1497010479,
+              56.2782606974
+            ],
+            [
+              -130.1497010837,
+              56.27820077
+            ],
+            [
+              -130.1433449546,
+              56.2782005658
+            ],
+            [
+              -130.1433500648,
+              56.2826908059
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 409039,
+        "CLAIM_NAME": "TENN 1",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MC4",
+        "TITLE_TYPE_DESCRIPTION": "Four Post Claim",
+        "ISSUE_DATE": "20040312",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 25,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": "243935",
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 11,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 10,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20040930123259",
+        "ENTRY_USERID": "MIDA_LOAD",
+        "UPDATE_TIMESTAMP": "20040930123259",
+        "UPDATE_USERID": "MIDA_LOAD",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41625364,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 196794.4396,
+        "FEATURE_LENGTH_M": 1787.6898,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -130.1129096399,
+              56.3009302166
+            ],
+            [
+              -130.1321196327,
+              56.3009348924
+            ],
+            [
+              -130.1321627316,
+              56.3000973796
+            ],
+            [
+              -130.1416031119,
+              56.3000970823
+            ],
+            [
+              -130.1416032036,
+              56.3000000175
+            ],
+            [
+              -130.1416032187,
+              56.2999983205
+            ],
+            [
+              -130.1416178405,
+              56.2863281157
+            ],
+            [
+              -130.1128959366,
+              56.2863338125
+            ],
+            [
+              -130.1129087206,
+              56.2999998368
+            ],
+            [
+              -130.1129096399,
+              56.3009302166
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "TENURE_NUMBER_ID": 409053,
+        "CLAIM_NAME": "JOHN",
+        "TENURE_TYPE_CODE": "M",
+        "TENURE_TYPE_DESCRIPTION": "Mineral",
+        "TENURE_SUB_TYPE_CODE": "C",
+        "TENURE_SUB_TYPE_DESCRIPTION": "CLAIM",
+        "TITLE_TYPE_CODE": "MC4",
+        "TITLE_TYPE_DESCRIPTION": "Four Post Claim",
+        "ISSUE_DATE": "20040312",
+        "GOOD_TO_DATE": "20321015",
+        "AREA_IN_HECTARES": 400,
+        "PROTECTED_IND": "N",
+        "REVISION_NUMBER": 0,
+        "TAG_NUMBER": "243939",
+        "CLIENT_NUMBER_ID": 292316,
+        "OWNER_NAME": "LUXOR METALS LTD.",
+        "PERCENT_OWNERSHIP": 100,
+        "NUMBER_OF_OWNERS": 1,
+        "CASH_IN_LIEU_EVENT_COUNT": null,
+        "STATEMENT_OF_WORK_EVENT_COUNT": 17,
+        "COMPLAINTS_EVENT_COUNT": null,
+        "OWNERSHIP_TRANSFER_EVENT_COUNT": 7,
+        "REDUCTION_EVENT_COUNT": null,
+        "ENTRY_TIMESTAMP": "20040930123259",
+        "ENTRY_USERID": "MIDA_LOAD",
+        "UPDATE_TIMESTAMP": "20040930123259",
+        "UPDATE_USERID": "MIDA_LOAD",
+        "TERMINATION_DATE": null,
+        "TERMINATION_TYPE_DESCRIPTION": null,
+        "FEATURE_CODE": null,
+        "OBJECTID": 41625367,
+        "SE_ANNO_CAD_DATA": null,
+        "FEATURE_AREA_SQM": 2835425.4736,
+        "FEATURE_LENGTH_M": 6803.4871,
+        "GEOMETRY.AREA": 0,
+        "GEOMETRY.LEN": 0,
+        "fme_feature_type": "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW"
+      }
+    }
+  ]
+}

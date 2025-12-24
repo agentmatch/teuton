@@ -1,0 +1,48 @@
+/* Preload styles for investor map to prevent flash */
+.investor-page-wrapper {
+  background-color: #073440 !important;
+  min-height: 100vh;
+}
+
+/* Ensure map container has background before initialization */
+.mapboxgl-map {
+  background-color: #073440 !important;
+  opacity: 0 !important;
+}
+
+/* Prevent white flash on map canvas */
+.mapboxgl-canvas-container,
+.mapboxgl-canvas {
+  background-color: #073440 !important;
+  opacity: 0 !important;
+}
+
+/* Only show map when ready */
+.mapboxgl-map.map-ready,
+.mapboxgl-map.map-ready .mapboxgl-canvas-container,
+.mapboxgl-map.map-ready .mapboxgl-canvas {
+  opacity: 1 !important;
+  transition: opacity 0.8s ease-in-out;
+}
+
+/* Hide attribution during load */
+.mapboxgl-ctrl-attrib {
+  display: none;
+}
+
+/* Smooth loading state */
+@keyframes fadeInMap {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.map-loading {
+  background-color: #073440;
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}

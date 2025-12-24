@@ -1,0 +1,68 @@
+/* Force Mobile Navigation Visibility - Ultimate Override */
+
+/* Target any mobile navigation component with maximum specificity */
+@media (max-width: 767px) {
+  /* SimpleMobileNav component */
+  div[class*="fixed"][class*="bottom-0"][class*="z-\\[100005\\]"],
+  div.fixed.bottom-0.left-0.right-0.z-\[100005\],
+  /* Any element with inline styles containing z-index: 100005 */
+  div[style*="z-index: 100005"],
+  /* Target by position */
+  div[style*="position: fixed"][style*="bottom: 0"],
+  /* Fallback selectors */
+  .fixed.bottom-0.z-\[100005\],
+  [class*="MobileNav"],
+  [class*="mobile-nav"] {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: none !important;
+    pointer-events: auto !important;
+    position: fixed !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 100% !important;
+    height: auto !important;
+    min-height: 64px !important;
+    z-index: 100005 !important;
+  }
+  
+  /* Ensure nav content is visible */
+  div[class*="fixed"][class*="bottom-0"][class*="z-\\[100005\\]"] nav,
+  div.fixed.bottom-0.left-0.right-0.z-\[100005\] nav {
+    display: flex !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+  }
+  
+  /* Ensure buttons are clickable */
+  div[class*="fixed"][class*="bottom-0"][class*="z-\\[100005\\]"] button,
+  div.fixed.bottom-0.left-0.right-0.z-\[100005\] button {
+    pointer-events: auto !important;
+    cursor: pointer !important;
+  }
+}
+
+/* Also target touch devices */
+@media (hover: none) and (pointer: coarse) {
+  div[class*="fixed"][class*="bottom-0"][class*="z-\\[100005\\]"],
+  div.fixed.bottom-0.left-0.right-0.z-\[100005\],
+  div[style*="z-index: 100005"] {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+  }
+}
+
+/* Prevent any parent from hiding the nav */
+@media (max-width: 767px) {
+  body * {
+    overflow: visible !important;
+  }
+  
+  /* Ensure nothing covers the nav */
+  body > div:not([style*="z-index: 100005"]) {
+    z-index: auto !important;
+  }
+}

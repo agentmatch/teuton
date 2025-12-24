@@ -1,0 +1,31 @@
+/* Investor Page Mobile Headline Fix */
+@media screen and (max-width: 767px) {
+  /* Target the investor headline specifically */
+  .investor-mobile-headline,
+  h1[data-updated*="2025-06-23"] {
+    font-size: clamp(2.2rem, 7.5vw, 3.1rem) !important;
+    line-height: 1.1 !important;
+  }
+  
+  /* On very small screens */
+  @media (max-width: 375px) {
+    .investor-mobile-headline,
+    h1[data-updated*="2025-06-23"] {
+      font-size: clamp(1.9rem, 10vw, 2.5rem) !important;
+    }
+  }
+  
+  /* Ensure the font doesn't get overridden */
+  [data-theme="light"] .investor-mobile-headline,
+  [data-theme="light"] h1[data-updated*="2025-06-23"] {
+    font-size: clamp(2.2rem, 7.5vw, 3.1rem) !important;
+  }
+}
+
+/* Font fix for Aeonik Extended on mobile */
+@media screen and (max-width: 767px) {
+  .investor-mobile-headline,
+  h1[data-updated*="2025-06-23"] {
+    font-family: 'Aeonik Extended', 'Helvetica Neue', Arial, sans-serif !important;
+  }
+}

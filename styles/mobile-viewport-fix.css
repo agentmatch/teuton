@@ -1,0 +1,59 @@
+/* Fix viewport height issues on mobile */
+@media (max-width: 767px) {
+  /* Use dynamic viewport height to account for browser UI */
+  :root {
+    --vh: 1vh;
+  }
+  
+  /* Override the 100vh with dynamic viewport height */
+  body, html {
+    height: 100%;
+    max-height: calc(var(--vh, 1vh) * 100);
+  }
+  
+  /* Fix main container height */
+  main {
+    height: calc(var(--vh, 1vh) * 100) !important;
+    max-height: calc(var(--vh, 1vh) * 100) !important;
+  }
+  
+  /* Fix flex container */
+  .flex.min-h-screen {
+    height: calc(var(--vh, 1vh) * 100) !important;
+    max-height: calc(var(--vh, 1vh) * 100) !important;
+  }
+  
+  /* Ensure bottom navigation is always visible */
+  body {
+    padding-bottom: 0 !important; /* Remove any padding that pushes content down */
+  }
+  
+  /* Use transform to ensure nav is at visual bottom */
+  div[style*="position: fixed"][style*="bottom: 0"] {
+    bottom: 0 !important;
+    transform: translateY(0) !important;
+    /* Account for Android browser UI */
+    bottom: env(safe-area-inset-bottom, 0) !important;
+  }
+}
+
+/* Android specific fixes */
+@supports (-webkit-appearance: none) and (not (-webkit-touch-callout: none)) {
+  @media (max-width: 767px) {
+    /* Force bottom nav to stick to visual viewport */
+    div[style*="position: fixed"][style*="bottom: 0"] {
+      position: fixed !important;
+      bottom: 0 !important;
+      /* Use CSS env() for Android safe areas */
+      padding-bottom: env(safe-area-inset-bottom, 0) !important;
+    }
+  }
+}
+
+/* Fix for mobile menu close button */
+button[aria-label="Close menu"] {
+  z-index: 100020 !important; /* Higher than parent */
+  position: absolute !important;
+  cursor: pointer !important;
+  pointer-events: auto !important;
+}

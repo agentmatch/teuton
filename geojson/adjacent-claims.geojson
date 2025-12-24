@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red Mountain",
+        "owner": "Ascot Resources",
+        "type": "Gold Mine",
+        "status": "Permitted",
+        "description": "M&I resource: 782,600 oz Au, 2,155,800 oz Ag"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-129.765, 55.895],
+          [-129.755, 55.895],
+          [-129.755, 55.905],
+          [-129.765, 55.905],
+          [-129.765, 55.895]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gold Mountain",
+        "owner": "Other",
+        "type": "Exploration",
+        "status": "Active"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-129.785, 55.885],
+          [-129.775, 55.885],
+          [-129.775, 55.893],
+          [-129.785, 55.893],
+          [-129.785, 55.885]
+        ]]
+      }
+    }
+  ]
+}

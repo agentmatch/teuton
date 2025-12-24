@@ -1,0 +1,154 @@
+{
+  "devices": [
+    {
+      "name": "iPhone SE",
+      "viewport": { "width": 375, "height": 667 },
+      "deviceScaleFactor": 2,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+      "safeAreas": { "top": 20, "bottom": 0 },
+      "hasNotch": false,
+      "hasDynamicIsland": false,
+      "category": "standard"
+    },
+    {
+      "name": "iPhone 12 mini",
+      "viewport": { "width": 375, "height": 812 },
+      "deviceScaleFactor": 3,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+      "safeAreas": { "top": 44, "bottom": 34 },
+      "hasNotch": true,
+      "hasDynamicIsland": false,
+      "category": "mini"
+    },
+    {
+      "name": "iPhone 12",
+      "viewport": { "width": 390, "height": 844 },
+      "deviceScaleFactor": 3,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+      "safeAreas": { "top": 47, "bottom": 34 },
+      "hasNotch": true,
+      "hasDynamicIsland": false,
+      "category": "standard"
+    },
+    {
+      "name": "iPhone 12 Pro",
+      "viewport": { "width": 390, "height": 844 },
+      "deviceScaleFactor": 3,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+      "safeAreas": { "top": 47, "bottom": 34 },
+      "hasNotch": true,
+      "hasDynamicIsland": false,
+      "category": "pro"
+    },
+    {
+      "name": "iPhone 12 Pro Max",
+      "viewport": { "width": 428, "height": 926 },
+      "deviceScaleFactor": 3,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+      "safeAreas": { "top": 47, "bottom": 34 },
+      "hasNotch": true,
+      "hasDynamicIsland": false,
+      "category": "pro"
+    },
+    {
+      "name": "iPhone 13",
+      "viewport": { "width": 390, "height": 844 },
+      "deviceScaleFactor": 3,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+      "safeAreas": { "top": 47, "bottom": 34 },
+      "hasNotch": true,
+      "hasDynamicIsland": false,
+      "category": "standard"
+    },
+    {
+      "name": "iPhone 13 Pro",
+      "viewport": { "width": 390, "height": 844 },
+      "deviceScaleFactor": 3,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+      "safeAreas": { "top": 47, "bottom": 34 },
+      "hasNotch": true,
+      "hasDynamicIsland": false,
+      "category": "pro"
+    },
+    {
+      "name": "iPhone 13 Pro Max",
+      "viewport": { "width": 428, "height": 926 },
+      "deviceScaleFactor": 3,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+      "safeAreas": { "top": 47, "bottom": 34 },
+      "hasNotch": true,
+      "hasDynamicIsland": false,
+      "category": "pro"
+    },
+    {
+      "name": "iPhone 14",
+      "viewport": { "width": 390, "height": 844 },
+      "deviceScaleFactor": 3,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+      "safeAreas": { "top": 47, "bottom": 34 },
+      "hasNotch": true,
+      "hasDynamicIsland": false,
+      "category": "standard"
+    },
+    {
+      "name": "iPhone 14 Plus",
+      "viewport": { "width": 428, "height": 926 },
+      "deviceScaleFactor": 3,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+      "safeAreas": { "top": 47, "bottom": 34 },
+      "hasNotch": true,
+      "hasDynamicIsland": false,
+      "category": "plus"
+    },
+    {
+      "name": "iPhone 14 Pro",
+      "viewport": { "width": 393, "height": 852 },
+      "deviceScaleFactor": 3,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+      "safeAreas": { "top": 59, "bottom": 34 },
+      "hasNotch": false,
+      "hasDynamicIsland": true,
+      "category": "pro"
+    },
+    {
+      "name": "iPhone 14 Pro Max",
+      "viewport": { "width": 430, "height": 932 },
+      "deviceScaleFactor": 3,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+      "safeAreas": { "top": 59, "bottom": 34 },
+      "hasNotch": false,
+      "hasDynamicIsland": true,
+      "category": "pro"
+    },
+    {
+      "name": "iPhone 15",
+      "viewport": { "width": 393, "height": 852 },
+      "deviceScaleFactor": 3,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+      "safeAreas": { "top": 59, "bottom": 34 },
+      "hasNotch": false,
+      "hasDynamicIsland": true,
+      "category": "standard"
+    },
+    {
+      "name": "iPhone 15 Pro",
+      "viewport": { "width": 393, "height": 852 },
+      "deviceScaleFactor": 3,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+      "safeAreas": { "top": 59, "bottom": 34 },
+      "hasNotch": false,
+      "hasDynamicIsland": true,
+      "category": "pro"
+    },
+    {
+      "name": "iPhone 15 Pro Max",
+      "viewport": { "width": 430, "height": 932 },
+      "deviceScaleFactor": 3,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+      "safeAreas": { "top": 59, "bottom": 34 },
+      "hasNotch": false,
+      "hasDynamicIsland": true,
+      "category": "pro"
+    }
+  ]
+}

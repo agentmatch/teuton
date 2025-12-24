@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malachite Porphyry Zone",
+        "type": "zone",
+        "anchor": "end"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-129.740, 55.915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitch Zone (VMS)",
+        "type": "zone",
+        "anchor": "end"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-129.795, 55.898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pad 1",
+        "type": "drilling",
+        "anchor": "end"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-129.740, 55.905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pad 2",
+        "type": "drilling",
+        "anchor": "end"  
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-129.765, 55.880]
+      }
+    }
+  ]
+}

@@ -1,0 +1,983 @@
+{
+  "original": {
+    "iPhone_14_Pro": {
+      "performance": {
+        "domContentLoaded": 0,
+        "loadComplete": 0,
+        "firstPaint": 716,
+        "firstContentfulPaint": 716,
+        "jsHeapSize": 160430334,
+        "layoutCount": 0,
+        "totalLoadTime": 3227,
+        "requestCount": 96,
+        "totalTransferSize": 5549514,
+        "failedRequests": 0
+      },
+      "accessibility": {
+        "landmarks": {
+          "header": 1,
+          "nav": 3,
+          "main": 1,
+          "footer": 1
+        },
+        "headings": {
+          "h1": 2,
+          "h2": 0,
+          "h3": 3,
+          "h4": 2,
+          "h5": 0,
+          "h6": 0
+        },
+        "contrast": {
+          "passed": 0,
+          "failed": 0
+        },
+        "ariaLabels": 22,
+        "focusable": 37
+      },
+      "ux": {
+        "touchTargets": {
+          "total": 7,
+          "passed": 7,
+          "failed": 0,
+          "elements": []
+        },
+        "textReadability": {
+          "total": 177,
+          "passed": 9,
+          "failed": 168,
+          "elements": [
+            {
+              "tag": "DIV",
+              "text": "AboutProjectsInvestorsNewsCont",
+              "fontSize": "14px",
+              "lineHeight": "21px",
+              "ratio": "1.50"
+            },
+            {
+              "tag": "DIV",
+              "text": "AboutProjectsInvestorsNewsCont",
+              "fontSize": "14px",
+              "lineHeight": "21px",
+              "ratio": "1.50"
+            },
+            {
+              "tag": "DIV",
+              "text": "AboutProjectsInvestorsNewsCont",
+              "fontSize": "14px",
+              "lineHeight": "21px",
+              "ratio": "1.50"
+            },
+            {
+              "tag": "DIV",
+              "text": "About",
+              "fontSize": "13px",
+              "lineHeight": "20px",
+              "ratio": "1.54"
+            },
+            {
+              "tag": "DIV",
+              "text": "Projects",
+              "fontSize": "13px",
+              "lineHeight": "20px",
+              "ratio": "1.54"
+            },
+            {
+              "tag": "DIV",
+              "text": "Investors",
+              "fontSize": "13px",
+              "lineHeight": "20px",
+              "ratio": "1.54"
+            },
+            {
+              "tag": "DIV",
+              "text": "News",
+              "fontSize": "13px",
+              "lineHeight": "20px",
+              "ratio": "1.54"
+            },
+            {
+              "tag": "DIV",
+              "text": "Contact",
+              "fontSize": "13px",
+              "lineHeight": "20px",
+              "ratio": "1.54"
+            },
+            {
+              "tag": "DIV",
+              "text": "LUXRGOLDTSX-V: LUXR$0.200(+11.",
+              "fontSize": "14px",
+              "lineHeight": "21px",
+              "ratio": "1.50"
+            },
+            {
+              "tag": "DIV",
+              "text": "LUXRGOLD",
+              "fontSize": "14px",
+              "lineHeight": "21px",
+              "ratio": "1.50"
+            }
+          ]
+        },
+        "scrollFPS": 61,
+        "hasSkipLink": false,
+        "hasAltText": true,
+        "interactive": {
+          "buttons": 8,
+          "links": 27,
+          "forms": 0,
+          "hasHoverStates": true
+        },
+        "mobile": {
+          "viewportMeta": "width=device-width, initial-scale=1",
+          "hasTouchIcon": true,
+          "tapDelay": "",
+          "hasSwipeGestures": true
+        }
+      },
+      "network": {
+        "totalRequests": 116,
+        "failedRequests": 0,
+        "resourceTypes": {
+          "document": 1,
+          "font": 8,
+          "image": 2,
+          "stylesheet": 2,
+          "script": 9,
+          "other": 1,
+          "fetch": 93
+        },
+        "averageResponseTime": 0
+      },
+      "errors": []
+    },
+    "iPhone_SE": {
+      "performance": {
+        "domContentLoaded": 0,
+        "loadComplete": 0,
+        "firstPaint": 136,
+        "firstContentfulPaint": 136,
+        "jsHeapSize": 161817827,
+        "layoutCount": 0,
+        "totalLoadTime": 1617,
+        "requestCount": 86,
+        "totalTransferSize": 5058976,
+        "failedRequests": 0
+      },
+      "accessibility": {
+        "landmarks": {
+          "header": 1,
+          "nav": 3,
+          "main": 1,
+          "footer": 1
+        },
+        "headings": {
+          "h1": 2,
+          "h2": 0,
+          "h3": 3,
+          "h4": 2,
+          "h5": 0,
+          "h6": 0
+        },
+        "contrast": {
+          "passed": 0,
+          "failed": 0
+        },
+        "ariaLabels": 22,
+        "focusable": 37
+      },
+      "ux": {
+        "touchTargets": {
+          "total": 7,
+          "passed": 7,
+          "failed": 0,
+          "elements": []
+        },
+        "textReadability": {
+          "total": 177,
+          "passed": 9,
+          "failed": 168,
+          "elements": [
+            {
+              "tag": "DIV",
+              "text": "AboutProjectsInvestorsNewsCont",
+              "fontSize": "14px",
+              "lineHeight": "21px",
+              "ratio": "1.50"
+            },
+            {
+              "tag": "DIV",
+              "text": "AboutProjectsInvestorsNewsCont",
+              "fontSize": "14px",
+              "lineHeight": "21px",
+              "ratio": "1.50"
+            },
+            {
+              "tag": "DIV",
+              "text": "AboutProjectsInvestorsNewsCont",
+              "fontSize": "14px",
+              "lineHeight": "21px",
+              "ratio": "1.50"
+            },
+            {
+              "tag": "DIV",
+              "text": "About",
+              "fontSize": "13px",
+              "lineHeight": "20px",
+              "ratio": "1.54"
+            },
+            {
+              "tag": "DIV",
+              "text": "Projects",
+              "fontSize": "13px",
+              "lineHeight": "20px",
+              "ratio": "1.54"
+            },
+            {
+              "tag": "DIV",
+              "text": "Investors",
+              "fontSize": "13px",
+              "lineHeight": "20px",
+              "ratio": "1.54"
+            },
+            {
+              "tag": "DIV",
+              "text": "News",
+              "fontSize": "13px",
+              "lineHeight": "20px",
+              "ratio": "1.54"
+            },
+            {
+              "tag": "DIV",
+              "text": "Contact",
+              "fontSize": "13px",
+              "lineHeight": "20px",
+              "ratio": "1.54"
+            },
+            {
+              "tag": "DIV",
+              "text": "LUXRGOLDTSX-V: LUXR$0.200(+11.",
+              "fontSize": "14px",
+              "lineHeight": "21px",
+              "ratio": "1.50"
+            },
+            {
+              "tag": "DIV",
+              "text": "LUXRGOLD",
+              "fontSize": "14px",
+              "lineHeight": "21px",
+              "ratio": "1.50"
+            }
+          ]
+        },
+        "scrollFPS": 60,
+        "hasSkipLink": false,
+        "hasAltText": true,
+        "interactive": {
+          "buttons": 8,
+          "links": 27,
+          "forms": 0,
+          "hasHoverStates": true
+        },
+        "mobile": {
+          "viewportMeta": "width=device-width, initial-scale=1",
+          "hasTouchIcon": true,
+          "tapDelay": "",
+          "hasSwipeGestures": true
+        }
+      },
+      "network": {
+        "totalRequests": 102,
+        "failedRequests": 0,
+        "resourceTypes": {
+          "document": 1,
+          "font": 8,
+          "image": 2,
+          "stylesheet": 2,
+          "script": 9,
+          "other": 1,
+          "fetch": 79
+        },
+        "averageResponseTime": 0
+      },
+      "errors": []
+    },
+    "Desktop_1080p": {
+      "performance": {
+        "domContentLoaded": 0,
+        "loadComplete": 0,
+        "firstPaint": 136,
+        "firstContentfulPaint": 136,
+        "jsHeapSize": 152492743,
+        "layoutCount": 0,
+        "totalLoadTime": 1885,
+        "requestCount": 356,
+        "totalTransferSize": 8673962,
+        "failedRequests": 0
+      },
+      "accessibility": {
+        "landmarks": {
+          "header": 1,
+          "nav": 3,
+          "main": 1,
+          "footer": 1
+        },
+        "headings": {
+          "h1": 2,
+          "h2": 0,
+          "h3": 4,
+          "h4": 2,
+          "h5": 0,
+          "h6": 0
+        },
+        "contrast": {
+          "passed": 0,
+          "failed": 0
+        },
+        "ariaLabels": 22,
+        "focusable": 37
+      },
+      "ux": {
+        "touchTargets": {
+          "total": 12,
+          "passed": 2,
+          "failed": 10,
+          "elements": [
+            {
+              "tag": "A",
+              "text": "© Mapbox",
+              "size": "57x14",
+              "class": ""
+            },
+            {
+              "tag": "A",
+              "text": "© OpenStreetMap",
+              "size": "98x14",
+              "class": ""
+            },
+            {
+              "tag": "A",
+              "text": "Improve this map",
+              "size": "99x14",
+              "class": "mapbox-improve-map"
+            },
+            {
+              "tag": "A",
+              "text": "© Maxar",
+              "size": "46x14",
+              "class": ""
+            },
+            {
+              "tag": "A",
+              "text": "",
+              "size": "88x23",
+              "class": "mapboxgl-ctrl-logo"
+            },
+            {
+              "tag": "A",
+              "text": "© Mapbox",
+              "size": "57x14",
+              "class": ""
+            },
+            {
+              "tag": "A",
+              "text": "© OpenStreetMap",
+              "size": "98x14",
+              "class": ""
+            },
+            {
+              "tag": "A",
+              "text": "Improve this map",
+              "size": "99x14",
+              "class": "mapbox-improve-map"
+            },
+            {
+              "tag": "A",
+              "text": "© Maxar",
+              "size": "46x14",
+              "class": ""
+            },
+            {
+              "tag": "A",
+              "text": "",
+              "size": "88x23",
+              "class": "mapboxgl-ctrl-logo"
+            }
+          ]
+        },
+        "textReadability": {
+          "total": 202,
+          "passed": 96,
+          "failed": 106,
+          "elements": [
+            {
+              "tag": "DIV",
+              "text": "About",
+              "fontSize": "13px",
+              "lineHeight": "20px",
+              "ratio": "1.54"
+            },
+            {
+              "tag": "DIV",
+              "text": "Projects",
+              "fontSize": "13px",
+              "lineHeight": "20px",
+              "ratio": "1.54"
+            },
+            {
+              "tag": "DIV",
+              "text": "Investors",
+              "fontSize": "13px",
+              "lineHeight": "20px",
+              "ratio": "1.54"
+            },
+            {
+              "tag": "DIV",
+              "text": "News",
+              "fontSize": "13px",
+              "lineHeight": "20px",
+              "ratio": "1.54"
+            },
+            {
+              "tag": "DIV",
+              "text": "Contact",
+              "fontSize": "13px",
+              "lineHeight": "20px",
+              "ratio": "1.54"
+            },
+            {
+              "tag": "SPAN",
+              "text": "(+11.11%)",
+              "fontSize": "12px",
+              "lineHeight": "18px",
+              "ratio": "1.50"
+            },
+            {
+              "tag": "DIV",
+              "text": "© Mapbox © OpenStreetMap Impro",
+              "fontSize": "12px",
+              "lineHeight": "20px",
+              "ratio": "1.67"
+            },
+            {
+              "tag": "DIV",
+              "text": "© Mapbox © OpenStreetMap Impro",
+              "fontSize": "12px",
+              "lineHeight": "20px",
+              "ratio": "1.67"
+            },
+            {
+              "tag": "DIV",
+              "text": "© Mapbox © OpenStreetMap Impro",
+              "fontSize": "12px",
+              "lineHeight": "20px",
+              "ratio": "1.67"
+            },
+            {
+              "tag": "DIV",
+              "text": "© Mapbox © OpenStreetMap Impro",
+              "fontSize": "12px",
+              "lineHeight": "20px",
+              "ratio": "1.67"
+            }
+          ]
+        },
+        "scrollFPS": 58,
+        "hasSkipLink": false,
+        "hasAltText": true,
+        "interactive": {
+          "buttons": 8,
+          "links": 27,
+          "forms": 0,
+          "hasHoverStates": true
+        }
+      },
+      "network": {
+        "totalRequests": 416,
+        "failedRequests": 0,
+        "resourceTypes": {
+          "document": 1,
+          "font": 9,
+          "image": 2,
+          "stylesheet": 2,
+          "script": 9,
+          "other": 1,
+          "fetch": 392
+        },
+        "averageResponseTime": 0
+      },
+      "errors": []
+    }
+  },
+  "optimized": {
+    "iPhone_14_Pro": {
+      "performance": {
+        "domContentLoaded": 0,
+        "loadComplete": 0,
+        "firstPaint": 136,
+        "firstContentfulPaint": 136,
+        "jsHeapSize": 176081560,
+        "layoutCount": 0,
+        "totalLoadTime": 2127,
+        "requestCount": 94,
+        "totalTransferSize": 5312924,
+        "failedRequests": 0
+      },
+      "accessibility": {
+        "landmarks": {
+          "header": 1,
+          "nav": 3,
+          "main": 1,
+          "footer": 1
+        },
+        "headings": {
+          "h1": 2,
+          "h2": 0,
+          "h3": 3,
+          "h4": 2,
+          "h5": 0,
+          "h6": 0
+        },
+        "contrast": {
+          "passed": 0,
+          "failed": 0
+        },
+        "ariaLabels": 23,
+        "focusable": 41
+      },
+      "ux": {
+        "touchTargets": {
+          "total": 8,
+          "passed": 8,
+          "failed": 0,
+          "elements": []
+        },
+        "textReadability": {
+          "total": 183,
+          "passed": 155,
+          "failed": 28,
+          "elements": [
+            {
+              "tag": "A",
+              "text": "About",
+              "fontSize": "13px",
+              "lineHeight": "22.5px",
+              "ratio": "1.73"
+            },
+            {
+              "tag": "A",
+              "text": "Investors",
+              "fontSize": "13px",
+              "lineHeight": "22.5px",
+              "ratio": "1.73"
+            },
+            {
+              "tag": "A",
+              "text": "Skip to main content",
+              "fontSize": "15.75px",
+              "lineHeight": "26.775px",
+              "ratio": "1.70"
+            },
+            {
+              "tag": "BUTTON",
+              "text": "Performance: auto",
+              "fontSize": "18px",
+              "lineHeight": "18px",
+              "ratio": "1.00"
+            },
+            {
+              "tag": "A",
+              "text": "© Mapbox",
+              "fontSize": "15.75px",
+              "lineHeight": "32px",
+              "ratio": "2.03"
+            },
+            {
+              "tag": "A",
+              "text": "© OpenStreetMap",
+              "fontSize": "15.75px",
+              "lineHeight": "32px",
+              "ratio": "2.03"
+            },
+            {
+              "tag": "A",
+              "text": "Improve this map",
+              "fontSize": "15.75px",
+              "lineHeight": "32px",
+              "ratio": "2.03"
+            },
+            {
+              "tag": "A",
+              "text": "© Maxar",
+              "fontSize": "15.75px",
+              "lineHeight": "32px",
+              "ratio": "2.03"
+            },
+            {
+              "tag": "A",
+              "text": "© Mapbox",
+              "fontSize": "15.75px",
+              "lineHeight": "32px",
+              "ratio": "2.03"
+            },
+            {
+              "tag": "A",
+              "text": "© OpenStreetMap",
+              "fontSize": "15.75px",
+              "lineHeight": "32px",
+              "ratio": "2.03"
+            }
+          ]
+        },
+        "scrollFPS": 60,
+        "hasSkipLink": true,
+        "hasAltText": true,
+        "interactive": {
+          "buttons": 9,
+          "links": 30,
+          "forms": 0,
+          "hasHoverStates": true
+        },
+        "mobile": {
+          "viewportMeta": "width=device-width, initial-scale=1",
+          "hasTouchIcon": true,
+          "tapDelay": "",
+          "hasSwipeGestures": true
+        }
+      },
+      "network": {
+        "totalRequests": 112,
+        "failedRequests": 0,
+        "resourceTypes": {
+          "document": 1,
+          "font": 9,
+          "image": 2,
+          "stylesheet": 2,
+          "script": 12,
+          "other": 1,
+          "fetch": 85
+        },
+        "averageResponseTime": 0
+      },
+      "errors": [],
+      "optimizations": {
+        "hasPerformanceMode": true,
+        "hasLazyLoading": true,
+        "hasSuspenseBoundary": false,
+        "hasReducedMotion": false,
+        "fontOptimization": true
+      }
+    },
+    "iPhone_SE": {
+      "performance": {
+        "domContentLoaded": 0,
+        "loadComplete": 0,
+        "firstPaint": 116,
+        "firstContentfulPaint": 116,
+        "jsHeapSize": 148591790,
+        "layoutCount": 0,
+        "totalLoadTime": 2018,
+        "requestCount": 87,
+        "totalTransferSize": 4943986,
+        "failedRequests": 0
+      },
+      "accessibility": {
+        "landmarks": {
+          "header": 1,
+          "nav": 3,
+          "main": 1,
+          "footer": 1
+        },
+        "headings": {
+          "h1": 2,
+          "h2": 0,
+          "h3": 3,
+          "h4": 2,
+          "h5": 0,
+          "h6": 0
+        },
+        "contrast": {
+          "passed": 0,
+          "failed": 0
+        },
+        "ariaLabels": 23,
+        "focusable": 41
+      },
+      "ux": {
+        "touchTargets": {
+          "total": 8,
+          "passed": 8,
+          "failed": 0,
+          "elements": []
+        },
+        "textReadability": {
+          "total": 183,
+          "passed": 155,
+          "failed": 28,
+          "elements": [
+            {
+              "tag": "A",
+              "text": "About",
+              "fontSize": "13px",
+              "lineHeight": "22.5px",
+              "ratio": "1.73"
+            },
+            {
+              "tag": "A",
+              "text": "Investors",
+              "fontSize": "13px",
+              "lineHeight": "22.5px",
+              "ratio": "1.73"
+            },
+            {
+              "tag": "A",
+              "text": "Skip to main content",
+              "fontSize": "15.75px",
+              "lineHeight": "26.775px",
+              "ratio": "1.70"
+            },
+            {
+              "tag": "BUTTON",
+              "text": "Performance: auto",
+              "fontSize": "18px",
+              "lineHeight": "18px",
+              "ratio": "1.00"
+            },
+            {
+              "tag": "A",
+              "text": "© Mapbox",
+              "fontSize": "15.75px",
+              "lineHeight": "32px",
+              "ratio": "2.03"
+            },
+            {
+              "tag": "A",
+              "text": "© OpenStreetMap",
+              "fontSize": "15.75px",
+              "lineHeight": "32px",
+              "ratio": "2.03"
+            },
+            {
+              "tag": "A",
+              "text": "Improve this map",
+              "fontSize": "15.75px",
+              "lineHeight": "32px",
+              "ratio": "2.03"
+            },
+            {
+              "tag": "A",
+              "text": "© Maxar",
+              "fontSize": "15.75px",
+              "lineHeight": "32px",
+              "ratio": "2.03"
+            },
+            {
+              "tag": "A",
+              "text": "© Mapbox",
+              "fontSize": "15.75px",
+              "lineHeight": "32px",
+              "ratio": "2.03"
+            },
+            {
+              "tag": "A",
+              "text": "© OpenStreetMap",
+              "fontSize": "15.75px",
+              "lineHeight": "32px",
+              "ratio": "2.03"
+            }
+          ]
+        },
+        "scrollFPS": 58,
+        "hasSkipLink": true,
+        "hasAltText": true,
+        "interactive": {
+          "buttons": 9,
+          "links": 30,
+          "forms": 0,
+          "hasHoverStates": true
+        },
+        "mobile": {
+          "viewportMeta": "width=device-width, initial-scale=1",
+          "hasTouchIcon": true,
+          "tapDelay": "",
+          "hasSwipeGestures": true
+        }
+      },
+      "network": {
+        "totalRequests": 105,
+        "failedRequests": 0,
+        "resourceTypes": {
+          "document": 1,
+          "font": 9,
+          "image": 2,
+          "stylesheet": 2,
+          "script": 12,
+          "other": 1,
+          "fetch": 78
+        },
+        "averageResponseTime": 0
+      },
+      "errors": [],
+      "optimizations": {
+        "hasPerformanceMode": true,
+        "hasLazyLoading": true,
+        "hasSuspenseBoundary": false,
+        "hasReducedMotion": false,
+        "fontOptimization": true
+      }
+    },
+    "Desktop_1080p": {
+      "performance": {
+        "domContentLoaded": 0,
+        "loadComplete": 0,
+        "firstPaint": 128,
+        "firstContentfulPaint": 128,
+        "jsHeapSize": 152520093,
+        "layoutCount": 0,
+        "totalLoadTime": 1960,
+        "requestCount": 377,
+        "totalTransferSize": 9023106,
+        "failedRequests": 0
+      },
+      "accessibility": {
+        "landmarks": {
+          "header": 1,
+          "nav": 3,
+          "main": 1,
+          "footer": 1
+        },
+        "headings": {
+          "h1": 2,
+          "h2": 0,
+          "h3": 4,
+          "h4": 2,
+          "h5": 0,
+          "h6": 0
+        },
+        "contrast": {
+          "passed": 0,
+          "failed": 0
+        },
+        "ariaLabels": 23,
+        "focusable": 41
+      },
+      "ux": {
+        "touchTargets": {
+          "total": 16,
+          "passed": 16,
+          "failed": 0,
+          "elements": []
+        },
+        "textReadability": {
+          "total": 208,
+          "passed": 99,
+          "failed": 109,
+          "elements": [
+            {
+              "tag": "A",
+              "text": "About",
+              "fontSize": "13px",
+              "lineHeight": "20px",
+              "ratio": "1.54"
+            },
+            {
+              "tag": "DIV",
+              "text": "Projects",
+              "fontSize": "13px",
+              "lineHeight": "20px",
+              "ratio": "1.54"
+            },
+            {
+              "tag": "A",
+              "text": "Investors",
+              "fontSize": "13px",
+              "lineHeight": "20px",
+              "ratio": "1.54"
+            },
+            {
+              "tag": "DIV",
+              "text": "News",
+              "fontSize": "13px",
+              "lineHeight": "20px",
+              "ratio": "1.54"
+            },
+            {
+              "tag": "DIV",
+              "text": "Contact",
+              "fontSize": "13px",
+              "lineHeight": "20px",
+              "ratio": "1.54"
+            },
+            {
+              "tag": "SPAN",
+              "text": "(+11.11%)",
+              "fontSize": "12px",
+              "lineHeight": "18px",
+              "ratio": "1.50"
+            },
+            {
+              "tag": "BUTTON",
+              "text": "Performance: auto",
+              "fontSize": "12px",
+              "lineHeight": "16px",
+              "ratio": "1.33"
+            },
+            {
+              "tag": "SPAN",
+              "text": "Performance: auto",
+              "fontSize": "12px",
+              "lineHeight": "16px",
+              "ratio": "1.33"
+            },
+            {
+              "tag": "DIV",
+              "text": "© Mapbox © OpenStreetMap Impro",
+              "fontSize": "12px",
+              "lineHeight": "20px",
+              "ratio": "1.67"
+            },
+            {
+              "tag": "DIV",
+              "text": "© Mapbox © OpenStreetMap Impro",
+              "fontSize": "12px",
+              "lineHeight": "20px",
+              "ratio": "1.67"
+            }
+          ]
+        },
+        "scrollFPS": 49,
+        "hasSkipLink": true,
+        "hasAltText": true,
+        "interactive": {
+          "buttons": 9,
+          "links": 30,
+          "forms": 0,
+          "hasHoverStates": true
+        }
+      },
+      "network": {
+        "totalRequests": 420,
+        "failedRequests": 0,
+        "resourceTypes": {
+          "document": 1,
+          "font": 10,
+          "image": 2,
+          "stylesheet": 2,
+          "script": 12,
+          "other": 1,
+          "fetch": 392
+        },
+        "averageResponseTime": 0
+      },
+      "errors": [],
+      "optimizations": {
+        "hasPerformanceMode": true,
+        "hasLazyLoading": true,
+        "hasSuspenseBoundary": false,
+        "hasReducedMotion": false,
+        "fontOptimization": true
+      }
+    }
+  },
+  "timestamp": "2025-06-23T00:40:36.164Z"
+}

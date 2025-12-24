@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pad 1",
+        "zone": "Malachite Porphyry",
+        "holes": "RAM-25-001, RAM-25-002",
+        "holeCount": 2,
+        "label": "2 holes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -129.76633082720403,
+          55.89958304088123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pad 2",
+        "zone": "Mitch VMS",
+        "holes": "",
+        "holeCount": 0,
+        "label": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -129.7691729316288,
+          55.89425585169981
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+/* Fix for mobile menu items displaying horizontally */
+@media (max-width: 767px) {
+  /* Force nav to be vertical */
+  nav.space-y-3 {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 0.75rem !important;
+  }
+  
+  /* Ensure all direct children are full width */
+  nav.space-y-3 > * {
+    width: 100% !important;
+  }
+  
+  /* Fix for the Projects split buttons */
+  nav.space-y-3 .flex {
+    display: flex !important;
+    flex-direction: row !important;
+    gap: 0.5rem !important;
+  }
+  
+  /* Ensure links are block level */
+  nav.space-y-3 a {
+    display: block !important;
+  }
+}
+
+/* Fix for bottom navigation visibility */
+@media (max-width: 767px) {
+  /* Remove any transforms or fixed positioning from body/html on mobile */
+  html, body {
+    transform: none !important;
+    position: relative !important;
+  }
+  
+  /* Ensure the main content doesn't overlap bottom nav */
+  main {
+    padding-bottom: 80px !important; /* 64px nav + 16px safe area */
+  }
+  
+  /* Force bottom nav to be visible */
+  div[style*="bottom: 0"][style*="position: fixed"] {
+    bottom: 0 !important;
+    transform: translateY(0) !important;
+  }
+}

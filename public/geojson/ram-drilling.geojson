@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "holeId": "RAM-25-005",
+        "zone": "Discovery Zone",
+        "elevation": 1502,
+        "azimuth": 270.0,
+        "dip": -45,
+        "depth": 198.30,
+        "utmE": 452150,
+        "utmN": 6195250,
+        "pad": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -129.765454,
+          55.900284
+        ]
+      }
+    }
+  ]
+}

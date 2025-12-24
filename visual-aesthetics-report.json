@@ -1,0 +1,1766 @@
+{
+  "timestamp": "2025-06-23T01:03:16.351Z",
+  "issuesFound": 180,
+  "issues": [
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div.flex",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div.jsx-48fe7150c43c0253",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div.absolute",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "span",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "SPAN.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "span.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "SPAN.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "SPAN.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "span.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "SPAN.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "SPAN.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "span.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "SPAN.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "SPAN.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "span.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "SPAN.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "SPAN.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div.fixed",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "BUTTON.flex",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "SPAN.text-xs",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "BUTTON.flex",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "SPAN.text-xs",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div.absolute",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-48fe7150c43c0253",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "SPAN.jsx-48fe7150c43c0253",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div.kyba-tooltip",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "span",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "SPAN",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div.kyba-tooltip",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_text",
+      "selector": "span",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "cramped_text",
+      "selector": "SPAN",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "oversized_header",
+      "selector": "h1.jsx-7e367e7cb84d7112",
+      "fontSize": 36,
+      "issue": "Header too wide for viewport",
+      "recommendation": 28.8
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "hierarchy_issue",
+      "selector": "multiple_elements",
+      "fontSize": 18,
+      "issue": "Too many elements with same large font size",
+      "recommendation": "vary_sizes"
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "hierarchy_issue",
+      "selector": "multiple_elements",
+      "fontSize": 18,
+      "issue": "Too many elements with same large font size",
+      "recommendation": "vary_sizes"
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "hierarchy_issue",
+      "selector": "multiple_elements",
+      "fontSize": 18,
+      "issue": "Too many elements with same large font size",
+      "recommendation": "vary_sizes"
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "hierarchy_issue",
+      "selector": "multiple_elements",
+      "fontSize": 18,
+      "issue": "Too many elements with same large font size",
+      "recommendation": "vary_sizes"
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "hierarchy_issue",
+      "selector": "multiple_elements",
+      "fontSize": 18,
+      "issue": "Too many elements with same large font size",
+      "recommendation": "vary_sizes"
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "hierarchy_issue",
+      "selector": "multiple_elements",
+      "fontSize": 18,
+      "issue": "Too many elements with same large font size",
+      "recommendation": "vary_sizes"
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "hierarchy_issue",
+      "selector": "multiple_elements",
+      "fontSize": 18,
+      "issue": "Too many elements with same large font size",
+      "recommendation": "vary_sizes"
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "hierarchy_issue",
+      "selector": "multiple_elements",
+      "fontSize": 18,
+      "issue": "Too many elements with same large font size",
+      "recommendation": "vary_sizes"
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "nav_text",
+      "selector": "nav",
+      "fontSize": 18,
+      "issue": "Navigation text too large",
+      "recommendation": 15
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "nav_text",
+      "selector": "nav",
+      "fontSize": 18,
+      "issue": "Navigation text too large",
+      "recommendation": 15
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "nav_text",
+      "selector": "nav",
+      "fontSize": 18,
+      "issue": "Navigation text too large",
+      "recommendation": 15
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "nav_text",
+      "selector": "nav",
+      "fontSize": 18,
+      "issue": "Navigation text too large",
+      "recommendation": 15
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "nav_text",
+      "selector": "nav",
+      "fontSize": 18,
+      "issue": "Navigation text too large",
+      "recommendation": 15
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "button_text",
+      "selector": "button",
+      "fontSize": 18,
+      "height": 89.348388671875,
+      "issue": "Button text causing oversized buttons",
+      "recommendation": 14
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "button_text",
+      "selector": "button",
+      "fontSize": 18,
+      "height": 85.09375,
+      "issue": "Button text causing oversized buttons",
+      "recommendation": 14
+    },
+    {
+      "device": "iPhone_14_Pro",
+      "type": "button_text",
+      "selector": "button",
+      "fontSize": 18,
+      "height": 115.6875,
+      "issue": "Button text causing oversized buttons",
+      "recommendation": 14
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div.flex",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div.jsx-48fe7150c43c0253",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div.absolute",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "span",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "SPAN.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "span.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "SPAN.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "SPAN.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "span.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "SPAN.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "SPAN.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "span.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "SPAN.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "SPAN.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "span.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "SPAN.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "SPAN.jsx-7e367e7cb84d7112",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div.fixed",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "BUTTON.flex",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "span.text-xs",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "SPAN.text-xs",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "BUTTON.flex",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "span.text-xs",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "SPAN.text-xs",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div.absolute",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "DIV.jsx-48fe7150c43c0253",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "SPAN.jsx-48fe7150c43c0253",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div.kyba-tooltip",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "span",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "SPAN",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div.kyba-tooltip",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "div",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_text",
+      "selector": "span",
+      "fontSize": 18,
+      "issue": "Text too large for container",
+      "recommendation": 15.299999999999999
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "cramped_text",
+      "selector": "SPAN",
+      "fontSize": 18,
+      "lineHeight": 30.6,
+      "issue": "Text appears bunched up",
+      "recommendation": {
+        "fontSize": 16,
+        "lineHeight": 28.8
+      }
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "oversized_header",
+      "selector": "h1.jsx-7e367e7cb84d7112",
+      "fontSize": 36,
+      "issue": "Header too wide for viewport",
+      "recommendation": 28.8
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "hierarchy_issue",
+      "selector": "multiple_elements",
+      "fontSize": 18,
+      "issue": "Too many elements with same large font size",
+      "recommendation": "vary_sizes"
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "hierarchy_issue",
+      "selector": "multiple_elements",
+      "fontSize": 18,
+      "issue": "Too many elements with same large font size",
+      "recommendation": "vary_sizes"
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "hierarchy_issue",
+      "selector": "multiple_elements",
+      "fontSize": 18,
+      "issue": "Too many elements with same large font size",
+      "recommendation": "vary_sizes"
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "hierarchy_issue",
+      "selector": "multiple_elements",
+      "fontSize": 18,
+      "issue": "Too many elements with same large font size",
+      "recommendation": "vary_sizes"
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "hierarchy_issue",
+      "selector": "multiple_elements",
+      "fontSize": 18,
+      "issue": "Too many elements with same large font size",
+      "recommendation": "vary_sizes"
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "hierarchy_issue",
+      "selector": "multiple_elements",
+      "fontSize": 18,
+      "issue": "Too many elements with same large font size",
+      "recommendation": "vary_sizes"
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "hierarchy_issue",
+      "selector": "multiple_elements",
+      "fontSize": 18,
+      "issue": "Too many elements with same large font size",
+      "recommendation": "vary_sizes"
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "hierarchy_issue",
+      "selector": "multiple_elements",
+      "fontSize": 18,
+      "issue": "Too many elements with same large font size",
+      "recommendation": "vary_sizes"
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "nav_text",
+      "selector": "nav",
+      "fontSize": 18,
+      "issue": "Navigation text too large",
+      "recommendation": 15
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "nav_text",
+      "selector": "nav",
+      "fontSize": 18,
+      "issue": "Navigation text too large",
+      "recommendation": 15
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "nav_text",
+      "selector": "nav",
+      "fontSize": 18,
+      "issue": "Navigation text too large",
+      "recommendation": 15
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "nav_text",
+      "selector": "nav",
+      "fontSize": 18,
+      "issue": "Navigation text too large",
+      "recommendation": 15
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "nav_text",
+      "selector": "nav",
+      "fontSize": 18,
+      "issue": "Navigation text too large",
+      "recommendation": 15
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "button_text",
+      "selector": "button",
+      "fontSize": 18,
+      "height": 89.348388671875,
+      "issue": "Button text causing oversized buttons",
+      "recommendation": 14
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "button_text",
+      "selector": "button",
+      "fontSize": 18,
+      "height": 85.09375,
+      "issue": "Button text causing oversized buttons",
+      "recommendation": 14
+    },
+    {
+      "device": "iPhone_SE",
+      "type": "button_text",
+      "selector": "button",
+      "fontSize": 18,
+      "height": 115.6875,
+      "issue": "Button text causing oversized buttons",
+      "recommendation": 14
+    }
+  ],
+  "fixesApplied": [
+    "Reduced base font size from 18px to 16px",
+    "Adjusted line height from 1.7 to 1.6",
+    "Refined header sizes for better hierarchy",
+    "Optimized button and navigation text",
+    "Improved property description sizing",
+    "Removed aggressive touch target expansion",
+    "Balanced accessibility with visual aesthetics"
+  ],
+  "result": "Visual aesthetics prioritized while maintaining reasonable readability"
+}

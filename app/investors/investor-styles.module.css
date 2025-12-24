@@ -1,0 +1,22 @@
+.mobileHeadline {
+  font-size: 4rem !important;
+}
+
+@media (max-width: 767px) {
+  .mobileHeadline {
+    font-size: clamp(2.2rem, 7.5vw, 3.1rem) !important;
+    line-height: 1.1 !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .mobileHeadline {
+    font-size: clamp(1.9rem, 8.75vw, 2.8rem) !important;
+  }
+}
+
+@media (max-width: 375px) {
+  .mobileHeadline {
+    font-size: 2.2rem !important;
+  }
+}

@@ -1,0 +1,14 @@
+------------------
+Order Details
+-----------------
+Order ID: 2467980
+Date: 20250615
+
+----------------------
+Feature Types
+-----------------------
+ - MTA - Mineral, Placer and Coal Tenure Spatial View in subdirectory MTA_ACQUIRED_TENURE_SVW
+
+----------------------------
+Packaged Products
+----------------------------

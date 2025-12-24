@@ -1,0 +1,27 @@
+/* Mobile Menu Z-Index Fix */
+/* Ensure mobile menu always appears above all content */
+
+/* Force portal content to highest z-index */
+body > div[style*="z-index: 999998"],
+body > div[style*="z-index: 999999"] {
+  z-index: 999998 !important;
+}
+
+body > div[style*="z-index: 999999"] {
+  z-index: 999999 !important;
+}
+
+/* Ensure header doesn't interfere */
+header.fixed {
+  z-index: 100 !important;
+}
+
+/* Fix for any content that might have high z-index */
+main * {
+  z-index: auto !important;
+}
+
+/* Specific fix for investors page content */
+.fixed[class*="z-"] {
+  max-z-index: 99 !important;
+}

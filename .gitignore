@@ -1,0 +1,60 @@
+# Dependencies
+node_modules/
+
+# Data folders
+2024 Teuton Database/
+.pnp
+.pnp.js
+
+# Build
+.next/
+out/
+build/
+dist/
+
+# Vercel
+.vercel
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files
+*.tif
+*.tiff
+*.zip
+*.pdf
+*.pkg
+
+# Large videos
+public/videos/old*.webm
+public/videos/*.mp4
+
+# Large images
+public/images/*.webm
+public/images/glaicerrocks.png
+public/images/GoliathMapFinal.png
+public/images/Smooth_Pyramids_4K.png
+public/images/luxorlogonew-autotrace.svg
+
+# Exploration reports
+public/exploration-reports/
+vercel-to-slack.sh

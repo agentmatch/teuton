@@ -1,0 +1,15 @@
+# Large video files
+public/images/*.webm
+public/images/ramdrone1.webm
+public/images/ramdrone1thumb.webm
+public/images/ramdrone1thumb3.webm
+public/videos/old*.webm
+
+# Other large files that shouldn't be deployed
+2024 Teuton Database/
+desktop-trace.zip
+*.zip
+*.pdf
+*debug*.png
+*.tif
+*.tiff

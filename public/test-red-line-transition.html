@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Test Red Line Transition GeoJSON</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js"></script>
+    <style>
+        body { margin: 0; padding: 0; }
+        #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+        #info {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: white;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            z-index: 1;
+        }
+    </style>
+</head>
+<body>
+<div id="map"></div>
+<div id="info">
+    <h3>Red Line Transition - Converted from UTM to WGS84</h3>
+    <p>Original: EPSG:26909 (NAD83 / UTM zone 9N)</p>
+    <p>Converted: EPSG:4326 (WGS84)</p>
+    <p>Features: <span id="feature-count">Loading...</span></p>
+</div>
+
+<script>
+    // Replace with your Mapbox access token
+    mapboxgl.accessToken = 'YOUR_MAPBOX_ACCESS_TOKEN_HERE';
+    
+    const map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/mapbox/satellite-streets-v12',
+        center: [-129.78, 57.92], // Centered on the Golden Triangle area
+        zoom: 8
+    });
+
+    map.on('load', () => {
+        // Add the GeoJSON source
+        map.addSource('red-line-transition', {
+            'type': 'geojson',
+            'data': './images/red-line-transition-wgs84.geojson'
+        });
+
+        // Add a fill layer for the polygons
+        map.addLayer({
+            'id': 'red-line-transition-fill',
+            'type': 'fill',
+            'source': 'red-line-transition',
+            'paint': {
+                'fill-color': '#ff0000',
+                'fill-opacity': 0.5
+            }
+        });
+
+        // Add an outline layer for the polygons
+        map.addLayer({
+            'id': 'red-line-transition-outline',
+            'type': 'line',
+            'source': 'red-line-transition',
+            'paint': {
+                'line-color': '#ff0000',
+                'line-width': 2
+            }
+        });
+
+        // Load the data to get feature count
+        fetch('./images/red-line-transition-wgs84.geojson')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('feature-count').textContent = data.features.length;
+                
+                // Zoom to fit all features
+                const bounds = new mapboxgl.LngLatBounds();
+                data.features.forEach(feature => {
+                    if (feature.geometry.type === 'MultiPolygon') {
+                        feature.geometry.coordinates.forEach(polygon => {
+                            polygon.forEach(ring => {
+                                ring.forEach(coord => {
+                                    bounds.extend(coord);
+                                });
+                            });
+                        });
+                    }
+                });
+                map.fitBounds(bounds, { padding: 50 });
+            });
+
+        // Add click handler to show feature properties
+        map.on('click', 'red-line-transition-fill', (e) => {
+            const properties = e.features[0].properties;
+            const popupContent = Object.entries(properties)
+                .filter(([key, value]) => value !== null && value !== 0)
+                .map(([key, value]) => `<strong>${key}:</strong> ${value}`)
+                .join('<br>');
+            
+            new mapboxgl.Popup()
+                .setLngLat(e.lngLat)
+                .setHTML(popupContent || 'No properties')
+                .addTo(map);
+        });
+
+        // Change cursor on hover
+        map.on('mouseenter', 'red-line-transition-fill', () => {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+
+        map.on('mouseleave', 'red-line-transition-fill', () => {
+            map.getCanvas().style.cursor = '';
+        });
+    });
+</script>
+
+</body>
+</html>

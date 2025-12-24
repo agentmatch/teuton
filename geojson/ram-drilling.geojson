@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "holeId": "RAM-25-001",
+        "zone": "Malachite Porphyry",
+        "elevation": 1497,
+        "azimuth": 210.3,
+        "dip": -50,
+        "depth": 256.56,
+        "utmE": 452084,
+        "utmN": 6195169,
+        "pad": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -129.766304,
+          55.899584
+        ]
+      }
+    }
+  ]
+}

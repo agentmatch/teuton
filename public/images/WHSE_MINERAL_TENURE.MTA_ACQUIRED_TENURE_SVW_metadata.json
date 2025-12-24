@@ -1,0 +1,228 @@
+[
+	{
+		"title" : "MTA  - Mineral, Placer and Coal Tenure Spatial View",
+		"name" : "mta-mineral-placer-and-coal-tenure-spatial-view",
+		"bcdc_data_resource_url" : "https://catalogue.data.gov.bc.ca/dataset/923c5330-c798-4276-82c1-705000c5caac",
+		"description" : "This is the spatial view used by Mineral Titles Online (MTO) on the mineral, placer and coal viewers. The spatial view combines the polygon information with attribute information for each title.\n\nContains sub-surface title data in British Columbia for:\n\n- mineral claims, mining leases\n- placer claims, placer leases\n- coal license applications, coal licenses, coal leases",
+		"purpose" : "The mineral, placer and coal spatial information is made available for public viewing and download.",
+		"bcdc_type" : "Geographic",
+		"last_modified" : "2025-06-14T05:23:56",
+		"resource_storage_location" : "Bc Geographic Warehouse",
+		"object_name" : "WHSE_MINERAL_TENURE.MTA_ACQUIRED_TENURE_SVW",
+		"object_short_name" : "MTA_ACQ_TE",
+		"projection_name" : "epsg3005",
+		"license_title" : "Open Government Licence - British Columbia",
+		"license_url" : "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+		"details" : [
+			{
+				"column_name" : "TENURE_NUMBER_ID",
+				"data_precision" : 10,
+				"data_type" : "NUMBER",
+				"short_name" : "TNRNMBRD"
+			},
+			{
+				"column_name" : "CLAIM_NAME",
+				"data_precision" : 25,
+				"data_type" : "VARCHAR2",
+				"short_name" : "CLAIM_NAME"
+			},
+			{
+				"column_name" : "TENURE_TYPE_CODE",
+				"data_precision" : 1,
+				"data_type" : "VARCHAR2",
+				"short_name" : "TNRTPCD"
+			},
+			{
+				"column_name" : "TENURE_TYPE_DESCRIPTION",
+				"data_precision" : 500,
+				"data_type" : "VARCHAR2",
+				"short_name" : "TNRTPDSCRP"
+			},
+			{
+				"column_name" : "TENURE_SUB_TYPE_CODE",
+				"data_precision" : 1,
+				"data_type" : "VARCHAR2",
+				"short_name" : "TNRSBTPCD"
+			},
+			{
+				"column_name" : "TENURE_SUB_TYPE_DESCRIPTION",
+				"data_precision" : 500,
+				"data_type" : "VARCHAR2",
+				"short_name" : "TNRSBTPDSC"
+			},
+			{
+				"column_name" : "TITLE_TYPE_CODE",
+				"data_precision" : 4,
+				"data_type" : "VARCHAR2",
+				"short_name" : "TTLTPCD"
+			},
+			{
+				"column_name" : "TITLE_TYPE_DESCRIPTION",
+				"data_precision" : 500,
+				"data_type" : "VARCHAR2",
+				"short_name" : "TTLTPDSC"
+			},
+			{
+				"column_name" : "ISSUE_DATE",
+				"data_precision" : 7,
+				"data_type" : "DATE",
+				"short_name" : "ISSUE_DATE"
+			},
+			{
+				"column_name" : "GOOD_TO_DATE",
+				"data_precision" : 7,
+				"data_type" : "DATE",
+				"short_name" : "GDTDT"
+			},
+			{
+				"column_name" : "AREA_IN_HECTARES",
+				"data_precision" : 13,
+				"data_type" : "NUMBER",
+				"short_name" : "RNHCTRS"
+			},
+			{
+				"column_name" : "PROTECTED_IND",
+				"data_precision" : 1,
+				"data_type" : "VARCHAR2",
+				"short_name" : "PROTECTED"
+			},
+			{
+				"column_name" : "REVISION_NUMBER",
+				"data_precision" : 2,
+				"data_type" : "NUMBER",
+				"short_name" : "RVSNNMBR"
+			},
+			{
+				"column_name" : "TAG_NUMBER",
+				"data_precision" : 9,
+				"data_type" : "VARCHAR2",
+				"short_name" : "TAG_NUMBER"
+			},
+			{
+				"column_name" : "CLIENT_NUMBER_ID",
+				"data_precision" : 6,
+				"data_type" : "NUMBER",
+				"short_name" : "CLIENTNUM"
+			},
+			{
+				"column_name" : "OWNER_NAME",
+				"data_precision" : 150,
+				"data_type" : "VARCHAR2",
+				"short_name" : "OWNER_NAME"
+			},
+			{
+				"column_name" : "PERCENT_OWNERSHIP",
+				"data_precision" : 8,
+				"data_type" : "NUMBER",
+				"short_name" : "PRCNTOWNER"
+			},
+			{
+				"column_name" : "NUMBER_OF_OWNERS",
+				"data_precision" : "38",
+				"data_type" : "NUMBER",
+				"short_name" : "NUM_OWNERS"
+			},
+			{
+				"column_name" : "CASH_IN_LIEU_EVENT_COUNT",
+				"data_precision" : "38",
+				"data_type" : "NUMBER",
+				"short_name" : "CSH_N_L_VT"
+			},
+			{
+				"column_name" : "STATEMENT_OF_WORK_EVENT_COUNT",
+				"data_precision" : "38",
+				"data_type" : "NUMBER",
+				"short_name" : "STTMNT_F_T"
+			},
+			{
+				"column_name" : "COMPLAINTS_EVENT_COUNT",
+				"data_precision" : "38",
+				"data_type" : "NUMBER",
+				"short_name" : "CMPLNTS_VT"
+			},
+			{
+				"column_name" : "OWNERSHIP_TRANSFER_EVENT_COUNT",
+				"data_precision" : "38",
+				"data_type" : "NUMBER",
+				"short_name" : "OWNRSHP_TT"
+			},
+			{
+				"column_name" : "REDUCTION_EVENT_COUNT",
+				"data_precision" : "38",
+				"data_type" : "NUMBER",
+				"short_name" : "RDCTN_VNTT"
+			},
+			{
+				"column_name" : "ENTRY_TIMESTAMP",
+				"data_precision" : 7,
+				"data_type" : "DATE",
+				"short_name" : "NTRTMSTMP"
+			},
+			{
+				"column_name" : "ENTRY_USERID",
+				"data_precision" : 30,
+				"data_type" : "VARCHAR2",
+				"short_name" : "NTRSRD"
+			},
+			{
+				"column_name" : "UPDATE_TIMESTAMP",
+				"data_precision" : 7,
+				"data_type" : "DATE",
+				"short_name" : "PDTTMSTMP"
+			},
+			{
+				"column_name" : "UPDATE_USERID",
+				"data_precision" : 30,
+				"data_type" : "VARCHAR2",
+				"short_name" : "PDTSRD"
+			},
+			{
+				"column_name" : "TERMINATION_DATE",
+				"data_precision" : 7,
+				"data_type" : "DATE",
+				"short_name" : "TRMNTNDT"
+			},
+			{
+				"column_name" : "TERMINATION_TYPE_DESCRIPTION",
+				"data_precision" : 500,
+				"data_type" : "VARCHAR2",
+				"short_name" : "TRMNTNTPDS"
+			},
+			{
+				"column_name" : "FEATURE_CODE",
+				"data_precision" : 10,
+				"data_type" : "VARCHAR2",
+				"short_name" : "FCODE"
+			},
+			{
+				"column_name" : "GEOMETRY",
+				"data_precision" : 64,
+				"data_type" : "SDO_GEOMETRY",
+				"short_name" : "GEOMETRY"
+			},
+			{
+				"column_name" : "OBJECTID",
+				"data_precision" : "38",
+				"data_type" : "NUMBER",
+				"short_name" : "OBJECTID"
+			},
+			{
+				"column_name" : "SE_ANNO_CAD_DATA",
+				"data_precision" : 4000,
+				"data_type" : "BLOB"
+			},
+			{
+				"column_name" : "FEATURE_AREA_SQM",
+				"data_precision" : 19,
+				"data_type" : "NUMBER",
+				"short_name" : "AREA_SQM"
+			},
+			{
+				"column_name" : "FEATURE_LENGTH_M",
+				"data_precision" : 19,
+				"data_type" : "NUMBER",
+				"short_name" : "FEAT_LEN"
+			}
+		]
+	}
+]

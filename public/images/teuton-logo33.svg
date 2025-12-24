@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 284">
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F4FFFD;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FFFFFF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F4FFFD;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <polygon fill="url(#logoGradient)" points="812 68 880 180 880 69.5 881.5 68 915 68 915 215 866.5 215 795 102 795 215 761 215 761 68 812 68"/>
+  <path fill="url(#logoGradient)" d="M660.8,67.3c24.55-2.44,68.89-1.17,80.4,26.01,5.39,12.73,5.61,75.66,2.52,89.9-9.86,45.48-115.21,44.63-129.2,4.78-4.34-12.37-4.2-82.2.71-94.26,6.81-16.69,28.87-24.77,45.57-26.43ZM668.8,90.3c-11.61,1.33-21.2,4.83-23.35,17.65-1.65,9.83-1.66,62.74,1.02,71.08,6.28,19.52,60.52,18.73,64.29-.76,1.54-7.97,1.56-64.63,0-72.53-3.21-16.21-29.25-16.89-41.96-15.43Z"/>
+  <path fill="url(#logoGradient)" d="M360,68v105.5c0,26.26,65,27.22,65,0v-105.5h32.5l1.5,1.5v107c0,55.24-133,54.34-133,0v-108.5h34Z"/>
+  <polygon fill="url(#logoGradient)" points="314 92 239.5 92 238 93.5 238 129 308 129 308 153 238 153 238 191 312.5 191 314 192.5 314 213.5 312.5 215 204 215 204 68 312.5 68 314 69.5 314 92"/>
+  <polygon fill="url(#logoGradient)" points="603 68 603 92 554 92 554 215 520 215 520 93.5 518.5 92 470 92 470 68 603 68"/>
+  <polygon fill="url(#logoGradient)" points="192 68 192 92 144 92 144 213.5 142.5 215 110 215 110 92 61 92 61 68 192 68"/>
+</svg>

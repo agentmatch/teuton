@@ -1,0 +1,37 @@
+{
+  "watch": [
+    "app",
+    "components",
+    "lib",
+    "hooks",
+    "styles",
+    "types",
+    "next.config.js",
+    "tailwind.config.ts",
+    "tsconfig.json"
+  ],
+  "ext": "ts,tsx,js,jsx,css",
+  "ignore": [
+    ".next",
+    "node_modules",
+    ".git",
+    "*.log",
+    ".DS_Store",
+    "public/images",
+    "public/fonts",
+    "public/videos",
+    "dev-server.js"
+  ],
+  "exec": "node dev-server.js",
+  "env": {
+    "NODE_ENV": "development",
+    "PORT": "3000",
+    "FORCE_COLOR": "1"
+  },
+  "delay": "1000",
+  "verbose": false,
+  "restartable": "rs",
+  "events": {
+    "crash": "echo 'Next.js crashed, waiting for file changes to restart...'"
+  }
+}

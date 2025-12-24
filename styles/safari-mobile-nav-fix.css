@@ -1,0 +1,185 @@
+/* Safari-specific fixes for mobile navigation */
+
+/* 1. Fix Safari backdrop-filter support */
+@supports (-webkit-backdrop-filter: none) {
+  div[class*="fixed"][class*="bottom-0"][class*="z-\\[100005\\]"] > div,
+  .fixed.bottom-0.z-\[100005\] > div {
+    -webkit-backdrop-filter: blur(24px) saturate(180%) brightness(1.1) !important;
+    backdrop-filter: blur(24px) saturate(180%) brightness(1.1) !important;
+  }
+}
+
+/* 2. Safari-specific viewport and safe area fixes */
+@supports (padding-bottom: env(safe-area-inset-bottom)) {
+  /* Mobile navigation container */
+  div[class*="fixed"][class*="bottom-0"][class*="z-\\[100005\\]"],
+  .fixed.bottom-0.z-\[100005\] {
+    /* Use padding instead of transform for positioning */
+    padding-bottom: env(safe-area-inset-bottom, 0px) !important;
+    
+    /* Reset any transforms that might cause stacking context issues */
+    transform: none !important;
+    -webkit-transform: none !important;
+    
+    /* Ensure proper positioning */
+    position: fixed !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    
+    /* Force hardware acceleration */
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    will-change: transform;
+  }
+}
+
+/* 3. Fix Safari 100vh issue - includes browser UI */
+@supports (-webkit-touch-callout: none) {
+  /* Target Safari on iOS */
+  body {
+    min-height: -webkit-fill-available;
+    min-height: 100vh;
+  }
+  
+  /* Ensure content doesn't go under the mobile nav */
+  main {
+    padding-bottom: calc(64px + env(safe-area-inset-bottom, 0px)) !important;
+  }
+}
+
+/* 4. Safari-specific mobile media queries */
+@media not all and (min-resolution:.001dpcm) { 
+  @supports (-webkit-appearance:none) and (stroke-color:transparent) {
+    /* Safari only styles */
+    div[class*="fixed"][class*="bottom-0"][class*="z-\\[100005\\]"],
+    .fixed.bottom-0.z-\[100005\] {
+      /* Remove any 3D transforms that cause issues */
+      transform-style: flat !important;
+      -webkit-transform-style: flat !important;
+      
+      /* Ensure proper rendering */
+      -webkit-backface-visibility: hidden;
+      backface-visibility: hidden;
+      
+      /* Fix flickering */
+      -webkit-perspective: 1000;
+      perspective: 1000;
+    }
+  }
+}
+
+/* 5. iOS Safari specific fixes */
+@supports (-webkit-overflow-scrolling: touch) {
+  /* Mobile nav container */
+  div[class*="fixed"][class*="bottom-0"][class*="z-\\[100005\\]"] {
+    /* Prevent rubber-band scrolling affecting the nav */
+    position: fixed !important;
+    position: -webkit-sticky !important;
+    
+    /* Ensure it stays at bottom */
+    bottom: 0 !important;
+    bottom: constant(safe-area-inset-bottom) !important;
+    bottom: env(safe-area-inset-bottom) !important;
+  }
+  
+  /* Navigation buttons */
+  div[class*="fixed"][class*="bottom-0"][class*="z-\\[100005\\]"] button {
+    /* Fix touch target size for iOS */
+    min-height: 44px !important;
+    min-width: 44px !important;
+    
+    /* Improve touch responsiveness */
+    -webkit-tap-highlight-color: rgba(255, 255, 119, 0.1);
+    touch-action: manipulation;
+  }
+}
+
+/* 6. Fix for Safari z-index and stacking context */
+@media (max-width: 767px) {
+  /* Create new stacking context for body */
+  body {
+    position: relative;
+    z-index: 0;
+  }
+  
+  /* Ensure mobile nav is on top */
+  div[class*="fixed"][class*="bottom-0"][class*="z-\\[100005\\]"],
+  div[style*="z-index: 100005"] {
+    z-index: 2147483647 !important; /* Maximum z-index value */
+    
+    /* Create isolated stacking context */
+    isolation: isolate;
+  }
+  
+  /* Fix any parent containers that might interfere */
+  #__next,
+  body > div:first-child {
+    position: relative;
+    z-index: 1;
+  }
+}
+
+/* 7. Safari blur filter performance fix */
+@supports (-webkit-backdrop-filter: blur(1px)) {
+  @media (max-width: 767px) {
+    /* Use GPU acceleration for backdrop filters */
+    div[style*="backdrop-filter"],
+    div[style*="-webkit-backdrop-filter"] {
+      -webkit-transform: translate3d(0, 0, 0);
+      transform: translate3d(0, 0, 0);
+    }
+  }
+}
+
+/* 8. Fix Safari mobile viewport units */
+@supports (-webkit-appearance: none) {
+  /* Use CSS custom properties for viewport units */
+  :root {
+    --vh: 1vh;
+    --vw: 1vw;
+  }
+  
+  /* Override any height: 100vh usage */
+  .h-screen,
+  [class*="h-\\[100vh\\]"] {
+    height: calc(var(--vh, 1vh) * 100);
+  }
+}
+
+/* 9. Ensure visibility on all iOS devices */
+@supports (padding: max(0px)) {
+  @media (max-width: 767px) {
+    /* Target the mobile nav specifically */
+    .fixed.bottom-0.left-0.right-0.z-\[100005\],
+    div[class*="MobileNav"] {
+      /* Use max() for safe area insets */
+      padding-bottom: max(env(safe-area-inset-bottom), 20px) !important;
+      
+      /* Ensure visibility */
+      display: block !important;
+      opacity: 1 !important;
+      visibility: visible !important;
+      
+      /* Fix position */
+      position: fixed !important;
+      bottom: 0 !important;
+      left: 0 !important;
+      right: 0 !important;
+    }
+  }
+}
+
+/* 10. Additional iPhone X+ notch fixes */
+@supports (padding: env(safe-area-inset-bottom)) {
+  @media (max-width: 767px) {
+    /* Adjust for different orientations */
+    @media (orientation: landscape) {
+      div[class*="fixed"][class*="bottom-0"][class*="z-\\[100005\\]"] {
+        padding-left: env(safe-area-inset-left) !important;
+        padding-right: env(safe-area-inset-right) !important;
+      }
+    }
+  }
+}
+

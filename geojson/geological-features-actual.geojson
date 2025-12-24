@@ -1,0 +1,2020 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 128726,
+        "lid": "739077-1287952-739082-1287844",
+        "ulid": "b6bd37aa",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 159,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.24944633597272,
+            56.511767395113296
+          ],
+          [
+            -130.24946041003136,
+            56.512220503674556
+          ],
+          [
+            -130.24964779627095,
+            56.513182772384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 128732,
+        "lid": "738869-1290791-738976-1290827",
+        "ulid": "25f9eedb",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 319,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.2543933888364,
+            56.53733395461199
+          ],
+          [
+            -130.24663976991368,
+            56.539216604583174
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 128875,
+        "lid": "737246-1289329-737305-1289289",
+        "ulid": "07a30348",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 756,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.26962432917645,
+            56.522809911468435
+          ],
+          [
+            -130.2700537852618,
+            56.52284699194361
+          ],
+          [
+            -130.2703660655598,
+            56.52280321120324
+          ],
+          [
+            -130.27062312930767,
+            56.52270811380295
+          ],
+          [
+            -130.27087817395477,
+            56.52258273624441
+          ],
+          [
+            -130.27107294626694,
+            56.52252050465829
+          ],
+          [
+            -130.271633410733,
+            56.522514796338534
+          ],
+          [
+            -130.27223316757477,
+            56.52274965509579
+          ],
+          [
+            -130.27280340640303,
+            56.523036490197185
+          ],
+          [
+            -130.27321396623185,
+            56.523204464670016
+          ],
+          [
+            -130.273837841076,
+            56.523232461194134
+          ],
+          [
+            -130.27443804595848,
+            56.52348453410335
+          ],
+          [
+            -130.2764361922934,
+            56.52374151843483
+          ],
+          [
+            -130.27701683686897,
+            56.52394152829946
+          ],
+          [
+            -130.2777448582446,
+            56.524115528771844
+          ],
+          [
+            -130.27882700646524,
+            56.524086220797976
+          ],
+          [
+            -130.27974942304974,
+            56.52418558880382
+          ],
+          [
+            -130.28074532601812,
+            56.52451998039425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 128895,
+        "lid": "737917-1289098-737936-1289091",
+        "ulid": "2d440e1f",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 239,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.26594166570302,
+            56.522234025864535
+          ],
+          [
+            -130.26642434642108,
+            56.52229251445712
+          ],
+          [
+            -130.26720745605581,
+            56.5224222747445
+          ],
+          [
+            -130.26854911311742,
+            56.522494594459474
+          ],
+          [
+            -130.26892678837788,
+            56.52261133100188
+          ],
+          [
+            -130.26929992610928,
+            56.52276251449087
+          ],
+          [
+            -130.26962432917645,
+            56.522809911468435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 128961,
+        "lid": "741624-1292579-741799-1292720",
+        "ulid": "f613c677",
+        "fault_type": "Normal fault",
+        "confidence": "inferred",
+        "fault_name": "Treaty Fault",
+        "length_m": 224,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.21274062938528,
+            56.55593995203764
+          ],
+          [
+            -130.21004051619119,
+            56.55729582823928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 130084,
+        "lid": "738496-1288745-738547-1288710",
+        "ulid": "0857c6c6",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 62,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.25899650369578,
+            56.51968249899569
+          ],
+          [
+            -130.2598686200902,
+            56.51996610972414
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 131668,
+        "lid": "738547-1288710-738601-1288656",
+        "ulid": "0447ecc3",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 297,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.25584104843833,
+            56.517785941996564
+          ],
+          [
+            -130.25626516274372,
+            56.51836696253581
+          ],
+          [
+            -130.25667791530898,
+            56.518603865298175
+          ],
+          [
+            -130.25724162459557,
+            56.51870144949175
+          ],
+          [
+            -130.25806888070446,
+            56.5192268149986
+          ],
+          [
+            -130.25899650369578,
+            56.51968249899569
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 131682,
+        "lid": "738904-1288288-738924-1288227",
+        "ulid": "37687b61",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 354,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.24963354586689,
+            56.51354667828407
+          ],
+          [
+            -130.24982886440068,
+            56.5139556326654
+          ],
+          [
+            -130.2501153555741,
+            56.51414214426883
+          ],
+          [
+            -130.25144210337587,
+            56.514714130071845
+          ],
+          [
+            -130.25204837048656,
+            56.51515571500359
+          ],
+          [
+            -130.25240441844744,
+            56.515565270943924
+          ],
+          [
+            -130.25279546105156,
+            56.51609505212435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 132032,
+        "lid": "737392-1286564-737445-1286588",
+        "ulid": "416ffbaf",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 59,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.27566851603322,
+            56.499856209780866
+          ],
+          [
+            -130.27482530792665,
+            56.50010030733009
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 132039,
+        "lid": "737445-1286588-737499-1286618",
+        "ulid": "bb48a73e",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 250,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.27482530792665,
+            56.50010030733009
+          ],
+          [
+            -130.27397506398083,
+            56.50040218383201
+          ],
+          [
+            -130.27155014016174,
+            56.50142551579774
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 132040,
+        "lid": "738614-1287183-738652-1287209",
+        "ulid": "e0a77850",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 46,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.25641836483064,
+            56.50605578077925
+          ],
+          [
+            -130.25582064895585,
+            56.506310641334494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 132053,
+        "lid": "737286-1289745-737304-1289795",
+        "ulid": "844ba236",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 284,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.28051054770916,
+            56.52825977291574
+          ],
+          [
+            -130.2802633210578,
+            56.52871585401076
+          ],
+          [
+            -130.27991628360635,
+            56.52913665247502
+          ],
+          [
+            -130.27930810628186,
+            56.52959649552845
+          ],
+          [
+            -130.27843912953506,
+            56.53011341440927
+          ],
+          [
+            -130.27804222762668,
+            56.53037030559611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 132054,
+        "lid": "737452-1289971-737489-1290002",
+        "ulid": "eddc02de",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 1154,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.27804222762668,
+            56.53037030559611
+          ],
+          [
+            -130.27747291452937,
+            56.53066759245853
+          ],
+          [
+            -130.27711560347814,
+            56.53078013623017
+          ],
+          [
+            -130.2763651020086,
+            56.530914835113364
+          ],
+          [
+            -130.27565030435633,
+            56.53113992095446
+          ],
+          [
+            -130.2752619622839,
+            56.53130718279726
+          ],
+          [
+            -130.27487793279522,
+            56.53160134420574
+          ],
+          [
+            -130.27452302904553,
+            56.531786435421104
+          ],
+          [
+            -130.27419914541332,
+            56.531916802813555
+          ],
+          [
+            -130.27371651056595,
+            56.53221199605559
+          ],
+          [
+            -130.27332452266035,
+            56.532270464918554
+          ],
+          [
+            -130.27269859459025,
+            56.532204281337066
+          ],
+          [
+            -130.2721388661946,
+            56.53215555624136
+          ],
+          [
+            -130.27171222698658,
+            56.5321599553003
+          ],
+          [
+            -130.2711238895967,
+            56.53223850272474
+          ],
+          [
+            -130.27012287001864,
+            56.532738560991106
+          ],
+          [
+            -130.26883239493586,
+            56.53342303670209
+          ],
+          [
+            -130.2681535170472,
+            56.533738374246845
+          ],
+          [
+            -130.26776820936118,
+            56.53399628212573
+          ],
+          [
+            -130.2673548004389,
+            56.5343996734989
+          ],
+          [
+            -130.2669670714523,
+            56.534585024226274
+          ],
+          [
+            -130.2658547841584,
+            56.53470518620481
+          ],
+          [
+            -130.26536965482583,
+            56.53492788313057
+          ],
+          [
+            -130.2650524046832,
+            56.53525768388012
+          ],
+          [
+            -130.26506082063472,
+            56.53551158134274
+          ],
+          [
+            -130.2653330035654,
+            56.53579910116909
+          ],
+          [
+            -130.26560414467144,
+            56.53605029287295
+          ],
+          [
+            -130.26544963984995,
+            56.536342100470186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 132062,
+        "lid": "739142-1290946-739159-1290961",
+        "ulid": "a8573c15",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 1190,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.24663976991368,
+            56.539216604583174
+          ],
+          [
+            -130.24365421132913,
+            56.540664440702066
+          ],
+          [
+            -130.23648040599215,
+            56.54247619502633
+          ],
+          [
+            -130.23139902056843,
+            56.54407346589312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 134160,
+        "lid": "735091-1285621-735257-1285704",
+        "ulid": "e82929cf",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 959,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.31209752417521,
+            56.49017466080904
+          ],
+          [
+            -130.3094810821004,
+            56.49101143669103
+          ],
+          [
+            -130.30809650985987,
+            56.49147371205177
+          ],
+          [
+            -130.30569173277,
+            56.49213603216037
+          ],
+          [
+            -130.30446030566097,
+            56.492527675356705
+          ],
+          [
+            -130.3015940288167,
+            56.49334976403425
+          ],
+          [
+            -130.29832380698298,
+            56.494193123959256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 134683,
+        "lid": "738395-1288811-738457-1288781",
+        "ulid": "ed678b20",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 122,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.2598686200902,
+            56.51996610972414
+          ],
+          [
+            -130.26053281133,
+            56.52026918166517
+          ],
+          [
+            -130.26156811910238,
+            56.52049978386656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 135161,
+        "lid": "736083-1282467-736135-1282357",
+        "ulid": "098982b4",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 483,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.28869079315442,
+            56.458844649429736
+          ],
+          [
+            -130.28980492571222,
+            56.45960779121751
+          ],
+          [
+            -130.29192310256485,
+            56.46154848834233
+          ],
+          [
+            -130.2928770926416,
+            56.46249913626389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 135256,
+        "lid": "735576-1283676-735607-1283596",
+        "ulid": "34cc1732",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 523,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.29852185775903,
+            56.46884518387945
+          ],
+          [
+            -130.29948776064026,
+            56.46997451550611
+          ],
+          [
+            -130.3002311224244,
+            56.470793110934295
+          ],
+          [
+            -130.3009327066796,
+            56.47160188119956
+          ],
+          [
+            -130.30171496195578,
+            56.4723442874862
+          ],
+          [
+            -130.30229884493392,
+            56.4730440519711
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 135943,
+        "lid": "734842-1285147-734899-1285027",
+        "ulid": "16d52963",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 1083,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.2015074222792,
+            56.13278168965753
+          ],
+          [
+            -130.20210353694665,
+            56.14961926915181
+          ],
+          [
+            -130.20278271273975,
+            56.15874398760527
+          ],
+          [
+            -130.20278645461698,
+            56.15998551794221
+          ],
+          [
+            -130.2049084542328,
+            56.16367406759338
+          ],
+          [
+            -130.20837343805383,
+            56.16928508410091
+          ],
+          [
+            -130.2110875413724,
+            56.17653889291136
+          ],
+          [
+            -130.21453508200705,
+            56.18756334652876
+          ],
+          [
+            -130.21551656090278,
+            56.1986832568024
+          ],
+          [
+            -130.21860762164343,
+            56.2164573802702
+          ],
+          [
+            -130.21939343149526,
+            56.22877127564061
+          ],
+          [
+            -130.2209489098155,
+            56.24041757805362
+          ],
+          [
+            -130.2242753890463,
+            56.257987048554895
+          ],
+          [
+            -130.22681426920076,
+            56.27556424792933
+          ],
+          [
+            -130.23003379003615,
+            56.301935790268665
+          ],
+          [
+            -130.23319900632973,
+            56.313606320450724
+          ],
+          [
+            -130.24081569145318,
+            56.331283190708405
+          ],
+          [
+            -130.24425768037622,
+            56.3467767678143
+          ],
+          [
+            -130.2467724762301,
+            56.35890605511394
+          ],
+          [
+            -130.24725186332424,
+            56.36200046377199
+          ],
+          [
+            -130.2472985931126,
+            56.36467518074312
+          ],
+          [
+            -130.24674320698142,
+            56.36835534339437
+          ],
+          [
+            -130.24608206472027,
+            56.37293658404131
+          ],
+          [
+            -130.24629490579576,
+            56.37945867628797
+          ],
+          [
+            -130.24810043893618,
+            56.387667257921
+          ],
+          [
+            -130.2501346057622,
+            56.39282550295183
+          ],
+          [
+            -130.25205691115323,
+            56.39939551284105
+          ],
+          [
+            -130.25360185065895,
+            56.40597815887388
+          ],
+          [
+            -130.25475892755628,
+            56.410446887918695
+          ],
+          [
+            -130.25664507360185,
+            56.41658828453632
+          ],
+          [
+            -130.25904681858387,
+            56.421875015517195
+          ],
+          [
+            -130.26506862890923,
+            56.43009045001394
+          ],
+          [
+            -130.26736308154634,
+            56.43280897484038
+          ],
+          [
+            -130.2734677154246,
+            56.44034779769495
+          ],
+          [
+            -130.2769030129424,
+            56.44418732048249
+          ],
+          [
+            -130.27858517241532,
+            56.446621786985745
+          ],
+          [
+            -130.28066629425936,
+            56.450474385749295
+          ],
+          [
+            -130.2813740478086,
+            56.4521026326683
+          ],
+          [
+            -130.28358123585284,
+            56.455061182782714
+          ],
+          [
+            -130.28564677377264,
+            56.45710292732587
+          ],
+          [
+            -130.28732960380398,
+            56.45813563790735
+          ],
+          [
+            -130.28869079315442,
+            56.458844649429736
+          ],
+          [
+            -130.28980492571222,
+            56.45960779121751
+          ],
+          [
+            -130.29192310256485,
+            56.46154848834233
+          ],
+          [
+            -130.2928770926416,
+            56.46249913626389
+          ],
+          [
+            -130.29301757159493,
+            56.46263898357704
+          ],
+          [
+            -130.29522400242928,
+            56.465336156408696
+          ],
+          [
+            -130.29683189484047,
+            56.46688609050933
+          ],
+          [
+            -130.2976737109294,
+            56.46777582756592
+          ],
+          [
+            -130.29835029148126,
+            56.468577454173065
+          ],
+          [
+            -130.29852185775903,
+            56.46884518387945
+          ],
+          [
+            -130.3009327066796,
+            56.47160188119956
+          ],
+          [
+            -130.30171496195578,
+            56.4723442874862
+          ],
+          [
+            -130.30229884493392,
+            56.4730440519711
+          ],
+          [
+            -130.30294088414502,
+            56.47362263166779
+          ],
+          [
+            -130.30374954051223,
+            56.47452665177099
+          ],
+          [
+            -130.3042156929974,
+            56.47632949195499
+          ],
+          [
+            -130.3053298649415,
+            56.47744241889096
+          ],
+          [
+            -130.30579091525283,
+            56.47781077316643
+          ],
+          [
+            -130.30646357827584,
+            56.47837188281737
+          ],
+          [
+            -130.30745247997,
+            56.479084523613075
+          ],
+          [
+            -130.3089468945086,
+            56.480015686992644
+          ],
+          [
+            -130.31009371454255,
+            56.4807955534789
+          ],
+          [
+            -130.31108411977965,
+            56.48154268799312
+          ],
+          [
+            -130.31195168915295,
+            56.482342697266795
+          ],
+          [
+            -130.31269675322557,
+            56.48319566239175
+          ],
+          [
+            -130.3136243186123,
+            56.48392612884214
+          ],
+          [
+            -130.31462483319015,
+            56.48475730015682
+          ],
+          [
+            -130.31567809579138,
+            56.48579628376124
+          ],
+          [
+            -130.31567809579138,
+            56.48579628376124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 137285,
+        "lid": "738369-1288827-738395-1288811",
+        "ulid": "6e54a20f",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 31,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.26156811910238,
+            56.52049978386656
+          ],
+          [
+            -130.2620087223509,
+            56.520633036390755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 137294,
+        "lid": "738264-1290590-738325-1290603",
+        "ulid": "d1491013",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 685,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.26544963984995,
+            56.536342100470186
+          ],
+          [
+            -130.26446987299934,
+            56.53649726456414
+          ],
+          [
+            -130.2634803233655,
+            56.536362206669374
+          ],
+          [
+            -130.26242149043864,
+            56.53611891650688
+          ],
+          [
+            -130.26137482896613,
+            56.53623838729919
+          ],
+          [
+            -130.2543933888364,
+            56.53733395461199
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 137328,
+        "lid": "736604-1281604-736634-1281519",
+        "ulid": "ebb1e44d",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 544,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.28066629425936,
+            56.450474385749295
+          ],
+          [
+            -130.2813740478086,
+            56.4521026326683
+          ],
+          [
+            -130.28300329831617,
+            56.45432399165786
+          ],
+          [
+            -130.28358123585284,
+            56.455061182782714
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 140768,
+        "lid": "738212-1271103-738227-1271401",
+        "ulid": "5f8a580d",
+        "fault_type": "Sinistral strike-slip fault",
+        "confidence": "inferred",
+        "fault_name": null,
+        "length_m": 1223,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.24725186332424,
+            56.36200046377199
+          ],
+          [
+            -130.2472985931126,
+            56.36467518074312
+          ],
+          [
+            -130.24674320698142,
+            56.36835534339437
+          ],
+          [
+            -130.24608206472027,
+            56.37293658404131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 142561,
+        "lid": "738782-1288410-738856-1288349",
+        "ulid": "cbb38ec4",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 173,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.25279546105156,
+            56.51609505212435
+          ],
+          [
+            -130.2536226019006,
+            56.516620445532496
+          ],
+          [
+            -130.25488494609158,
+            56.517124145087365
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 142562,
+        "lid": "738728-1288487-738756-1288453",
+        "ulid": "5060e35b",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 44,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.25536143959218,
+            56.51749379184831
+          ],
+          [
+            -130.25584104843833,
+            56.517785941996564
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 142579,
+        "lid": "738756-1288453-738782-1288410",
+        "ulid": "2f55eb50",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 51,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.25488494609158,
+            56.517124145087365
+          ],
+          [
+            -130.25536143959218,
+            56.51749379184831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 142797,
+        "lid": "738652-1287209-738715-1287252",
+        "ulid": "78c89517",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 806,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.25582064895585,
+            56.506310641334494
+          ],
+          [
+            -130.2548527379611,
+            56.50672581612419
+          ],
+          [
+            -130.25247894208326,
+            56.507438400036094
+          ],
+          [
+            -130.2509731142548,
+            56.50803897852019
+          ],
+          [
+            -130.25008419070872,
+            56.50850195662138
+          ],
+          [
+            -130.24960069037803,
+            56.50891362376217
+          ],
+          [
+            -130.24939810252266,
+            56.509380455773105
+          ],
+          [
+            -130.2493193659566,
+            56.51039049424192
+          ],
+          [
+            -130.24944633597272,
+            56.511767395113296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 142799,
+        "lid": "737246-1289329-737201-1289390",
+        "ulid": "f22008ee",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 448,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.28074532601812,
+            56.52451998039425
+          ],
+          [
+            -130.28155068361738,
+            56.525037860228274
+          ],
+          [
+            -130.28172693042802,
+            56.525398844002474
+          ],
+          [
+            -130.28176593534005,
+            56.52557989566518
+          ],
+          [
+            -130.2817744581083,
+            56.52583379075922
+          ],
+          [
+            -130.28165668373794,
+            56.52623411373438
+          ],
+          [
+            -130.28128440549426,
+            56.526872945955304
+          ],
+          [
+            -130.2810384192322,
+            56.527365350095124
+          ],
+          [
+            -130.28051054770916,
+            56.52825977291574
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 143018,
+        "lid": "737291-1286513-737392-1286564",
+        "ulid": "36776fe6",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 113,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.27725603186184,
+            56.49935091169771
+          ],
+          [
+            -130.27566851603322,
+            56.499856209780866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 143504,
+        "lid": "738139-1289020-738168-1289009",
+        "ulid": "48e7139e",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 305,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.2620087223509,
+            56.520633036390755
+          ],
+          [
+            -130.26292246400521,
+            56.520950800686464
+          ],
+          [
+            -130.2636228839119,
+            56.521408518462856
+          ],
+          [
+            -130.26450845749855,
+            56.52181277058838
+          ],
+          [
+            -130.26491587119128,
+            56.52200906607189
+          ],
+          [
+            -130.26545394803247,
+            56.52214742118467
+          ],
+          [
+            -130.26594166570302,
+            56.522234025864535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 143699,
+        "lid": "737655-1286723-737791-1286819",
+        "ulid": "d3cfb797",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 1078,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.27155014016174,
+            56.50142551579774
+          ],
+          [
+            -130.2694266375016,
+            56.50236066445415
+          ],
+          [
+            -130.268361276177,
+            56.502887106965176
+          ],
+          [
+            -130.26783976585517,
+            56.503116240091195
+          ],
+          [
+            -130.26719076880076,
+            56.50326063414955
+          ],
+          [
+            -130.2665401722618,
+            56.50335327369503
+          ],
+          [
+            -130.26581574361748,
+            56.50346694786624
+          ],
+          [
+            -130.26440999583986,
+            56.50389153905199
+          ],
+          [
+            -130.26302036573136,
+            56.50423279994793
+          ],
+          [
+            -130.26094676958667,
+            56.50482559899222
+          ],
+          [
+            -130.25938389857112,
+            56.50535428564339
+          ],
+          [
+            -130.25856166557665,
+            56.50569965563202
+          ],
+          [
+            -130.25815332527358,
+            56.50579714418854
+          ],
+          [
+            -130.25775168318393,
+            56.505830664412656
+          ],
+          [
+            -130.2573452583212,
+            56.50583983160749
+          ],
+          [
+            -130.25692221927363,
+            56.5059311596578
+          ],
+          [
+            -130.25641836483064,
+            56.50605578077925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 143700,
+        "lid": "735963-1286017-736077-1286072",
+        "ulid": "f2b9e7fe",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 636,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.29832380698298,
+            56.494193123959256
+          ],
+          [
+            -130.29653737921072,
+            56.49474548883644
+          ],
+          [
+            -130.29539507507425,
+            56.49501563169599
+          ],
+          [
+            -130.2930433301321,
+            56.49541896610607
+          ],
+          [
+            -130.29242682937218,
+            56.49559751299224
+          ],
+          [
+            -130.2916237487185,
+            56.49577807509999
+          ],
+          [
+            -130.29112586621162,
+            56.495783227857366
+          ],
+          [
+            -130.2904719038311,
+            56.49577276590972
+          ],
+          [
+            -130.28988369229506,
+            56.49586497038547
+          ],
+          [
+            -130.2888385850765,
+            56.49625462788491
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 143701,
+        "lid": "736559-1286211-736710-1286278",
+        "ulid": "901fdc53",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 792,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.2888385850765,
+            56.49625462788491
+          ],
+          [
+            -130.28646486572012,
+            56.49693339819686
+          ],
+          [
+            -130.2842772390439,
+            56.497593072492286
+          ],
+          [
+            -130.28158867795796,
+            56.49817173217918
+          ],
+          [
+            -130.27887305194406,
+            56.49887118505147
+          ],
+          [
+            -130.27725603186184,
+            56.49935091169771
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 144040,
+        "lid": "741799-1292720-742247-1293069",
+        "ulid": "6b133a2e",
+        "fault_type": "Normal fault",
+        "confidence": "inferred",
+        "fault_name": "Treaty Fault",
+        "length_m": 5269,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.21004051619119,
+            56.55729582823928
+          ],
+          [
+            -130.2073863871202,
+            56.56306418840139
+          ],
+          [
+            -130.20317300094422,
+            56.57006568903059
+          ],
+          [
+            -130.1888703267928,
+            56.57561708723893
+          ],
+          [
+            -130.18079153011251,
+            56.57865876943666
+          ],
+          [
+            -130.17811800239366,
+            56.582808934660484
+          ],
+          [
+            -130.17064327511738,
+            56.590355718210034
+          ],
+          [
+            -130.16146316059474,
+            56.595726667829126
+          ],
+          [
+            -130.15390793557393,
+            56.600824061796125
+          ],
+          [
+            -130.14612873496836,
+            56.60630974332629
+          ],
+          [
+            -130.13897464354963,
+            56.60934012049928
+          ],
+          [
+            -130.13041339600343,
+            56.612253972104014
+          ],
+          [
+            -130.11692766943503,
+            56.614695933098325
+          ],
+          [
+            -130.1099958053679,
+            56.61746482827481
+          ],
+          [
+            -130.0855505497861,
+            56.62103182794657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 144679,
+        "lid": "734842-1285147-734834-1285189",
+        "ulid": "44486a50",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 565,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.3156805596728,
+            56.48579814221444
+          ],
+          [
+            -130.31584669757717,
+            56.48616659943112
+          ],
+          [
+            -130.31586177339622,
+            56.48653654562372
+          ],
+          [
+            -130.31552956138185,
+            56.48744332385762
+          ],
+          [
+            -130.31511077497794,
+            56.48821456344963
+          ],
+          [
+            -130.31435738135588,
+            56.48892836474009
+          ],
+          [
+            -130.31209752417521,
+            56.49017466080904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 144683,
+        "lid": "739077-1287952-739080-1287992",
+        "ulid": "b5aa162d",
+        "fault_type": "Reverse fault",
+        "confidence": "defined",
+        "fault_name": "Sulphurets Thrust Fault",
+        "length_m": 41,
+        "edit_date": "2019-12-19T08:00:00.000Z",
+        "pub_org": "British Columbia Geological Survey",
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.24964779627095,
+            56.513182772384
+          ],
+          [
+            -130.24963354586689,
+            56.51354667828407
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": null,
+        "lid": null,
+        "ulid": null,
+        "fault_type": null,
+        "confidence": null,
+        "fault_name": null,
+        "length_m": null,
+        "edit_date": "1899-11-30T08:00:00.000Z",
+        "pub_org": null,
+        "name": "Sulphurets Thrust Fault",
+        "color": "#FF1744",
+        "type": "fault",
+        "owner": "Sulphurets Thrust Fault"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -130.23139902056843,
+            56.54407346589312
+          ],
+          [
+            -130.21274062938528,
+            56.55593995203764
+          ]
+        ]
+      }
+    }
+  ]
+}

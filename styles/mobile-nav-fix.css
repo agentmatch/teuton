@@ -1,0 +1,75 @@
+/* Ensure mobile navigation is always visible on mobile devices */
+@media (max-width: 767px) {
+  /* Force mobile nav to be visible */
+  [class*="MobileNav"],
+  [class*="mobile-nav"],
+  .fixed.bottom-0.z-\\[100005\\],
+  div[class*="bottom-0"][class*="z-\\[100005\\]"],
+  div[style*="z-index: 100005"] {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: translateY(0) !important;
+    pointer-events: auto !important;
+    position: fixed !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+  }
+}
+
+/* Target mobile devices by touch and hover capabilities */
+@media (hover: none) and (pointer: coarse) {
+  [class*="MobileNav"],
+  [class*="mobile-nav"],
+  .fixed.bottom-0.z-\\[100005\\],
+  div[class*="bottom-0"][class*="z-\\[100005\\]"],
+  div[style*="z-index: 100005"] {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: translateY(0) !important;
+    pointer-events: auto !important;
+    position: fixed !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+  }
+}
+
+/* Also target by touch capability */
+@media (pointer: coarse) and (max-width: 900px) {
+  [class*="MobileNav"],
+  [class*="mobile-nav"],
+  .fixed.bottom-0.z-\\[100005\\],
+  div[class*="bottom-0"][class*="z-\\[100005\\]"],
+  div[style*="z-index: 100005"] {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: translateY(0) !important;
+    pointer-events: auto !important;
+    position: fixed !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+  }
+  
+  /* Ensure proper stacking context */
+  body {
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+  
+  /* Force motion divs to be visible */
+  .fixed.bottom-0 > div {
+    opacity: 1 !important;
+    transform: translateY(0) !important;
+  }
+  
+  /* Specific targeting for MobileNav component */
+  div[style*="z-index: 100005"] {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+  }
+}

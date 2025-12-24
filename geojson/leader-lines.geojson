@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malachite Porphyry Zone"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -129.76722922098753,
+            55.89894692500552
+          ],
+          [
+            -129.740,
+            55.915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitch Zone (VMS)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -129.76947788987871,
+            55.89429748023625
+          ],
+          [
+            -129.795,
+            55.898
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pad 1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -129.76633082720403,
+            55.89958304088123
+          ],
+          [
+            -129.740,
+            55.905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pad 2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -129.7691729316288,
+            55.89425585169981
+          ],
+          [
+            -129.765,
+            55.880
+          ]
+        ]
+      }
+    }
+  ]
+}

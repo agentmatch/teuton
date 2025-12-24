@@ -1,0 +1,48 @@
+{
+  "project_name": "Luxor Project",
+  "properties": {
+    "Tennyson": {
+      "name": "Tennyson",
+      "text_position": {
+        "x": 629.01731,
+        "y": 342.70428652
+      },
+      "page_location": "Found at (629.0, 342.7)"
+    },
+    "Big Gold": {
+      "name": "Big Gold",
+      "text_position": {
+        "x": 381.82622,
+        "y": 402.93630652
+      },
+      "page_location": "Found at (381.8, 402.9)"
+    },
+    "Eskay Rift": {
+      "name": "Eskay Rift",
+      "text_position": {
+        "x": 471.58299,
+        "y": 369.10078652
+      },
+      "page_location": "Found at (471.6, 369.1)"
+    },
+    "Leduc": {
+      "name": "Leduc",
+      "text_position": {
+        "x": 369.82666,
+        "y": 227.78921255
+      },
+      "page_location": "Found at (369.8, 227.8)"
+    },
+    "Pearson": {
+      "name": "Pearson",
+      "text_position": {
+        "x": 409.18524,
+        "y": 332.62562652
+      },
+      "page_location": "Found at (409.2, 332.6)"
+    }
+  },
+  "boundaries": [],
+  "total_area": "20,481 hectares",
+  "coordinate_system": "NAD 83 Zone 9N"
+}

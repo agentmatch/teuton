@@ -1,0 +1,6 @@
+# Robots.txt for Luxor Metals
+
+User-agent: *
+Allow: /
+
+Sitemap: https://luxormetals.com/sitemap.xml

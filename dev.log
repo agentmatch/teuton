@@ -1,0 +1,713 @@
+
+> luxor-metals@1.0.0 dev
+> next dev
+
+ ⚠ Port 3000 is in use, using available port 3003 instead.
+   ▲ Next.js 15.3.2
+   - Local:        http://localhost:3003
+   - Network:      http://192.168.1.125:3003
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 1060ms
+ ○ Compiling /landingpagekappa ...
+ ✓ Compiled /landingpagekappa in 5.1s (1687 modules)
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3003". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ⚠ Unsupported metadata viewport is configured in metadata export in /landingpagekappa. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /landingpagekappa. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ The "images.domains" configuration is deprecated. Please use "images.remotePatterns" configuration instead.
+ ✓ Compiled in 762ms (770 modules)
+ GET /landingpagekappa 200 in 6266ms
+ ○ Compiling /landingpagekappaoptimized ...
+ ✓ Compiled /landingpagekappaoptimized in 576ms (1655 modules)
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3003". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ⚠ Unsupported metadata viewport is configured in metadata export in /landingpagekappaoptimized. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /landingpagekappaoptimized. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /landingpagekappaoptimized 200 in 772ms
+ ✓ Compiled /api/stock-quote in 264ms (1675 modules)
+[Stock Quote API] Starting stock quote fetch...
+[TMX API] Starting direct TMX data fetch...
+[TMX GraphQL] Attempting to fetch from GraphQL endpoint...
+[TMX GraphQL] Response status: 200
+[TMX GraphQL] Raw response data: {
+  "data": {
+    "getQuoteBySymbol": {
+      "symbol": "LUXR",
+      "name": "Luxor Metals Ltd.",
+      "price": 0.2,
+      "priceChange": 0.02,
+      "percentChange": 11.111111,
+      "exchangeName": "TSX Venture Exchange",
+      "volume": 63200,
+      "openPrice": 0.2,
+      "dayHigh": 0.215,
+      "dayLow": 0.2,
+      "MarketCap": 3849792,
+      "prevClose": 0.18,
+      "dividendFrequency": null
+    }
+  }
+}
+[TMX GraphQL] Quote data received: {
+  "symbol": "LUXR",
+  "name": "Luxor Metals Ltd.",
+  "price": 0.2,
+  "priceChange": 0.02,
+  "percentChange": 11.111111,
+  "exchangeName": "TSX Venture Exchange",
+  "volume": 63200,
+  "openPrice": 0.2,
+  "dayHigh": 0.215,
+  "dayLow": 0.2,
+  "MarketCap": 3849792,
+  "prevClose": 0.18,
+  "dividendFrequency": null
+}
+[TMX GraphQL] Price found: 0.2
+[TMX GraphQL] Price change found: 0.02
+[TMX GraphQL] Percent change found: 11.111111
+[TMX GraphQL] Volume found: 63200 -> formatted: 63.20K
+[TMX GraphQL] Day high found: 0.215
+[TMX GraphQL] Day low found: 0.2
+[TMX GraphQL] Open price found: 0.2
+[TMX GraphQL] Previous close found: 0.18
+[TMX GraphQL] Market cap found: 3849792 -> formatted: $3.8M
+[TMX GraphQL] Final response object: {
+  "symbol": "TSX-V: LUXR",
+  "timestamp": "2025-06-23T00:21:35.177Z",
+  "price": 0.2,
+  "change": 0.02,
+  "changePercent": 11.111111,
+  "volume": "63.20K",
+  "high": 0.215,
+  "low": 0.2,
+  "open": 0.2,
+  "previousClose": 0.18,
+  "marketCap": "$3.8M"
+}
+[Stock Quote API] Direct API data obtained, returning: {
+  "symbol": "TSX-V: LUXR",
+  "timestamp": "2025-06-23T00:21:35.177Z",
+  "price": 0.2,
+  "change": 0.02,
+  "changePercent": 11.111111,
+  "volume": "63.20K",
+  "high": 0.215,
+  "low": 0.2,
+  "open": 0.2,
+  "previousClose": 0.18,
+  "marketCap": "$3.8M"
+}
+ GET /api/stock-quote 200 in 793ms
+[Stock Quote API] Starting stock quote fetch...
+[TMX API] Starting direct TMX data fetch...
+[TMX GraphQL] Attempting to fetch from GraphQL endpoint...
+[TMX GraphQL] Response status: 200
+[TMX GraphQL] Raw response data: {
+  "data": {
+    "getQuoteBySymbol": {
+      "symbol": "LUXR",
+      "name": "Luxor Metals Ltd.",
+      "price": 0.2,
+      "priceChange": 0.02,
+      "percentChange": 11.111111,
+      "exchangeName": "TSX Venture Exchange",
+      "volume": 63200,
+      "openPrice": 0.2,
+      "dayHigh": 0.215,
+      "dayLow": 0.2,
+      "MarketCap": 3849792,
+      "prevClose": 0.18,
+      "dividendFrequency": null
+    }
+  }
+}
+[TMX GraphQL] Quote data received: {
+  "symbol": "LUXR",
+  "name": "Luxor Metals Ltd.",
+  "price": 0.2,
+  "priceChange": 0.02,
+  "percentChange": 11.111111,
+  "exchangeName": "TSX Venture Exchange",
+  "volume": 63200,
+  "openPrice": 0.2,
+  "dayHigh": 0.215,
+  "dayLow": 0.2,
+  "MarketCap": 3849792,
+  "prevClose": 0.18,
+  "dividendFrequency": null
+}
+[TMX GraphQL] Price found: 0.2
+[TMX GraphQL] Price change found: 0.02
+[TMX GraphQL] Percent change found: 11.111111
+[TMX GraphQL] Volume found: 63200 -> formatted: 63.20K
+[TMX GraphQL] Day high found: 0.215
+[TMX GraphQL] Day low found: 0.2
+[TMX GraphQL] Open price found: 0.2
+[TMX GraphQL] Previous close found: 0.18
+[TMX GraphQL] Market cap found: 3849792 -> formatted: $3.8M
+[TMX GraphQL] Final response object: {
+  "symbol": "TSX-V: LUXR",
+  "timestamp": "2025-06-23T00:21:35.444Z",
+  "price": 0.2,
+  "change": 0.02,
+  "changePercent": 11.111111,
+  "volume": "63.20K",
+  "high": 0.215,
+  "low": 0.2,
+  "open": 0.2,
+  "previousClose": 0.18,
+  "marketCap": "$3.8M"
+}
+[Stock Quote API] Direct API data obtained, returning: {
+  "symbol": "TSX-V: LUXR",
+  "timestamp": "2025-06-23T00:21:35.444Z",
+  "price": 0.2,
+  "change": 0.02,
+  "changePercent": 11.111111,
+  "volume": "63.20K",
+  "high": 0.215,
+  "low": 0.2,
+  "open": 0.2,
+  "previousClose": 0.18,
+  "marketCap": "$3.8M"
+}
+ GET /api/stock-quote 200 in 144ms
+[Stock Quote API] Starting stock quote fetch...
+[TMX API] Starting direct TMX data fetch...
+[TMX GraphQL] Attempting to fetch from GraphQL endpoint...
+[TMX GraphQL] Response status: 200
+[TMX GraphQL] Raw response data: {
+  "data": {
+    "getQuoteBySymbol": {
+      "symbol": "LUXR",
+      "name": "Luxor Metals Ltd.",
+      "price": 0.2,
+      "priceChange": 0.02,
+      "percentChange": 11.111111,
+      "exchangeName": "TSX Venture Exchange",
+      "volume": 63200,
+      "openPrice": 0.2,
+      "dayHigh": 0.215,
+      "dayLow": 0.2,
+      "MarketCap": 3849792,
+      "prevClose": 0.18,
+      "dividendFrequency": null
+    }
+  }
+}
+[TMX GraphQL] Quote data received: {
+  "symbol": "LUXR",
+  "name": "Luxor Metals Ltd.",
+  "price": 0.2,
+  "priceChange": 0.02,
+  "percentChange": 11.111111,
+  "exchangeName": "TSX Venture Exchange",
+  "volume": 63200,
+  "openPrice": 0.2,
+  "dayHigh": 0.215,
+  "dayLow": 0.2,
+  "MarketCap": 3849792,
+  "prevClose": 0.18,
+  "dividendFrequency": null
+}
+[TMX GraphQL] Price found: 0.2
+[TMX GraphQL] Price change found: 0.02
+[TMX GraphQL] Percent change found: 11.111111
+[TMX GraphQL] Volume found: 63200 -> formatted: 63.20K
+[TMX GraphQL] Day high found: 0.215
+[TMX GraphQL] Day low found: 0.2
+[TMX GraphQL] Open price found: 0.2
+[TMX GraphQL] Previous close found: 0.18
+[TMX GraphQL] Market cap found: 3849792 -> formatted: $3.8M
+[TMX GraphQL] Final response object: {
+  "symbol": "TSX-V: LUXR",
+  "timestamp": "2025-06-23T00:21:35.617Z",
+  "price": 0.2,
+  "change": 0.02,
+  "changePercent": 11.111111,
+  "volume": "63.20K",
+  "high": 0.215,
+  "low": 0.2,
+  "open": 0.2,
+  "previousClose": 0.18,
+  "marketCap": "$3.8M"
+}
+[Stock Quote API] Direct API data obtained, returning: {
+  "symbol": "TSX-V: LUXR",
+  "timestamp": "2025-06-23T00:21:35.617Z",
+  "price": 0.2,
+  "change": 0.02,
+  "changePercent": 11.111111,
+  "volume": "63.20K",
+  "high": 0.215,
+  "low": 0.2,
+  "open": 0.2,
+  "previousClose": 0.18,
+  "marketCap": "$3.8M"
+}
+ GET /api/stock-quote 200 in 171ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3003". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ⚠ Unsupported metadata viewport is configured in metadata export in /landingpagekappaoptimized. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /landingpagekappaoptimized. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /landingpagekappaoptimized 200 in 215ms
+[Stock Quote API] Starting stock quote fetch...
+[TMX API] Starting direct TMX data fetch...
+[TMX GraphQL] Attempting to fetch from GraphQL endpoint...
+[TMX GraphQL] Response status: 200
+[TMX GraphQL] Raw response data: {
+  "data": {
+    "getQuoteBySymbol": {
+      "symbol": "LUXR",
+      "name": "Luxor Metals Ltd.",
+      "price": 0.2,
+      "priceChange": 0.02,
+      "percentChange": 11.111111,
+      "exchangeName": "TSX Venture Exchange",
+      "volume": 63200,
+      "openPrice": 0.2,
+      "dayHigh": 0.215,
+      "dayLow": 0.2,
+      "MarketCap": 3849792,
+      "prevClose": 0.18,
+      "dividendFrequency": null
+    }
+  }
+}
+[TMX GraphQL] Quote data received: {
+  "symbol": "LUXR",
+  "name": "Luxor Metals Ltd.",
+  "price": 0.2,
+  "priceChange": 0.02,
+  "percentChange": 11.111111,
+  "exchangeName": "TSX Venture Exchange",
+  "volume": 63200,
+  "openPrice": 0.2,
+  "dayHigh": 0.215,
+  "dayLow": 0.2,
+  "MarketCap": 3849792,
+  "prevClose": 0.18,
+  "dividendFrequency": null
+}
+[TMX GraphQL] Price found: 0.2
+[TMX GraphQL] Price change found: 0.02
+[TMX GraphQL] Percent change found: 11.111111
+[TMX GraphQL] Volume found: 63200 -> formatted: 63.20K
+[TMX GraphQL] Day high found: 0.215
+[TMX GraphQL] Day low found: 0.2
+[TMX GraphQL] Open price found: 0.2
+[TMX GraphQL] Previous close found: 0.18
+[TMX GraphQL] Market cap found: 3849792 -> formatted: $3.8M
+[TMX GraphQL] Final response object: {
+  "symbol": "TSX-V: LUXR",
+  "timestamp": "2025-06-23T00:21:50.166Z",
+  "price": 0.2,
+  "change": 0.02,
+  "changePercent": 11.111111,
+  "volume": "63.20K",
+  "high": 0.215,
+  "low": 0.2,
+  "open": 0.2,
+  "previousClose": 0.18,
+  "marketCap": "$3.8M"
+}
+[Stock Quote API] Direct API data obtained, returning: {
+  "symbol": "TSX-V: LUXR",
+  "timestamp": "2025-06-23T00:21:50.166Z",
+  "price": 0.2,
+  "change": 0.02,
+  "changePercent": 11.111111,
+  "volume": "63.20K",
+  "high": 0.215,
+  "low": 0.2,
+  "open": 0.2,
+  "previousClose": 0.18,
+  "marketCap": "$3.8M"
+}
+ GET /api/stock-quote 200 in 481ms
+ ○ Compiling /icon ...
+ ✓ Compiled /icon in 667ms (962 modules)
+ GET /icon?a729214d327fdbc3 200 in 863ms
+[Stock Quote API] Starting stock quote fetch...
+[TMX API] Starting direct TMX data fetch...
+[TMX GraphQL] Attempting to fetch from GraphQL endpoint...
+[TMX GraphQL] Response status: 200
+[TMX GraphQL] Raw response data: {
+  "data": {
+    "getQuoteBySymbol": {
+      "symbol": "LUXR",
+      "name": "Luxor Metals Ltd.",
+      "price": 0.2,
+      "priceChange": 0.02,
+      "percentChange": 11.111111,
+      "exchangeName": "TSX Venture Exchange",
+      "volume": 63200,
+      "openPrice": 0.2,
+      "dayHigh": 0.215,
+      "dayLow": 0.2,
+      "MarketCap": 3849792,
+      "prevClose": 0.18,
+      "dividendFrequency": null
+    }
+  }
+}
+[TMX GraphQL] Quote data received: {
+  "symbol": "LUXR",
+  "name": "Luxor Metals Ltd.",
+  "price": 0.2,
+  "priceChange": 0.02,
+  "percentChange": 11.111111,
+  "exchangeName": "TSX Venture Exchange",
+  "volume": 63200,
+  "openPrice": 0.2,
+  "dayHigh": 0.215,
+  "dayLow": 0.2,
+  "MarketCap": 3849792,
+  "prevClose": 0.18,
+  "dividendFrequency": null
+}
+[TMX GraphQL] Price found: 0.2
+[TMX GraphQL] Price change found: 0.02
+[TMX GraphQL] Percent change found: 11.111111
+[TMX GraphQL] Volume found: 63200 -> formatted: 63.20K
+[TMX GraphQL] Day high found: 0.215
+[TMX GraphQL] Day low found: 0.2
+[TMX GraphQL] Open price found: 0.2
+[TMX GraphQL] Previous close found: 0.18
+[TMX GraphQL] Market cap found: 3849792 -> formatted: $3.8M
+[TMX GraphQL] Final response object: {
+  "symbol": "TSX-V: LUXR",
+  "timestamp": "2025-06-23T00:21:51.014Z",
+  "price": 0.2,
+  "change": 0.02,
+  "changePercent": 11.111111,
+  "volume": "63.20K",
+  "high": 0.215,
+  "low": 0.2,
+  "open": 0.2,
+  "previousClose": 0.18,
+  "marketCap": "$3.8M"
+}
+[Stock Quote API] Direct API data obtained, returning: {
+  "symbol": "TSX-V: LUXR",
+  "timestamp": "2025-06-23T00:21:51.014Z",
+  "price": 0.2,
+  "change": 0.02,
+  "changePercent": 11.111111,
+  "volume": "63.20K",
+  "high": 0.215,
+  "low": 0.2,
+  "open": 0.2,
+  "previousClose": 0.18,
+  "marketCap": "$3.8M"
+}
+ GET /api/stock-quote 200 in 189ms
+[Stock Quote API] Starting stock quote fetch...
+[TMX API] Starting direct TMX data fetch...
+[TMX GraphQL] Attempting to fetch from GraphQL endpoint...
+[TMX GraphQL] Response status: 200
+[TMX GraphQL] Raw response data: {
+  "data": {
+    "getQuoteBySymbol": {
+      "symbol": "LUXR",
+      "name": "Luxor Metals Ltd.",
+      "price": 0.2,
+      "priceChange": 0.02,
+      "percentChange": 11.111111,
+      "exchangeName": "TSX Venture Exchange",
+      "volume": 63200,
+      "openPrice": 0.2,
+      "dayHigh": 0.215,
+      "dayLow": 0.2,
+      "MarketCap": 3849792,
+      "prevClose": 0.18,
+      "dividendFrequency": null
+    }
+  }
+}
+[TMX GraphQL] Quote data received: {
+  "symbol": "LUXR",
+  "name": "Luxor Metals Ltd.",
+  "price": 0.2,
+  "priceChange": 0.02,
+  "percentChange": 11.111111,
+  "exchangeName": "TSX Venture Exchange",
+  "volume": 63200,
+  "openPrice": 0.2,
+  "dayHigh": 0.215,
+  "dayLow": 0.2,
+  "MarketCap": 3849792,
+  "prevClose": 0.18,
+  "dividendFrequency": null
+}
+[TMX GraphQL] Price found: 0.2
+[TMX GraphQL] Price change found: 0.02
+[TMX GraphQL] Percent change found: 11.111111
+[TMX GraphQL] Volume found: 63200 -> formatted: 63.20K
+[TMX GraphQL] Day high found: 0.215
+[TMX GraphQL] Day low found: 0.2
+[TMX GraphQL] Open price found: 0.2
+[TMX GraphQL] Previous close found: 0.18
+[TMX GraphQL] Market cap found: 3849792 -> formatted: $3.8M
+[TMX GraphQL] Final response object: {
+  "symbol": "TSX-V: LUXR",
+  "timestamp": "2025-06-23T00:21:51.189Z",
+  "price": 0.2,
+  "change": 0.02,
+  "changePercent": 11.111111,
+  "volume": "63.20K",
+  "high": 0.215,
+  "low": 0.2,
+  "open": 0.2,
+  "previousClose": 0.18,
+  "marketCap": "$3.8M"
+}
+[Stock Quote API] Direct API data obtained, returning: {
+  "symbol": "TSX-V: LUXR",
+  "timestamp": "2025-06-23T00:21:51.189Z",
+  "price": 0.2,
+  "change": 0.02,
+  "changePercent": 11.111111,
+  "volume": "63.20K",
+  "high": 0.215,
+  "low": 0.2,
+  "open": 0.2,
+  "previousClose": 0.18,
+  "marketCap": "$3.8M"
+}
+ GET /api/stock-quote 200 in 151ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /landingpagekappaoptimized. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /landingpagekappaoptimized. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /landingpagekappaoptimized 200 in 142ms
+ GET /icon?a729214d327fdbc3 200 in 30ms
+[Stock Quote API] Starting stock quote fetch...
+[TMX API] Starting direct TMX data fetch...
+[TMX GraphQL] Attempting to fetch from GraphQL endpoint...
+[TMX GraphQL] Response status: 200
+[TMX GraphQL] Raw response data: {
+  "data": {
+    "getQuoteBySymbol": {
+      "symbol": "LUXR",
+      "name": "Luxor Metals Ltd.",
+      "price": 0.2,
+      "priceChange": 0.02,
+      "percentChange": 11.111111,
+      "exchangeName": "TSX Venture Exchange",
+      "volume": 63200,
+      "openPrice": 0.2,
+      "dayHigh": 0.215,
+      "dayLow": 0.2,
+      "MarketCap": 3849792,
+      "prevClose": 0.18,
+      "dividendFrequency": null
+    }
+  }
+}
+[TMX GraphQL] Quote data received: {
+  "symbol": "LUXR",
+  "name": "Luxor Metals Ltd.",
+  "price": 0.2,
+  "priceChange": 0.02,
+  "percentChange": 11.111111,
+  "exchangeName": "TSX Venture Exchange",
+  "volume": 63200,
+  "openPrice": 0.2,
+  "dayHigh": 0.215,
+  "dayLow": 0.2,
+  "MarketCap": 3849792,
+  "prevClose": 0.18,
+  "dividendFrequency": null
+}
+[TMX GraphQL] Price found: 0.2
+[TMX GraphQL] Price change found: 0.02
+[TMX GraphQL] Percent change found: 11.111111
+[TMX GraphQL] Volume found: 63200 -> formatted: 63.20K
+[TMX GraphQL] Day high found: 0.215
+[TMX GraphQL] Day low found: 0.2
+[TMX GraphQL] Open price found: 0.2
+[TMX GraphQL] Previous close found: 0.18
+[TMX GraphQL] Market cap found: 3849792 -> formatted: $3.8M
+[TMX GraphQL] Final response object: {
+  "symbol": "TSX-V: LUXR",
+  "timestamp": "2025-06-23T00:22:39.310Z",
+  "price": 0.2,
+  "change": 0.02,
+  "changePercent": 11.111111,
+  "volume": "63.20K",
+  "high": 0.215,
+  "low": 0.2,
+  "open": 0.2,
+  "previousClose": 0.18,
+  "marketCap": "$3.8M"
+}
+[Stock Quote API] Direct API data obtained, returning: {
+  "symbol": "TSX-V: LUXR",
+  "timestamp": "2025-06-23T00:22:39.310Z",
+  "price": 0.2,
+  "change": 0.02,
+  "changePercent": 11.111111,
+  "volume": "63.20K",
+  "high": 0.215,
+  "low": 0.2,
+  "open": 0.2,
+  "previousClose": 0.18,
+  "marketCap": "$3.8M"
+}
+ GET /api/stock-quote 200 in 415ms
+[Stock Quote API] Starting stock quote fetch...
+[TMX API] Starting direct TMX data fetch...
+[TMX GraphQL] Attempting to fetch from GraphQL endpoint...
+[TMX GraphQL] Response status: 200
+[TMX GraphQL] Raw response data: {
+  "data": {
+    "getQuoteBySymbol": {
+      "symbol": "LUXR",
+      "name": "Luxor Metals Ltd.",
+      "price": 0.2,
+      "priceChange": 0.02,
+      "percentChange": 11.111111,
+      "exchangeName": "TSX Venture Exchange",
+      "volume": 63200,
+      "openPrice": 0.2,
+      "dayHigh": 0.215,
+      "dayLow": 0.2,
+      "MarketCap": 3849792,
+      "prevClose": 0.18,
+      "dividendFrequency": null
+    }
+  }
+}
+[TMX GraphQL] Quote data received: {
+  "symbol": "LUXR",
+  "name": "Luxor Metals Ltd.",
+  "price": 0.2,
+  "priceChange": 0.02,
+  "percentChange": 11.111111,
+  "exchangeName": "TSX Venture Exchange",
+  "volume": 63200,
+  "openPrice": 0.2,
+  "dayHigh": 0.215,
+  "dayLow": 0.2,
+  "MarketCap": 3849792,
+  "prevClose": 0.18,
+  "dividendFrequency": null
+}
+[TMX GraphQL] Price found: 0.2
+[TMX GraphQL] Price change found: 0.02
+[TMX GraphQL] Percent change found: 11.111111
+[TMX GraphQL] Volume found: 63200 -> formatted: 63.20K
+[TMX GraphQL] Day high found: 0.215
+[TMX GraphQL] Day low found: 0.2
+[TMX GraphQL] Open price found: 0.2
+[TMX GraphQL] Previous close found: 0.18
+[TMX GraphQL] Market cap found: 3849792 -> formatted: $3.8M
+[TMX GraphQL] Final response object: {
+  "symbol": "TSX-V: LUXR",
+  "timestamp": "2025-06-23T00:22:39.839Z",
+  "price": 0.2,
+  "change": 0.02,
+  "changePercent": 11.111111,
+  "volume": "63.20K",
+  "high": 0.215,
+  "low": 0.2,
+  "open": 0.2,
+  "previousClose": 0.18,
+  "marketCap": "$3.8M"
+}
+[Stock Quote API] Direct API data obtained, returning: {
+  "symbol": "TSX-V: LUXR",
+  "timestamp": "2025-06-23T00:22:39.839Z",
+  "price": 0.2,
+  "change": 0.02,
+  "changePercent": 11.111111,
+  "volume": "63.20K",
+  "high": 0.215,
+  "low": 0.2,
+  "open": 0.2,
+  "previousClose": 0.18,
+  "marketCap": "$3.8M"
+}
+ GET /api/stock-quote 200 in 210ms
+[Stock Quote API] Starting stock quote fetch...
+[TMX API] Starting direct TMX data fetch...
+[TMX GraphQL] Attempting to fetch from GraphQL endpoint...
+[TMX GraphQL] Response status: 200
+[TMX GraphQL] Raw response data: {
+  "data": {
+    "getQuoteBySymbol": {
+      "symbol": "LUXR",
+      "name": "Luxor Metals Ltd.",
+      "price": 0.2,
+      "priceChange": 0.02,
+      "percentChange": 11.111111,
+      "exchangeName": "TSX Venture Exchange",
+      "volume": 63200,
+      "openPrice": 0.2,
+      "dayHigh": 0.215,
+      "dayLow": 0.2,
+      "MarketCap": 3849792,
+      "prevClose": 0.18,
+      "dividendFrequency": null
+    }
+  }
+}
+[TMX GraphQL] Quote data received: {
+  "symbol": "LUXR",
+  "name": "Luxor Metals Ltd.",
+  "price": 0.2,
+  "priceChange": 0.02,
+  "percentChange": 11.111111,
+  "exchangeName": "TSX Venture Exchange",
+  "volume": 63200,
+  "openPrice": 0.2,
+  "dayHigh": 0.215,
+  "dayLow": 0.2,
+  "MarketCap": 3849792,
+  "prevClose": 0.18,
+  "dividendFrequency": null
+}
+[TMX GraphQL] Price found: 0.2
+[TMX GraphQL] Price change found: 0.02
+[TMX GraphQL] Percent change found: 11.111111
+[TMX GraphQL] Volume found: 63200 -> formatted: 63.20K
+[TMX GraphQL] Day high found: 0.215
+[TMX GraphQL] Day low found: 0.2
+[TMX GraphQL] Open price found: 0.2
+[TMX GraphQL] Previous close found: 0.18
+[TMX GraphQL] Market cap found: 3849792 -> formatted: $3.8M
+[TMX GraphQL] Final response object: {
+  "symbol": "TSX-V: LUXR",
+  "timestamp": "2025-06-23T00:22:40.056Z",
+  "price": 0.2,
+  "change": 0.02,
+  "changePercent": 11.111111,
+  "volume": "63.20K",
+  "high": 0.215,
+  "low": 0.2,
+  "open": 0.2,
+  "previousClose": 0.18,
+  "marketCap": "$3.8M"
+}
+[Stock Quote API] Direct API data obtained, returning: {
+  "symbol": "TSX-V: LUXR",
+  "timestamp": "2025-06-23T00:22:40.056Z",
+  "price": 0.2,
+  "change": 0.02,
+  "changePercent": 11.111111,
+  "volume": "63.20K",
+  "high": 0.215,
+  "low": 0.2,
+  "open": 0.2,
+  "previousClose": 0.18,
+  "marketCap": "$3.8M"
+}
+ GET /api/stock-quote 200 in 210ms
+[?25h

@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "name": "Luxor Properties Dissolved",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Property": "Catspaw",
+        "Project": "Luxor",
+        "Ownership": "TUO 100%",
+        "Total_Area_Hectares": "800.000",
+        "Number_of_Claims": 2,
+        "Claim_Names": "CATSPAW, JOHN",
+        "Tenure_Numbers": "250846, 409053",
+        "Expire_Date": "2031-10-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Property": "Tennyson",
+        "Project": "Luxor",
+        "Ownership": "TUO 100%",
+        "Total_Area_Hectares": "2279.205",
+        "Number_of_Claims": 14,
+        "Claim_Names": "TENNYSON 1, TENNYSON 2, TENNYSON 3, TENNYSON 4, TENN 1, TENN 2, TENN 4, Enid",
+        "Tenure_Numbers": "251127, 251128, 251129, 251130, 409039, 409040, 409042, 508799, 508802, 535932, 535939, 535940, 535941, 1104937",
+        "Expire_Date": "2030-10-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Property": "Pearson",
+        "Project": "Luxor",
+        "Ownership": "TUO 100%",
+        "Total_Area_Hectares": "2000.000",
+        "Number_of_Claims": 4,
+        "Claim_Names": "PEARSON 1, PEARSON 2, PEARSON 3, PEARSON 4",
+        "Tenure_Numbers": "415486, 415487, 415488, 415489",
+        "Expire_Date": "2030-10-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Property": "Four J's",
+        "Project": "Luxor",
+        "Ownership": "TUO 100%",
+        "Total_Area_Hectares": "1883.943",
+        "Number_of_Claims": 6,
+        "Claim_Names": "JIM - KM, FRANK - KM",
+        "Tenure_Numbers": "504858, 504863, 508807, 508811, 508899, 889698",
+        "Expire_Date": "2031-10-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Property": "Leduc Silver",
+        "Project": "Luxor",
+        "Ownership": "TUO 100%",
+        "Total_Area_Hectares": "6785.693",
+        "Number_of_Claims": 13,
+        "Claim_Names": "Leduc Silver NW, Leduc Silver W1, Leduc Silver W2, Leduc Silver SW1, Leduc Silver SW2, Leduc Silver S, Leduc Silver SE",
+        "Tenure_Numbers": "508703, 508705, 508775, 508777, 508828, 508887, 508888, 508889, 508891, 508893, 508894, 508895, 508898",
+        "Expire_Date": "2030-10-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Property": "Big Gold West",
+        "Project": "Luxor",
+        "Ownership": "TUO 100%",
+        "Total_Area_Hectares": "1920.502",
+        "Number_of_Claims": 6,
+        "Claim_Names": "MACH 1, MACH 2, MACH 3",
+        "Tenure_Numbers": "520248, 520250, 520252, 1010629, 1015604, 1015780",
+        "Expire_Date": "2030-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Property": "Big Gold",
+        "Project": "Luxor",
+        "Ownership": "TUO 100%",
+        "Total_Area_Hectares": "2835.338",
+        "Number_of_Claims": 7,
+        "Claim_Names": "BIG GOLD 1, BIG GOLD 2, BIG GOLD 3, BIG GOLD 4, ER1, ER2",
+        "Tenure_Numbers": "520254, 520257, 520258, 520260, 535888, 535889, 535892",
+        "Expire_Date": "2030-07-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Property": "Eskay Rift",
+        "Project": "Luxor",
+        "Ownership": "TUO 100%",
+        "Total_Area_Hectares": "3053.134",
+        "Number_of_Claims": 7,
+        "Claim_Names": "ESKAY RIFT 1, ESKAY RIFT 2, ESKAY RIFT 3, FM#2",
+        "Tenure_Numbers": "527347, 527349, 527350, 535896, 535897, 995980, 1041331",
+        "Expire_Date": "2031-10-15"
+      }
+    }
+  ]
+}
