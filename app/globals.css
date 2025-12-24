@@ -2,36 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Smooth scrolling and performance optimizations */
-@layer base {
-  html {
-    scroll-behavior: smooth;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-  }
-  
-  * {
-    scrollbar-width: thin;
-    scrollbar-color: rgba(155, 155, 155, 0.5) transparent;
-  }
-  
-  *::-webkit-scrollbar {
-    width: 8px;
-    height: 8px;
-  }
-  
-  *::-webkit-scrollbar-track {
-    background: transparent;
-  }
-  
-  *::-webkit-scrollbar-thumb {
-    background-color: rgba(155, 155, 155, 0.5);
-    border-radius: 20px;
-    border: transparent;
-  }
-}
-
-/* Import mobile optimizations */
+/* Import mobile optimizations - must be after @tailwind but before other rules */
 @import '../styles/mobile-optimizations.css';
 @import '../styles/mobile-nav-fix.css';
 @import '../styles/force-mobile-nav.css';
@@ -39,6 +10,35 @@
 @import '../styles/mobile-navigation-fix.css';
 @import '../styles/mobile-fixes.css';
 @import '../styles/mobile-viewport-fix.css';
+
+/* Smooth scrolling and performance optimizations */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(155, 155, 155, 0.5) transparent;
+  }
+
+  *::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: rgba(155, 155, 155, 0.5);
+    border-radius: 20px;
+    border: transparent;
+  }
+}
 
 /* Mux Player Custom Controls - Hide everything except fullscreen */
 mux-player {
