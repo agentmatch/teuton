@@ -356,42 +356,42 @@ export default function Home() {
             className="relative w-[98%] flex-1 max-w-[1600px] flex flex-col overflow-hidden"
             style={{
               borderRadius: '16px',
-              background: 'linear-gradient(135deg, rgba(16, 18, 32, 0.85) 0%, rgba(12, 14, 26, 0.92) 100%)',
+              background: 'linear-gradient(135deg, rgba(30, 58, 95, 0.9) 0%, rgba(20, 45, 80, 0.95) 50%, rgba(15, 35, 65, 0.92) 100%)',
               backdropFilter: 'blur(40px) saturate(150%)',
               WebkitBackdropFilter: 'blur(40px) saturate(150%)',
-              border: '0.5px solid rgba(249, 220, 92, 0.38)',
+              border: '0.5px solid rgba(100, 160, 220, 0.45)',
               boxShadow: `
-                0 0 0 0.5px rgba(249, 220, 92, 0.22),
-                0 0 20px rgba(249, 220, 92, 0.16),
-                0 0 40px rgba(251, 233, 154, 0.11),
-                0 0 80px rgba(251, 233, 154, 0.07),
+                0 0 0 0.5px rgba(80, 140, 200, 0.3),
+                0 0 20px rgba(60, 120, 180, 0.2),
+                0 0 40px rgba(80, 140, 200, 0.15),
+                0 0 80px rgba(100, 160, 220, 0.1),
                 0 40px 120px rgba(0, 0, 0, 0.5),
                 0 20px 60px rgba(0, 0, 0, 0.4),
-                inset 0 1px 0 rgba(249, 220, 92, 0.22)
+                inset 0 1px 0 rgba(120, 180, 240, 0.25)
               `,
             }}
           >
-            {/* Top edge highlight - gold */}
+            {/* Top edge highlight - blue */}
             <div
               className="absolute top-0 left-0 right-0 h-[2px] pointer-events-none"
               style={{
-                background: 'linear-gradient(90deg, transparent 0%, rgba(249, 220, 92, 0.6) 20%, rgba(251, 233, 154, 0.8) 50%, rgba(249, 220, 92, 0.6) 80%, transparent 100%)',
+                background: 'linear-gradient(90deg, transparent 0%, rgba(100, 180, 255, 0.6) 20%, rgba(140, 200, 255, 0.8) 50%, rgba(100, 180, 255, 0.6) 80%, transparent 100%)',
               }}
             />
 
-            {/* Left edge highlight - gold */}
+            {/* Left edge highlight - blue */}
             <div
               className="absolute top-0 left-0 bottom-0 w-px pointer-events-none"
               style={{
-                background: 'linear-gradient(180deg, rgba(249, 220, 92, 0.5) 0%, rgba(251, 233, 154, 0.18) 50%, rgba(249, 220, 92, 0.5) 100%)',
+                background: 'linear-gradient(180deg, rgba(100, 180, 255, 0.5) 0%, rgba(140, 200, 255, 0.18) 50%, rgba(100, 180, 255, 0.5) 100%)',
               }}
             />
 
-            {/* Right edge highlight - gold */}
+            {/* Right edge highlight - blue */}
             <div
               className="absolute top-0 right-0 bottom-0 w-px pointer-events-none"
               style={{
-                background: 'linear-gradient(180deg, rgba(249, 220, 92, 0.5) 0%, rgba(251, 233, 154, 0.18) 50%, rgba(249, 220, 92, 0.5) 100%)',
+                background: 'linear-gradient(180deg, rgba(100, 180, 255, 0.5) 0%, rgba(140, 200, 255, 0.18) 50%, rgba(100, 180, 255, 0.5) 100%)',
               }}
             />
 
@@ -406,8 +406,8 @@ export default function Home() {
               }}
             >
               <Suspense fallback={
-                <div className="absolute inset-0 bg-[#0d0f1e] flex items-center justify-center">
-                  <div className="w-8 h-8 border-2 border-[#FED992] border-t-transparent rounded-full animate-spin" />
+                <div className="absolute inset-0 bg-[#0d1a2a] flex items-center justify-center">
+                  <div className="w-8 h-8 border-2 border-[#64B4FF] border-t-transparent rounded-full animate-spin" />
                 </div>
               }>
                 <StrategicLocationMap
@@ -423,11 +423,11 @@ export default function Home() {
               </Suspense>
             </div>
 
-            {/* Bottom edge subtle glow - gold */}
+            {/* Bottom edge subtle glow - blue */}
             <div
               className="absolute bottom-0 left-0 right-0 h-px pointer-events-none"
               style={{
-                background: 'linear-gradient(90deg, transparent 0%, rgba(249, 220, 92, 0.45) 20%, rgba(251, 233, 154, 0.6) 50%, rgba(249, 220, 92, 0.45) 80%, transparent 100%)',
+                background: 'linear-gradient(90deg, transparent 0%, rgba(100, 180, 255, 0.45) 20%, rgba(140, 200, 255, 0.6) 50%, rgba(100, 180, 255, 0.45) 80%, transparent 100%)',
               }}
             />
           </div>
