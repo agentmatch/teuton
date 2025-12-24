@@ -2,9 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Import Mapbox GL JS styles */
-@import '~mapbox-gl/dist/mapbox-gl.css';
-
 /* Smooth scrolling and performance optimizations */
 @layer base {
   html {

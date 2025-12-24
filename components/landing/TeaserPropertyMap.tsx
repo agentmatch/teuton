@@ -4,7 +4,7 @@ import dynamic from 'next/dynamic'
 import { useState, useEffect, useRef } from 'react'
 import EmailSignup from './EmailSignup'
 import { motion, AnimatePresence } from 'framer-motion'
-import '/styles/teaser-font-fix.css'
+import '@/styles/teaser-font-fix.css'
 
 // Import the header component for teaser
 const TeaserHeader = dynamic(() => import('../layout/TeaserHeader'), {
