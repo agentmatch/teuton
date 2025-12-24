@@ -334,11 +334,11 @@ export default function Home() {
         <motion.div
           className="hero-panel absolute inset-0 flex flex-col items-center"
           style={{
-            paddingTop: 'calc(clamp(8px, 1vw, 12px) + 90px)',
-            paddingLeft: 'clamp(8px, 1vw, 12px)',
-            paddingRight: 'clamp(8px, 1vw, 12px)',
-            paddingBottom: 'clamp(8px, 1vw, 12px)',
-            gap: 'clamp(12px, 1.5vw, 20px)',
+            paddingTop: 'calc(clamp(6px, 0.8vw, 10px) + 70px)',
+            paddingLeft: 'clamp(6px, 0.8vw, 10px)',
+            paddingRight: 'clamp(6px, 0.8vw, 10px)',
+            paddingBottom: 'clamp(6px, 0.8vw, 10px)',
+            gap: 'clamp(8px, 1vw, 12px)',
           }}
           initial={{ opacity: 0, y: 30, scale: 0.98 }}
           animate={{
@@ -433,7 +433,7 @@ export default function Home() {
           </div>
 
           {/* Bottom Spacer - maintains padding */}
-          <div style={{ height: 'clamp(40px, 5vw, 60px)' }} />
+          <div style={{ height: 'clamp(16px, 2vw, 24px)' }} />
         </motion.div>
 
         {/* Preload critical resources */}
