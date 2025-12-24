@@ -1,6 +1,13 @@
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
+import '@/styles/mobile-optimizations.css'
+import '@/styles/mobile-nav-fix.css'
+import '@/styles/force-mobile-nav.css'
+import '@/styles/safari-mobile-nav-fix.css'
+import '@/styles/mobile-navigation-fix.css'
+import '@/styles/mobile-fixes.css'
+import '@/styles/mobile-viewport-fix.css'
 import { ConditionalHeader } from '@/components/layout/ConditionalHeader'
 import { Footer } from '@/components/layout/Footer'
 

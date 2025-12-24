@@ -2,15 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Import mobile optimizations - must be after @tailwind but before other rules */
-@import '../styles/mobile-optimizations.css';
-@import '../styles/mobile-nav-fix.css';
-@import '../styles/force-mobile-nav.css';
-@import '../styles/safari-mobile-nav-fix.css';
-@import '../styles/mobile-navigation-fix.css';
-@import '../styles/mobile-fixes.css';
-@import '../styles/mobile-viewport-fix.css';
-
 /* Smooth scrolling and performance optimizations */
 @layer base {
   html {
