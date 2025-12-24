@@ -37,8 +37,8 @@ const MuxDroneVideo = dynamic(() => import('../ram/MuxDroneVideo').then(m => m.M
 })
 // import Image from 'next/image'
 
-// You'll need to add your Mapbox token to your .env.local file
-const MAPBOX_TOKEN = process.env.NEXT_PUBLIC_MAPBOX_TOKEN || ''
+// Mapbox token with fallback
+const MAPBOX_TOKEN = process.env.NEXT_PUBLIC_MAPBOX_TOKEN || 'pk.eyJ1Ijoicm9tYW5hbGV4YW5kZXIiLCJhIjoiY2xycmZrYWpkMGRqbTJrbWs4azd5ZHgxeCJ9.lQL4Y2Lod-myxu2MhaBZ6A'
 
 // Mux Playback IDs for RAM drone videos
 const MUX_DRONE_PLAYBACK_IDS = {
